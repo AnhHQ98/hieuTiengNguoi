@@ -1,0 +1,18 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap');
+
+:root {
+    --primary-background-color: #000;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Roboto", serif;
+    text-rendering: optimizeSpeed;
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
