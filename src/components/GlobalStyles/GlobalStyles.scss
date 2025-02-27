@@ -3,7 +3,16 @@
 
 :root {
     --primary-background-color: #000;
+    --primary-text-color: green;
 
+    --default-layout-header-height: 60px;
+    --default-layout-width: 1296px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 html {
