@@ -1,9 +1,7 @@
-// nativeLanguage, intermediateLanguage , learningLanguage
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
-import { privateRoutes } from "~/routes";
-
-import { DefaultLayout } from "~/components/Layout";
+import { Fragment } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { privateRoutes } from '~/routes';
+import DefaultLayout from '~/layouts';
 
 function App() {
     return (
@@ -11,15 +9,23 @@ function App() {
             <div className="App">
                 <Routes>
                     {privateRoutes.map((route, index) => {
-                        const RouteLayout = route.layout || DefaultLayout;
-                        const RouteComponent = route.component;
+                        const Page = route.component;
+                        let Layout = DefaultLayout;
+
+                        if (route.layout) {
+                            Layout = route.layout;
+                        } else if (route.layout === null) {
+                            Layout = Fragment;
+                        }
 
                         return (
-                            <Route key={index} path={route.path}
+                            <Route
+                                key={index}
+                                path={route.path}
                                 element={
-                                    <RouteLayout>
-                                        <RouteComponent />
-                                    </RouteLayout>
+                                    <Layout>
+                                        <Page />
+                                    </Layout>
                                 }
                             />
                         );
