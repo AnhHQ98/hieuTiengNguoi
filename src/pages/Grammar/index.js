@@ -1,14 +1,6 @@
-import { Link } from "react-router-dom";
-import config from "~/config";
-
-function Grammar() {
-    return ( 
-        <ul>
-            <li>
-                <Link to={`${config.routes.grammar}/english`}>English grammar</Link>
-            </li>
-        </ul>
-    );
-}
-
-export default Grammar;
+export { default as Grammar } from './Grammar';
+export { default as EnglishGrammar } from './EnglishGrammar/EnglishGrammar';
+export { default as EnglishTenses } from './EnglishGrammar/EnglishTenses/EnglishTenses';
+export { default as PresentTense } from './EnglishGrammar/EnglishTenses/PresentTense';
+export { default as PastTense } from './EnglishGrammar/EnglishTenses/PastTense';
+export { default as FutureTense } from './EnglishGrammar/EnglishTenses/FutureTense';
