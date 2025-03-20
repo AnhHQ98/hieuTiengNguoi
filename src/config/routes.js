@@ -43,7 +43,7 @@ const routes = {
 
     // films
     films: '/films',
-
+    // phimmoi
     phimmoi: '/films/phimmoi',
 
     modern: '/films/phimmoi/modern',
@@ -53,11 +53,16 @@ const routes = {
     ancient: '/films/phimmoi/ancient',
 
     prehistoric: '/films/phimmoi/prehistoric',
-    
-    jurassic: '/films/phimmoi/prehistoric/jurassic',
-    
+
     iceAge: '/films/phimmoi/prehistoric/ice-age',
 
+    jurassic: '/films/phimmoi/prehistoric/jurassic',
+    
+    jurassicWorld: '/films/phimmoi/prehistoric/jurassic/world',
+    
+    jurassicPark: '/films/phimmoi/prehistoric/jurassic/park',
+
+    // actors
     actors: '/films/actors',
 };
 

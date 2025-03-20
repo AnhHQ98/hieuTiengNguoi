@@ -36,7 +36,10 @@ import {
 import {
     Films,
     Phimmoi,
-    Prehistoric
+    Prehistoric,
+    Jurassic,
+    JurassicWorld,
+    JurassicPark,
 } from '~/pages/Films';
 
 const publicRoutes = [
@@ -83,10 +86,17 @@ const privateRoutes = [
 
     // films
     { path: config.routes.films, component: Films },
-
+    // phimmoi
     { path: config.routes.phimmoi, component: Phimmoi },
 
     { path: config.routes.prehistoric, component: Prehistoric },
+
+    { path: config.routes.jurassic, component: Jurassic },
+
+    { path: config.routes.jurassicWorld, component: JurassicWorld },
+
+    { path: config.routes.jurassicPark, component: JurassicPark },
+    // actors
 ];
 
 export { publicRoutes, privateRoutes };
