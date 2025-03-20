@@ -33,7 +33,11 @@ import {
     SentenceStructure
 } from '~/pages/Grammar';
 
-import Films from '~/pages/Films';
+import {
+    Films,
+    Phimmoi,
+    Prehistoric
+} from '~/pages/Films';
 
 const publicRoutes = [
     
@@ -79,6 +83,10 @@ const privateRoutes = [
 
     // films
     { path: config.routes.films, component: Films },
+
+    { path: config.routes.phimmoi, component: Phimmoi },
+
+    { path: config.routes.prehistoric, component: Prehistoric },
 ];
 
 export { publicRoutes, privateRoutes };

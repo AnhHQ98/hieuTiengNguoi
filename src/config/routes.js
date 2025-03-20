@@ -43,6 +43,22 @@ const routes = {
 
     // films
     films: '/films',
+
+    phimmoi: '/films/phimmoi',
+
+    modern: '/films/phimmoi/modern',
+
+    medievel: '/films/phimmoi/medievel',
+
+    ancient: '/films/phimmoi/ancient',
+
+    prehistoric: '/films/phimmoi/prehistoric',
+    
+    jurassic: '/films/phimmoi/prehistoric/jurassic',
+    
+    iceAge: '/films/phimmoi/prehistoric/ice-age',
+
+    actors: '/films/actors',
 };
 
 export default routes;

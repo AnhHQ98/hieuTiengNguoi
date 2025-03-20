@@ -1,8 +1,17 @@
+import { Link } from "react-router-dom";
 
+import config from "~/config";
 
 function Films() {
-    return ( 
-        <h2>Films</h2>
+    return (
+        <ul>
+            <li>
+                <Link to={config.routes.actors}>Actors</Link>
+            </li>
+            <li>
+                <Link to={config.routes.phimmoi}>Films</Link>
+            </li>
+        </ul>
     );
 }
 
