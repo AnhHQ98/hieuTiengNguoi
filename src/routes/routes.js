@@ -38,8 +38,11 @@ import {
     Phimmoi,
     Prehistoric,
     Jurassic,
-    JurassicWorld,
+    // JurassicWorld,
     JurassicPark,
+    JurassicPark_part1,
+    JurassicPark_part2,
+    JurassicPark_part3,
 } from '~/pages/Films';
 
 const publicRoutes = [
@@ -93,9 +96,13 @@ const privateRoutes = [
 
     { path: config.routes.jurassic, component: Jurassic },
 
-    { path: config.routes.jurassicWorld, component: JurassicWorld },
+    // { path: config.routes.jurassicWorld, component: JurassicWorld },
 
     { path: config.routes.jurassicPark, component: JurassicPark },
+    { path: config.routes.jurassicPark_part1, component: JurassicPark_part1 },
+    { path: config.routes.jurassicPark_part2, component: JurassicPark_part2 },
+    { path: config.routes.jurassicPark_part3, component: JurassicPark_part3 },
+
     // actors
 ];
 

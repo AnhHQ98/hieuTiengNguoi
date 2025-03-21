@@ -2,11 +2,12 @@ function FilmInfo({ filmJson, partJson }) {
     return (
         <div>
             <h3>
-                ({partJson.year}) {filmJson.englishName} {partJson.part}
+                {filmJson.englishName} {partJson.part}
             </h3>
-            <h4>Directed by: {filmJson.director}</h4>
-            <h5>Country: {filmJson.country}</h5>
-            <h5>Duration: {partJson.duration} minutes</h5>
+            <h4>Director: {filmJson.director}</h4>
+            <p>Year: {partJson.year}</p>
+            <p>Country: {filmJson.country}</p>
+            <p>Duration: {partJson.duration}</p>
         </div>
     );
 }
