@@ -1,20 +1,25 @@
 import FilmInfo from '~/layouts/components/FilmInfo';
 
-import JurassicParkJson from '../JurassicPark.json';
+import {
+    JurassicPark_json,
+    JurassicPark1_json,
+    scene1_JurassicPark1_json,
+    scene2_JurassicPark1_json,
+    scene3_JurassicPark1_json,
+} from '~/data/json/phimmoi';
 
-import part1Json from './JurassicPark1.json';
-import scene1Json from './scene1_JurassicPark1.json';
-import scene2Json from './scene2_JurassicPark1.json';
-import scene3Json from './scene3_JurassicPark1.json';
-
-const scenesJson = [scene1Json, scene2Json, scene3Json];
+const scenes_json = [
+    scene1_JurassicPark1_json,
+    scene2_JurassicPark1_json,
+    scene3_JurassicPark1_json,
+];
 
 function JurassicPark1() {
     return (
         <FilmInfo
-            filmJson={JurassicParkJson}
-            partJson={part1Json}
-            scenesJson={scenesJson}
+            film_json={JurassicPark_json}
+            part_json={JurassicPark1_json}
+            scenes_json={scenes_json}
         />
     )
 }

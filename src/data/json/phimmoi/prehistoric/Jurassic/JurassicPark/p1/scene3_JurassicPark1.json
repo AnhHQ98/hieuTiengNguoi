@@ -1,0 +1,14 @@
+[
+    {
+        "shotNumber": 1,
+        "frame": "hinh anh tinh tai thoi diem nhan vat noi",
+        "character": {
+            "dialogueFace": "",
+            "name": "khung long bao chua"
+        },
+        "subtitle": {
+            "engSub": "loi thoai tieng anh",
+            "vietSub": "loi thoai tieng viet"
+        }
+    }
+]

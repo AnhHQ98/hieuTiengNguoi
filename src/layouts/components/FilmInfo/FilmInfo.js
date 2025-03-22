@@ -4,37 +4,38 @@ import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
-function FilmInfo({ filmJson, partJson, scenesJson }) {
+function FilmInfo({ film_json, part_json, scenes_json }) {
     const [selectedSceneIndex, setSelectedSceneIndex] = useState(null);
 
     return (
         <div>
             <div className={cx('filmInfomation')}>
-                <h3>
-                    {filmJson.englishName} {partJson.part}
-                </h3>
-                <h4>Director: {filmJson.director}</h4>
-                <p>Year: {partJson.year}</p>
-                <p>Country: {filmJson.country}</p>
-                <p>Duration: {partJson.duration}</p>
+                <h3>{film_json.englishName} {part_json.part}</h3>
+                <h4>Director: {film_json.director}</h4>
+                <p>Year: {part_json.year}</p>
+                <p>Country: {film_json.country}</p>
+                <p>Duration: {part_json.duration}</p>
             </div>
-            <ul className={cx('scenes')}>
-                {scenesJson.map((_, index) => (
+
+            <ol className={cx('sceneList')}>
+                {scenes_json.map((_, index) => (
                     <li key={index} onClick={() => setSelectedSceneIndex(index)}>
                         Scene {index + 1}
                     </li>
                 ))}
-            </ul>
-            <div className={cx('sceneContent')}>
-                {selectedSceneIndex !== null && (
-                    <div>
-                        <h4>Character: {scenesJson[selectedSceneIndex].character}</h4>
-                        <p>Frame: {scenesJson[selectedSceneIndex].frame}</p>
-                        <p>English Sub: {scenesJson[selectedSceneIndex].engSub}</p>
-                        <p>Vietnamese Sub: {scenesJson[selectedSceneIndex].vietSub}</p>
-                    </div>
-                )}
-            </div>
+            </ol>
+
+            {selectedSceneIndex !== null && (
+                <div className={cx('sceneContent')}>
+                    {scenes_json[selectedSceneIndex].map((shot, index) => (
+                        <div key={index} className={cx('shot')}>
+                            <p>Character: {shot.character.name}</p>
+                            <p>VietSub: {shot.subtitle.vietSub}</p>
+                            <p>EngSub: {shot.subtitle.engSub}</p>
+                        </div>
+                    ))}
+                </div>
+            )}
         </div>
     );
 }
