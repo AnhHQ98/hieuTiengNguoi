@@ -40,9 +40,9 @@ import {
     Jurassic,
     // JurassicWorld,
     JurassicPark,
-    JurassicPark_part1,
-    JurassicPark_part2,
-    JurassicPark_part3,
+    JurassicPark1,
+    JurassicPark2,
+    JurassicPark3,
 } from '~/pages/Films';
 
 const publicRoutes = [
@@ -99,9 +99,9 @@ const privateRoutes = [
     // { path: config.routes.jurassicWorld, component: JurassicWorld },
 
     { path: config.routes.jurassicPark, component: JurassicPark },
-    { path: config.routes.jurassicPark_part1, component: JurassicPark_part1 },
-    { path: config.routes.jurassicPark_part2, component: JurassicPark_part2 },
-    { path: config.routes.jurassicPark_part3, component: JurassicPark_part3 },
+    { path: config.routes.jurassicPark1, component: JurassicPark1 },
+    { path: config.routes.jurassicPark2, component: JurassicPark2 },
+    { path: config.routes.jurassicPark3, component: JurassicPark3 },
 
     // actors
 ];

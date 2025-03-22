@@ -61,9 +61,9 @@ const routes = {
     jurassicWorld: '/films/phimmoi/prehistoric/jurassic-world',
     
     jurassicPark: '/films/phimmoi/prehistoric/jurassic-park',
-    jurassicPark_part1: '/films/phimmoi/prehistoric/jurassic-park/part1',
-    jurassicPark_part2: '/films/phimmoi/prehistoric/jurassic-park/part2',
-    jurassicPark_part3: '/films/phimmoi/prehistoric/jurassic-park/part3',
+    jurassicPark1: '/films/phimmoi/prehistoric/jurassic-park/part1',
+    jurassicPark2: '/films/phimmoi/prehistoric/jurassic-park/part2',
+    jurassicPark3: '/films/phimmoi/prehistoric/jurassic-park/part3',
 
     // actors
     actors: '/films/actors',

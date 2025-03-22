@@ -1,4 +1,4 @@
-function JurassicPark_part2() {
+function JurassicPark2() {
     return (
         <div>
 day la phan 2 phim cong vien ky jura
@@ -6,4 +6,4 @@ day la phan 2 phim cong vien ky jura
     );
 }
 
-export default JurassicPark_part2;
+export default JurassicPark2;
