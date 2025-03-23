@@ -40,30 +40,20 @@ const routes = {
     chineseGrammar: '/grammar/chinese',
     koreanGrammar: '/grammar/korean',
     frenchGrammar: '/grammar/french',
-// 
+
     // films
     films: '/films',
     // phimmoi
     phimmoi: '/films/phimmoi',
 
-    modern: '/films/phimmoi/modern',
+    iceAge: '/films/phimmoi/ice-age',
 
-    medievel: '/films/phimmoi/medievel',
+    jurassicWorld: '/films/phimmoi/jurassic-world',
 
-    ancient: '/films/phimmoi/ancient',
-
-    prehistoric: '/films/phimmoi/prehistoric',
-
-    iceAge: '/films/phimmoi/prehistoric/ice-age',
-
-    jurassic: '/films/phimmoi/prehistoric/jurassic',
-    
-    jurassicWorld: '/films/phimmoi/prehistoric/jurassic-world',
-    
-    jurassicPark: '/films/phimmoi/prehistoric/jurassic-park',
-    jurassicPark1: '/films/phimmoi/prehistoric/jurassic-park/part1',
-    jurassicPark2: '/films/phimmoi/prehistoric/jurassic-park/part2',
-    jurassicPark3: '/films/phimmoi/prehistoric/jurassic-park/part3',
+    jurassicPark: '/films/phimmoi/jurassic-park',
+    jurassicPark1: '/films/phimmoi/jurassic-park/part1',
+    jurassicPark2: '/films/phimmoi/jurassic-park/part2',
+    jurassicPark3: '/films/phimmoi/jurassic-park/part3',
 
     // actors
     actors: '/films/actors',

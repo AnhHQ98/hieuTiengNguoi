@@ -1,5 +1,7 @@
 import FilmInfo from '~/layouts/components/FilmInfo';
 
+import frame_scene1_JurassicPark1 from '~/assets/images/phimmoi/prehistoric/Jurassic/JurassicPark/p1/scene1';
+
 import {
     JurassicPark_json,
     JurassicPark1_json,
@@ -7,6 +9,10 @@ import {
     scene2_JurassicPark1_json,
     scene3_JurassicPark1_json,
 } from '~/data/json/phimmoi';
+
+const frame_JurassicPark1 = [
+    frame_scene1_JurassicPark1
+];
 
 const scenes_json = [
     scene1_JurassicPark1_json,
@@ -20,8 +26,9 @@ function JurassicPark1() {
             film_json={JurassicPark_json}
             part_json={JurassicPark1_json}
             scenes_json={scenes_json}
+            frames={frame_JurassicPark1}
         />
-    )
+    );
 }
 
 export default JurassicPark1;

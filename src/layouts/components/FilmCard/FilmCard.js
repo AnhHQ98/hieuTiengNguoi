@@ -1,7 +1,7 @@
-function FilmCard({ filmJson, partJson }) {
+function FilmCard({ film_json, part_json }) {
     return (
         <div>
-            <h3>{filmJson.englishName} {partJson.part}</h3>
+            <h3>({part_json.year}) {film_json.englishName} {part_json.part}</h3>
         </div>
     );
 }

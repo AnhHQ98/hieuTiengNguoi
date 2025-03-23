@@ -4,13 +4,15 @@ import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
-function FilmInfo({ film_json, part_json, scenes_json }) {
+function FilmInfo({ film_json, part_json, scenes_json, frames }) {
     const [selectedSceneIndex, setSelectedSceneIndex] = useState(null);
 
     return (
         <div>
             <div className={cx('filmInfomation')}>
-                <h3>{film_json.englishName} {part_json.part}</h3>
+                <h3>
+                    {film_json.englishName} {part_json.part}
+                </h3>
                 <h4>Director: {film_json.director}</h4>
                 <p>Year: {part_json.year}</p>
                 <p>Country: {film_json.country}</p>
@@ -29,9 +31,14 @@ function FilmInfo({ film_json, part_json, scenes_json }) {
                 <div className={cx('sceneContent')}>
                     {scenes_json[selectedSceneIndex].map((shot, index) => (
                         <div key={index} className={cx('shot')}>
-                            <p>Character: {shot.character.name}</p>
-                            <p>VietSub: {shot.subtitle.vietSub}</p>
-                            <p>EngSub: {shot.subtitle.engSub}</p>
+                            {frames[selectedSceneIndex] && frames[selectedSceneIndex][index] && (
+                                <img src={frames[selectedSceneIndex][index]} alt={`Shot ${index + 1}`} />
+                            )}
+                            <div className={cx('shotContent')}>
+                                <p>Character: {shot.character.name}</p>
+                                <p>VietSub: {shot.subtitle.vietSub}</p>
+                                <p>EngSub: {shot.subtitle.engSub}</p>
+                            </div>
                         </div>
                     ))}
                 </div>

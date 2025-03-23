@@ -37,6 +37,7 @@ import {
     Films,
     Phimmoi,
     Prehistoric,
+    IceAge,
     Jurassic,
     // JurassicWorld,
     JurassicPark,
@@ -92,7 +93,7 @@ const privateRoutes = [
     // phimmoi
     { path: config.routes.phimmoi, component: Phimmoi },
 
-    { path: config.routes.prehistoric, component: Prehistoric },
+    { path: config.routes.iceAge, component: IceAge },
 
     { path: config.routes.jurassic, component: Jurassic },
 

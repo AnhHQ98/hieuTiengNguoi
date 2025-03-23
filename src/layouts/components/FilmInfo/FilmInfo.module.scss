@@ -1,0 +1,12 @@
+.shot {
+    display: flex;
+
+    img {
+        width: 50%;
+        object-fit: contain;
+    }
+
+    .shotContent {
+        width: 50%;
+    }
+}

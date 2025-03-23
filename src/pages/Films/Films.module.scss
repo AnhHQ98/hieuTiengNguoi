@@ -1,0 +1,37 @@
+// .menuTree {
+//   font-size: 16px;
+//   color: #0f0;
+// }
+
+// /* Phần tử cấp 1 như "Actors" */
+// .item {
+//   margin-bottom: 8px;
+//   cursor: pointer;
+// }
+
+// .detailsTag {
+//   margin-bottom: 8px;
+// }
+
+// .summaryTag {
+//   cursor: pointer;
+//   list-style: none;
+//   display: block;
+
+//   // ❗ Ẩn tam giác mặc định
+//   &::-webkit-details-marker {
+//     display: none;
+//   }
+// }
+
+// /* Danh sách con */
+// .submenu {
+//   list-style: none;
+//   padding-left: 20px;
+//   margin: 4px 0;
+// }
+
+// .submenu li {
+//   margin: 4px 0;
+//   cursor: pointer;
+// }

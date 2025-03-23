@@ -4,6 +4,8 @@ export { default as Phimmoi } from './phimmoi/Phimmoi';
 
 export { default as Prehistoric } from './phimmoi/prehistoric/Prehistoric';
 
+export { default as IceAge } from './phimmoi/prehistoric/IceAge/IceAge';
+
 export { default as Jurassic } from './phimmoi/prehistoric/Jurassic/Jurassic';
 
 export { default as JurassicWorld } from './phimmoi/prehistoric/Jurassic/JurassicWorld/JurassicWorld';
