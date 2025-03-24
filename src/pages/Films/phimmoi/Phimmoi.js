@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import config from '~/config';
 
 import classNames from 'classnames/bind';
-import styles from './Phimmoi.module.scss';
-const cx = classNames.bind(styles);
+import menuTreeStyles from '~/components/MenuTree.module.scss';
+const cx = classNames.bind(menuTreeStyles);
 
 function Phimmoi() {
     return (
@@ -23,11 +23,11 @@ function Phimmoi() {
                 <Link className={cx('menuLevel2')} to={config.routes.iceAge}>Ice Age</Link>
                 <details className={cx('menuGroup', 'menuLevel2')}>
                     <summary className={cx('menuLabel')}>Jurassic</summary>
-                    <ul className={cx('filmList')}>
-                        <li className={cx('menuLevel3')}>
+                    <ul className={cx('menuList', 'menuLevel3')}>
+                        <li>
                             <Link to={config.routes.jurassicWorld}>Jurassic World</Link>
                         </li>
-                        <li className={cx('menuLevel3')}>
+                        <li>
                             <Link to={config.routes.jurassicPark}>Jurassic Park</Link>
                         </li>
                     </ul>

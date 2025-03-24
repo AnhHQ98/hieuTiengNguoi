@@ -3,13 +3,14 @@ import config from '~/config';
 import Home from '~/pages/Home';
 
 import {
+    Vocabulary,
     Alphabet,
     EnglishAlphabet,
     JapaneseAlphabet,
     ChineseAlphabet,
     KoreanAlphabet,
     FrenchAlphabet,
-} from '~/pages/Alphabet';
+} from '~/pages/Vocabulary';
 
 import {
     Grammar,
@@ -36,7 +37,6 @@ import {
 import {
     Films,
     Phimmoi,
-    Prehistoric,
     IceAge,
     Jurassic,
     // JurassicWorld,
@@ -52,6 +52,9 @@ const publicRoutes = [
 
 const privateRoutes = [
     { path: config.routes.home, component: Home },
+
+    // vocabulary
+    { path: config.routes.vocabulary, component: Vocabulary },
 
     // alphabet
     { path: config.routes.alphabet, component: Alphabet },

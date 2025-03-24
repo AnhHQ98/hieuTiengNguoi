@@ -3,11 +3,14 @@ const routes = {
 
     // alphabet
     alphabet: '/alphabet',
-    englishAlphabet: '/alphabet/english',
-    japaneseAlphabet: '/alphabet/japanese',
-    chineseAlphabet: '/alphabet/chinese',
-    koreanAlphabet: '/alphabet/korean',
-    frenchAlphabet: '/alphabet/french',
+    englishAlphabet: '/vocabulary/english-alphabet',
+    japaneseAlphabet: '/vocabulary/japanese-alphabet',
+    chineseAlphabet: '/vocabulary/chinese-alphabet',
+    koreanAlphabet: '/vocabulary/korean-alphabet',
+    frenchAlphabet: '/vocabulary/french-alphabet',
+
+    // vocabulary
+    vocabulary: '/vocabulary',
 
     // grammar
     grammar: '/grammar',

@@ -3,7 +3,7 @@
         "shotNumber": 1,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
@@ -12,10 +12,10 @@
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 2,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
@@ -24,363 +24,147 @@
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 3,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": "Đây là 20 triệu đô la đền bù cho gia đình người công nhân thiệt mạng"
+            "vietSub": "Đây là 20 triệu đô la đền bù cho gia đình người công nhân thiệt mạng và Hammond không thèm gặp tôi sao?"
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 4,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Anh ta đã đi từ sớm, con gái anh ta sắp ly hôn."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 5,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Tôi hiểu, nhưng ta phải giải quyết chuyện này ngay bây giờ. Công ty bảo hiểm..."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 6,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Ông có sao không?"
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 7,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Nguyên đơn cho rằng tai nạn đã làm nổi bật... những vấn đề an toàn của công viên. Điều này làm các nhà đầu tư rất lo lắng. Tôi đã phải hứa sẽ thanh tra toàn bộ hiện trường."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 8,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Hammond ghét thanh tra. Chúng khiến mọi việc bị chậm lại."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 9,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Họ sẽ cắt tài trợ. Điều đó càng khiến mọi việc chậm hơn."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 10,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Coi chừng cái đầu."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 11,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Nếu có 2 chuyên gia bảo đảm cho dự án, bên bảo hiểm sẽ rút đơn. Tôi định nhận lại Manlcom, nhưng anh ta quá đồng bóng. Họ muốn Alan Grant."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 12,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Grant? Anh không thể kéo anh ta ra khỏi Montana đâu."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 13,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Tại sao không? Tại sao không?"
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 14,
         "frame": "",
         "character": {
-            "dialogueFace": "",
+            "face": "",
             "name": ""
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "dialogueFace": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
+            "vietSub": "Bởi vì Grant giống tôi. Anh ta thích đào bới."
         }
     }
 ]
