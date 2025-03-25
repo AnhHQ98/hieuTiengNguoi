@@ -9,6 +9,8 @@ import {
     scene2_JurassicPark1_json,
     scene3_JurassicPark1_json,
     scene4_JurassicPark1_json,
+    scene5_JurassicPark1_json,
+    scene6_JurassicPark1_json,
 } from '~/data/json/phimmoi';
 
 const frame_JurassicPark1 = [
@@ -20,6 +22,8 @@ const scenes_json = [
     scene2_JurassicPark1_json,
     scene3_JurassicPark1_json,
     scene4_JurassicPark1_json,
+    scene5_JurassicPark1_json,
+    scene6_JurassicPark1_json,
 ];
 
 function JurassicPark1() {
