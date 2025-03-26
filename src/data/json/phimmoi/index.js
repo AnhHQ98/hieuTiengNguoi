@@ -10,5 +10,7 @@ export { default as scene6_JurassicPark1_json } from './prehistoric/Jurassic/Jur
 export { default as scene7_JurassicPark1_json } from './prehistoric/Jurassic/JurassicPark/part1/scene7_JurassicPark1.json';
 
 export { default as JurassicPark2_json } from './prehistoric/Jurassic/JurassicPark/part2/JurassicPark2.json';
+export { default as scene1_JurassicPark2_json } from './prehistoric/Jurassic/JurassicPark/part2/scene1_JurassicPark2.json';
+export { default as scene2_JurassicPark2_json } from './prehistoric/Jurassic/JurassicPark/part2/scene2_JurassicPark2.json';
 
 export { default as JurassicPark3_json } from './prehistoric/Jurassic/JurassicPark/part3/JurassicPark3.json';

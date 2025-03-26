@@ -11,7 +11,7 @@ function FilmInfo({ film_json, part_json, scenes_json }) {
         <div>
             <div className={cx('filmInfomation')}>
                 <h3>
-                    {film_json.englishName} {part_json.part}
+                    {film_json.englishName} {part_json.part}: {part_json.englishPartTitle}
                 </h3>
                 <h4>Director: {film_json.director}</h4>
                 <p>Year: {part_json.year}</p>
