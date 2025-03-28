@@ -9,8 +9,7 @@ import {
     JurassicPark1_json,
     JurassicPark2_json,
     JurassicPark3_json,
-} from '~/data/json/phimmoi';
-
+} from '~/data/json/phimmoi/prehistoric/Jurassic/JurassicPark';
 
 function JurassicPark() {
     return (
