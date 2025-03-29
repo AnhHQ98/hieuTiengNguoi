@@ -4,11 +4,23 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Peter Ludlow"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Cách đây 15 năm, John Hammond có một giấc mơ. Cũng y như John, giấc mơ thật vĩ đại, ngoại cỡ, táo bạo, phi lý, không thể có. Trong nửa giờ nữa, giấc mơ của John Hammond sẽ biến thành sự thật. Với 1% giá thành xây dựng khu giải trí cách đây hàng ngàn dặm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đây có phải công ty Ludlow không?"
         }
     },
     {
@@ -20,7 +32,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Đây là tài sản cá nhân."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, chúng tôi có trong danh sách."
         }
     },
     {
@@ -32,7 +56,55 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Ông bà phải quay lại. Về xe đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đây là Tiến sĩ Harding, tôi là Tiến sĩ Malcolm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng tôi có kết quả xét nghiệm của Ludlow."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Có tin tốt và tin xấu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đêm nay chúng ta sẽ khai trương công viên Kỷ Jura San Diego, với sự siêu hấp dẫn để cạnh tranh với bất cứ công việc giải trí nào trên thế giới. Tôi muốn cảm ơn quý vị đã can đảm dành cho chút thời gian sáng nay."
         }
     },
     {
@@ -44,7 +116,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Tàu đến rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Sớm thế à?"
         }
     },
     {
@@ -56,7 +140,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Ông đi thì hay hơn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Thật thú vị. Có thấy cặp kia không?"
         }
     },
     {
@@ -68,7 +164,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Ngày cần xem cái này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Hãy để họ xem thật gần."
         }
     },
     {
@@ -80,7 +188,7 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Vâng, thưa ngài Ludlow."
         }
     },
     {
@@ -92,7 +200,7 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Để tôi xem. Tôi muốn liên lạc trực tiếp với Phòng vệ bờ biển gấp."
         }
     },
     {
@@ -104,7 +212,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Này, tín hiệu của tàu họ đấy. Venture-5888. Họ đang hướng vào cảng, nhưng tôi không liên lạc được."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Thử lại lần nữa."
         }
     },
     {
@@ -116,7 +236,7 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Thuyền trưởng S.S Venture, cảng InGen đây. Nghe thấy không? Thuyền trưởng S.S Venture, anh đang tiếp cận đê chắn sóng với tốc độ cao. Giảm tốc độ ngay. Thuyền trưởng S.S Venture, giảm tốc độ ngay. Thuyền trưởng S.S Venture, cảng Ingen đây. Anh đang vào cầu tàu."
         }
     },
     {
@@ -124,11 +244,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Sarah Harding"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Người ta nhìn cái gì vậy?"
         }
     },
     {
@@ -136,131 +256,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Ian Malcolm"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
+            "vietSub": "Mình ở lại xe mới phải."
         }
     },
     {

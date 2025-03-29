@@ -8,9 +8,13 @@ import {
     scene3_JurassicPark2_json,
     scene4_JurassicPark2_json,
     scene5_JurassicPark2_json,
+    scene6_JurassicPark2_json,
+    scene7_JurassicPark2_json,
+    scene8_JurassicPark2_json,
+    scene9_JurassicPark2_json,
 } from '~/data/json/phimmoi/prehistoric/Jurassic/JurassicPark';
 
-const frame_JurassicPark2 = [];
+const frames_JurassicPark2 = [];
 
 const scenes_json = [
     scene1_JurassicPark2_json,
@@ -19,6 +23,9 @@ const scenes_json = [
     scene4_JurassicPark2_json,
     scene5_JurassicPark2_json,
     scene6_JurassicPark2_json,
+    scene7_JurassicPark2_json,
+    scene8_JurassicPark2_json,
+    scene9_JurassicPark2_json,
 ];
 
 function JurassicPark2() {
@@ -27,7 +34,7 @@ function JurassicPark2() {
             film_json={JurassicPark_json}
             part_json={JurassicPark2_json}
             scenes_json={scenes_json}
-            frames={frame_JurassicPark2}
+            frames={frames_JurassicPark2}
         />
     );
 }
