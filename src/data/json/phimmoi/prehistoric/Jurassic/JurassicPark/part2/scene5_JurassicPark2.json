@@ -172,11 +172,83 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Sarah Harding"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Anh khùng quá. Ian không thích chuyện này đâu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Có chuyện gì thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chưa rõ hay sao? Không chỉ có một mình chúng ta trên đảo."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không bắt được tần số."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Xem đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chuyện quái gì thế này?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Rồi, ngay đây. Xin chào."
         }
     },
     {
@@ -188,7 +260,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "<i>Xin chào.</i>"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Buenos Dias đây."
         }
     },
     {
@@ -200,7 +284,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "<i>Enrique có đấy không?</i>"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, không phải Enrique. Ian Malcolm đây. Ông có trên tàu chứ?"
         }
     },
     {
@@ -212,7 +308,175 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "<i>Enrique hả?</i>"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, phải tàu đấy không? Chúng tôi đang ở đảo Sorna. Chúng tôi muốn nói chuyện với tàu, thưa bà."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Để tôi đỡ nó. Được rồi, được rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Mau lên Nick."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được rồi, đi thôi nào. Để ý đuôi nó. Mở cửa đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bà ấy bực mình với bố rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố rất tiếc cho gã Enrique ấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ian, làm ơn đừng có nói nữa. Kelly, lùi lại. Đừng có đứng đấy. Coi chừng đầu nó."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không được, không."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ian, tôi đi lấy bàn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Coi chừng cái đuôi. Nó quất cái đuôi lung tung."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Rồi, được rồi. Xong chưa?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đến nơi rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tôi phải làm gì nó? Lấy gậy đập à? Đừng có đến gần, đừng có đứng gần quá."
         }
     },
     {
@@ -224,7 +488,55 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "<i>Enrique? Enrique có đấy không?</i>"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, thưa bà. Đủ rồi. Lộn tần số, trời đất ơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nick, đừng để nó đụng vào đồ quanh anh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Xin chào. Ian Malcolm đây. Có việc quan trọng..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nhìn vào đây nhé."
         }
     },
     {
@@ -236,7 +548,7 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Bình tĩnh."
         }
     },
     {
@@ -244,11 +556,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Sarah Harding"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Rồi, đây là con Metatarsal. Đây rồi, có chỗ gãy, ngay mỏm xương."
         }
     },
     {
@@ -256,11 +568,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Nick Van Owen"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Có nặng không?"
         }
     },
     {
@@ -268,11 +580,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Sarah Harding"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Nếu ta không băng lại, thẳng nhỏ sẽ chết. Xương mác không liền thẳng được. Nó không quay được trên xương mắt cá. Nó sẽ không chạy hoặc đi nổi. Dã thú sẽ ăn thịt nó."
         }
     },
     {
@@ -280,11 +592,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Ian Malcolm"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Không, Carlos, nói đi. Đồ quỷ sứ chết tiệt. Nghe này, nghe này..."
         }
     },
     {
@@ -292,11 +604,11 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Những con khác sẽ nghe thấy nó."
         }
     },
     {
@@ -304,11 +616,1103 @@
         "frame": "",
         "character": {
             "face": "",
-            "name": ""
+            "name": "Ian Malcolm"
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Vào đi. Nghe thấy không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố, con muốn ra khỏi đây. Con phải ra."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố đang gọi tàu con ạ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Con muốn đến chỗ khác. Con không muốn ở đây. Con muốn ở chỗ nào an toàn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đây không an toàn sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, con muốn ở chỗ nào cao ấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Cái gì thế? Có chuyện gì vậy? Thông tin đi nào. Cái gì?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nếu không biết ông sẽ vui hơn nhiều. Đưa chúng tôi lên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Con khùng thật. Lẽ ra con đừng đến đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được chưa?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Rồi, tôi chỉ cần cái gì đó tạm thời thôi. Khi nó lớn, nó sẽ tự rời ra."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Lúc chị xong, nó sẽ gây rối ở đây mất, tiến sĩ Quinn ạ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Eddie, tần số của tàu là bao nhiêu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "15/8, thứ ba từ trên xuống."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được rồi, mình cao rồi. Bố nghĩ đây là chỗ an toàn nhất mà con có. Có nhớ cô Sarah nói không? Những cái cây này làm cho bọn thú không biết con ở đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố dụ để con dễ chịu hơn. Con nhớ những chuyện bố kể với con rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, không. Chuyện này không giống thế. Chúng ta đang ở trong một tình thế hoàn toàn khác. Eddie, có cách nào liên lạc được với đoàn xe không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nó lại cựa quậy. Cho thêm một mũi morphine."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng ta không biết sự chuyển hoá của nó ra sao. Nếu quá liều chúng ta sẽ giết nó. Chúng ta sẽ cho nó vào máy trợ hô hấp. Giúp tôi một tay, đè vào đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không ai trả lời, lạ thật. Làm sao tôi xuống đây?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Cột cái đai này vào."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố đi đâu đấy? Ở lại đây đi bố, ở lại đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Xiết chặt dây vào."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Kìa bố, bố đi đâu thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Xiết càng chặt xuống càng chậm. Sao chẳng chịu xiết gì cả?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tôi biết rồi, biết rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố, ở lại đi, nhé?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bố, ở lại đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Con gái, nữ hoàng, nữ chúa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nguồn cảm hứng của bố."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Con nói đấy nhé. Bố quay lại ngay. Bố hứa với con."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nhưng bố có giữ lời bao giờ đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nếu là tôi, tôi sẽ xiết chặt hơn một tí."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Rồi, sắp xong rồi. Chết thật, tôi cần chút keo. Cái gì dẻo một chút... Nhổ ra. Nhổ kẹo gum ấy. Lấy lọ amoxicilin bơm vào ống chích. Chích nhanh một liều kháng sinh rồi tôi cho nó ra."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Một lần trong đời thôi, nó sẽ giết các người mất. Giúp tôi đưa nó ra ngoài."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không được, em mới..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Mẹ nó rất giận dữ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đó không phải là nó săn mồi, không phải Ian ạ. Chúng đang tìm. Chúng đến tìm con."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đừng làm chúng thất vọng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Để tôi đỡ đầu nó nhé. Cẩn thận đấy. Được rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Banh miệng nó ra."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Eddie à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ừ, chúng... đang quay vào rừng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tôi biết rồi. Kelly thế nào?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không sao. Nó đang ở đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "A lô."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Kelly, con không việc gì chứ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Vâng, không sao."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tốt. Này, cứ ở đấy nhé. Đừng đi đâu. Bố quay lại ngay, hiểu chưa?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Vâng, hiểu rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tôi phải van xin mọi người nghe tôi. Tôi dùng thứ tiếng Anh đơn giản, rõ ràng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Im đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đó là một chương thú vị trong cuốn sách của em hả?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Em nghĩ rằng tranh cãi về bản năng làm mẹ của loài T.rex lúc này thì... hàn lâm quá."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bám cho chắc. Tình hình xấu đấy. Chúng đẩy mình ra vách đá."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ôi Chúa ơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Cố lên, cố lên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Khi ra khỏi đây..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chạy thẳng vào rừng. Cố lên, Cố lên. Đây là chỗ nó đập mình đây. Bám chặt vào cái gì ngay."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bám chặt vào."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ian. Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ["Nick Van Owen", "Ian Malcolm"]
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúa ơi, cứu con."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đừng động đậy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Anh xuống ngay, anh xuống ngay đây. Ở yên đó. Anh đến đây, Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nick."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Hả?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Lấy điện thoại luôn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Đưa tay đây, đưa tay cho anh nào. Sarah, Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Quay đầu lên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ba lô may mắn của em đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Được rồi, xong rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ian, Sarah, Nick. Nick hả?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng tôi ở trong này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chờ chút. Tôi đến ngay. Tôi đến ngay. Chết tiệt. Tôi đến ngay. Chuyện gì thế này?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Kelly thế nào rồi?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nó không sao. Nó đang trốn ở trên cao. Có ai bị thương không? Có cần gì không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng tôi cần dây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Dây. Còn gì nữa không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Còn. 3 bánh mì phô mai to gấp đôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không bỏ hành."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Một bánh nhân táo nữa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Bám cho chắc vào. Tôi đến ngay."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tốt lắm. Ông có cột vào cái gì không đấy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng tôi đang trượt. Chúng tôi đang trượt xuống."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Lên đi. Lên đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Này, này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Cố lên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tăng sức rướn lên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Cố lên."
         }
     }
 ]

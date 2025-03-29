@@ -18,6 +18,7 @@ const scenes_json = [
     scene3_JurassicPark2_json,
     scene4_JurassicPark2_json,
     scene5_JurassicPark2_json,
+    scene6_JurassicPark2_json,
 ];
 
 function JurassicPark2() {

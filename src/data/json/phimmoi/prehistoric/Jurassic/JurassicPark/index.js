@@ -15,5 +15,6 @@ export { default as scene2_JurassicPark2_json } from './part2/scene2_JurassicPar
 export { default as scene3_JurassicPark2_json } from './part2/scene3_JurassicPark2.json';
 export { default as scene4_JurassicPark2_json } from './part2/scene4_JurassicPark2.json';
 export { default as scene5_JurassicPark2_json } from './part2/scene5_JurassicPark2.json';
+export { default as scene6_JurassicPark2_json } from './part2/scene6_JurassicPark2.json';
 
 export { default as JurassicPark3_json } from './part3/JurassicPark3.json';
