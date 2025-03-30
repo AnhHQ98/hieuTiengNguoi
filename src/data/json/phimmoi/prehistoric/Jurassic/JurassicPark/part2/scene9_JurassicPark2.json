@@ -272,7 +272,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Ngài có sao không, Ludlow?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tôi không biết. Trông tôi thế nào."
         }
     },
     {
@@ -284,7 +296,7 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Đỡ người này dậy."
         }
     },
     {
@@ -296,7 +308,19 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "Chúa ơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Thuỷ thủ đoàn đâu?"
         }
     },
     {
@@ -308,7 +332,247 @@
         },
         "subtitle": {
             "engSub": "",
-            "vietSub": ""
+            "vietSub": "La liệt khắp nơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Soát dưới khoang hàng. Chắc họ ở dưới đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tất cả rời tàu ngay. Không, buông cái đó ra. Bây giờ ông là John Hammond."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chạy mau, đừng có ngoái lại."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Tại sao ông gây mê nó?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Roland đã bắn 2 mũi carfentanil đậm đặc. Trên 10 mg."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "10 mg lẽ ra phải làm nó hôn mê."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nó ngừng thở nên chúng tôi chích naltrexon để giảm tác dụng. Nhưng không biết chích bao nhiêu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Anh điều khiển gây mê mà không biết bao nhiêu là vừa à? Bây giờ nó là cái đầu máy xe lửa rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chúng tôi đã chuẩn bị điều này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Còn con khủng long nào trên tàu không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không, chúng tôi đưa con nó về bằng máy bay. Đây, chúng tôi dùng cái này để gây mê."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Này. Ông giữ con nó à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "An toàn rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ian, con thú bị mất nước. Việc đầu tiên nó làm là sẽ đi tìm nguồn nước. Sau đó nó sẽ tìm nhu cầu thể xác của nó. Các thiết bị kiềm chế đều ở đây. Chúng ta phải đưa nó về cảng. Tàu có thể đi biển được."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Em nói gì thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Khi mình đem con nó vào toa xe, nó đã tới. Chẳng có lý do gì mà nó sẽ không làm thế ở đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ừ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Con nó đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ở trong một phương tiện an toàn. Sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Phương tiện đâu?"
         }
     }
 ]

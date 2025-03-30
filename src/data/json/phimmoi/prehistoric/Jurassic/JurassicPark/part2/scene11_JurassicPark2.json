@@ -1,0 +1,98 @@
+[
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chậm lại. Ê, chạy chậm lại."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Nó đây rồi. Nó bị gây mê. Khá sâu. Giúp em một tay."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Khi con lớn lại thấy mình giữ con nó, nó sẽ không thích, đúng không? Em biết đấy, có thể là... bất bình."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Biết đâu đấy, có khi nó mừng khi gặp lại mình."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Này, các người làm cái quái gì vậy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Mang thằng nhỏ đi. Nếu anh muốn cản chúng tôi thì bắn đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Làm sao tìm ra con lớn?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Lần theo tiếng la hét."
+        }
+    }
+]

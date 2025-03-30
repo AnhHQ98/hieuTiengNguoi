@@ -20,3 +20,7 @@ export { default as scene6_JurassicPark2_json } from './part2/scene6_JurassicPar
 export { default as scene7_JurassicPark2_json } from './part2/scene7_JurassicPark2.json';
 export { default as scene8_JurassicPark2_json } from './part2/scene8_JurassicPark2.json';
 export { default as scene9_JurassicPark2_json } from './part2/scene9_JurassicPark2.json';
+export { default as scene10_JurassicPark2_json } from './part2/scene10_JurassicPark2.json';
+export { default as scene11_JurassicPark2_json } from './part2/scene11_JurassicPark2.json';
+export { default as scene12_JurassicPark2_json } from './part2/scene12_JurassicPark2.json';
+export { default as scene13_JurassicPark2_json } from './part2/scene13_JurassicPark2.json';
