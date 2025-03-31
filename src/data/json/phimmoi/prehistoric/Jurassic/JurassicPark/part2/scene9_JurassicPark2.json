@@ -7,8 +7,8 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Cách đây 15 năm, John Hammond có một giấc mơ. Cũng y như John, giấc mơ thật vĩ đại, ngoại cỡ, táo bạo, phi lý, không thể có. Trong nửa giờ nữa, giấc mơ của John Hammond sẽ biến thành sự thật. Với 1% giá thành xây dựng khu giải trí cách đây hàng ngàn dặm."
+            "engSub": "Fifteen years ago, John Hammond had a dream. Like John himself, the dream was grand. It was outsized. It was bold. It was impractical. It was impractical.   But half an hour from now, John Hammond's dream, re-imagined, will come true. For .01 of the cost of building a destination resort thousands of miles away...",
+            "vietSub": "Cách đây 15 năm, John Hammond có một giấc mơ. Cũng y như John, giấc mơ thật vĩ đại, ngoại cỡ, táo bạo, phi lý, không thể có.                                Trong nửa giờ nữa, giấc mơ của John Hammond sẽ biến thành sự thật.              Với 1% giá thành xây dựng khu giải trí cách đây hàng ngàn dặm."
         }
     },
     {
@@ -19,7 +19,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Is this the Ludlow affair?",
             "vietSub": "Đây có phải công ty Ludlow không?"
         }
     },
@@ -31,7 +31,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's private property.",
             "vietSub": "Đây là tài sản cá nhân."
         }
     },
@@ -43,7 +43,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "We're on the list.",
             "vietSub": "Không, chúng tôi có trong danh sách."
         }
     },
@@ -55,7 +55,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Turn around, get back in your car.",
             "vietSub": "Ông bà phải quay lại. Về xe đi."
         }
     },
@@ -67,7 +67,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "This is Dr. Harding, I'm Dr. Malcolm.",
             "vietSub": "Đây là Tiến sĩ Harding, tôi là Tiến sĩ Malcolm."
         }
     },
@@ -79,7 +79,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "We have Mr. Ludlow's test results.",
             "vietSub": "Chúng tôi có kết quả xét nghiệm của Ludlow."
         }
     },
@@ -91,7 +91,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "There's good and bad news.",
             "vietSub": "Có tin tốt và tin xấu."
         }
     },
@@ -103,7 +103,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Tonight we will christen Jurassic Park, San Diego, with a mega-attraction that will drive turnstile numbers to rival any theme park in the world. I want to thank each one of you for coming in these wee small hours of the morning.",
             "vietSub": "Đêm nay chúng ta sẽ khai trương công viên Kỷ Jura San Diego, với sự siêu hấp dẫn để cạnh tranh với bất cứ công việc giải trí nào trên thế giới. Tôi muốn cảm ơn quý vị đã can đảm dành cho chút thời gian sáng nay."
         }
     },
@@ -115,7 +115,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "The ship is here.",
             "vietSub": "Tàu đến rồi."
         }
     },
@@ -127,7 +127,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's early?",
             "vietSub": "Sớm thế à?"
         }
     },

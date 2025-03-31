@@ -7,7 +7,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Roland?",
             "vietSub": "Roland à."
         }
     },
@@ -19,7 +19,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Did you find him?",
             "vietSub": "Có tìm thấy hắn không?"
         }
     },
@@ -31,8 +31,8 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Chỉ còn cái chúng không thích ăn. Bản đồ. Toà nhà điều hành ngay ở dưới chỗ này. Cách vách núi khoảng 1 dặm rưỡi."
+            "engSub": "Just the parts they didn't like, map.        The operations building is right down in there about a mile and a half from the base of these cliffs.",
+            "vietSub": "Chỉ còn cái chúng không thích ăn, bản đồ. Toà nhà điều hành ngay ở dưới chỗ này. Cách vách núi khoảng 1 dặm rưỡi."
         }
     },
     {
@@ -43,7 +43,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "How do you know that?",
             "vietSub": "Sao ông biết?"
         }
     },
@@ -55,7 +55,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I've seen it. The climb down won't be easy. We'll let them sleep one more hour. Then we hit it.",
             "vietSub": "Tôi thấy rồi. Lối xuống không dễ đâu. Chúng ta để họ ngủ thêm 1 tiếng nữa. Sau đó chúng ta công kích."
         }
     },
@@ -67,7 +67,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Oh, no.",
             "vietSub": "Ôi không."
         }
     },
@@ -79,7 +79,7 @@
             "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "What is that?",
             "vietSub": "Cái gì vậy?"
         }
     },
@@ -103,7 +103,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Stay down! Don't move! Don't run!",
             "vietSub": "Bình tĩnh nào. Đừng chạy, đừng chạy."
         }
     },
@@ -115,7 +115,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Don't look, just run! Run!",
             "vietSub": "Đừng có nhìn. Chạy đi."
         }
     },
@@ -127,7 +127,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Bastard!",
             "vietSub": "Đồ khốn."
         }
     },
@@ -139,7 +139,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "He can't reach us!",
             "vietSub": "Đừng có đẩy tôi ra trước. Nó không với tới đâu. Nó không với tới mình đâu."
         }
     },
@@ -151,7 +151,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "No!",
             "vietSub": "Không."
         }
     },
@@ -163,7 +163,7 @@
             "name": "Robert Burke"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Oh, my God! A snake! Help me!",
             "vietSub": "Trời ơi, rắn. Cứu tôi với."
         }
     },
@@ -175,7 +175,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Stay back!",
             "vietSub": "Burke, lùi lại."
         }
     },
@@ -187,7 +187,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's okay. It's coming back!",
             "vietSub": "Không sao đâu, không sao. Nó đang quay lại kìa."
         }
     },
@@ -199,7 +199,7 @@
             "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Dad!",
             "vietSub": "Bố."
         }
     },
@@ -211,7 +211,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Thank you.",
             "vietSub": "Cảm ơn."
         }
     },
@@ -223,7 +223,7 @@
             "name": "Ajay Sidhu"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Don't go into the long grass! Not into the long grass!",
             "vietSub": "Đừng chạy vào đồng cỏ. Đừng chạy vào đồng cỏ."
         }
     },
@@ -235,7 +235,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Look at this.",
             "vietSub": "Ê ê ê ê, xem này."
         }
     },
@@ -247,7 +247,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "What is it?",
             "vietSub": "Cái gì đấy?"
         }
     },
@@ -259,7 +259,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I think it's Ajay's bag.",
             "vietSub": "Tôi cho là ba lô của Ajay."
         }
     },
@@ -271,7 +271,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Go, as fast as you can.",
             "vietSub": "Chuồn cho nhanh vào."
         }
     },
@@ -283,7 +283,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I see structures there. They said the communications center is in the operations building. I'll get in there and send the radio call. See you there.",
             "vietSub": "Đằng kia có nhà kìa. Họ nói trung tâm liên lạc nằm trong toà nhà điều hành. Nó có sao không? Tôi sẽ đến đó phát tín hiệu điện đài. Hẹn gặp lại nhau tại đó."
         }
     },
@@ -295,7 +295,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Wait for us.",
             "vietSub": "Chờ đã."
         }
     },
@@ -343,7 +343,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Oh, man. Damn it! Be there. CQ, this is InGen Operations Harvest Leader to Harvest Base. Repeating, I'm calling for InGen Operations Harvest Leader seeking InGen Harvest Base.",
             "vietSub": "Ôi men. Cái quái gì đây? Được rồi. Đồ trời đánh. Nào, phát đi, phát đi. C.Q, C.Q, trưởng chiến dịch InGen gọi căn cứ. Nhắc lại, tôi đang gọi lãnh đạo chiến dịch InGen. Đang tìm căn cứ."
         }
     },
@@ -355,7 +355,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Go ahead, Harvest Leader.",
             "vietSub": "<i>Nói đi, trưởng toán.</i>"
         }
     },
@@ -367,8 +367,8 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Chiến dịch bị thiệt hại nghiêm trọng. Những người sống sót đang gặp nguy hiểm chết người. Tôi cần các anh cứ toán cấp cứu đến ngay lập tức. Toạ độ của chúng tôi là... 9 độ 58 Bắc, 85 độ..."
+            "engSub": "The operation has suffered severe casualties. The survivors are now in mortal danger. I need you to send rescue immediately. Our co-ordinates here are 9 degrees 58 minutes north, 85 degrees...",
+            "vietSub": "Chiến dịch bị thiệt hại nghiêm trọng. Những người sống sót đang gặp nguy hiểm chết người. Tôi cần các anh cứ toán cấp cứu đến ngay lập tức. Toạ độ của chúng tôi là... 9 độ 58 bắc, 85 độ..."
         }
     },
     {
@@ -379,7 +379,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Inside! Anywhere!",
             "vietSub": "Nick, Nick, Nick. Nick Van Owen. Nick. Đây, đây, đây. Chui vào trong cái gì đi."
         }
     },
@@ -391,7 +391,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Come inside!",
             "vietSub": "Chạy vào trong đi. Đi thôi."
         }
     },
@@ -403,7 +403,7 @@
             "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Where do I go when I'm out?",
             "vietSub": "Ra rồi đi đâu?"
         }
     },
@@ -415,7 +415,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I'm right behind you...",
             "vietSub": "Cô ra ngay sau..."
         }
     },
@@ -427,7 +427,7 @@
             "name": ["Sarah Harding", "Kelly Curtis Malcolm"]
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Look out! Watch out! Up here!",
             "vietSub": "Coi chừng, Ian. Coi chứng đấy. Trên này, trên này."
         }
     },
@@ -439,7 +439,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Kelly, no!",
             "vietSub": "Kelly, Kelly. Đừng."
         }
     },
@@ -451,7 +451,7 @@
             "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Hey, you!",
             "vietSub": "Ê, mày."
         }
     },
@@ -463,7 +463,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "The school cut you from the team?",
             "vietSub": "Trường không cho con vào đội tuyển à?"
         }
     },
@@ -475,7 +475,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Get out of here! Go!",
             "vietSub": "Ra khỏi đây ngay. Ra ngay, mau."
         }
     },
@@ -487,7 +487,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Come on. Let's go!",
             "vietSub": "Nào, đi thôi. Đi thôi, đi thôi."
         }
     },
@@ -499,7 +499,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "What about the other survivors?",
             "vietSub": "Thế còn những người khác?"
         }
     },
@@ -511,7 +511,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Another chopper's coming.",
             "vietSub": "Chắc còn có người sống. Còn chiếc trực thăng nữa đang đến."
         }
     },
@@ -523,7 +523,7 @@
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's okay. It's over now.",
             "vietSub": "Rồi, qua hết rồi."
         }
     },
@@ -535,7 +535,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "That's one souvenir they won't be taking with them.",
             "vietSub": "Đó là một kỷ niệm mà họ sẽ không mang theo."
         }
     },
@@ -547,7 +547,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Find the infant tyrannosaur. Roland can show you where the nest is. I want it on my jet. I'll take it directly to the infirmary in San Diego. Hurry. I want to be airborne before the female knows we're here.                                                   Roland?         You probably saved InGen. We lost everything we came after on this trip. But this animal and its infant will bail us out.",
             "vietSub": "Tìm con của con khủng long bạo chúa. Roland có thể cho các anh biết ổ nó. Tôi muốn nó có trên máy bay của tôi. Tôi sẽ trực tiếp đưa nó đến bệnh xá tại San Diego. Nhanh tay lên. Tôi muốn lên máy bay trước khi con cái biết chúng ta ở đây. Ồ, Roland, Roland, Roland, Roland. Có lẽ ông đã cứu InGen. Chúng tôi mất sạch rồi. Chúng tôi đến sau. Nhưng con vật này và con của nó sẽ bảo lãnh cho chúng ta."
         }
     },
@@ -559,7 +559,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Congratulations.",
             "vietSub": "Xin chúc mừng."
         }
     },
@@ -571,7 +571,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You've got your trophy! A buck only. But it's alive! Everyone will line up and appreciate it and what you did for us. What's the matter?",
             "vietSub": "Ông đoạt cúp rồi. Con đực duy nhất, nó còn sống. Mọi người trên hành tinh này sẽ xếp hàng để mà cảm kích những việc ông làm. Ông làm sao thế?"
         }
     },
@@ -583,7 +583,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "He didn't make it. Ajay.",
             "vietSub": "Không phải hắn làm. Ajay."
         }
     },
@@ -595,7 +595,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I'm sorry. Really, I am. I remember the people who've helped me. There's a job for you in San Diego, if you want it.",
             "vietSub": "Ồ, tôi xin lỗi. Thật sự xin lỗi. Ông biết đấy, tôi nhớ những người đã giúp tôi, Roland ạ. Công viên ở San Diego có việc làm cho ông nếu ông muốn."
         }
     },
@@ -607,7 +607,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "No, thank you. I've spent enough time in the company of death.",
             "vietSub": "Thôi, cảm ơn. Tôi tin rằng mình sống với công ty Thần Chết thế là đủ rồi."
         }
     },
@@ -619,7 +619,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Oh, my God.",
             "vietSub": "Ôi Chúa ơi."
         }
     }

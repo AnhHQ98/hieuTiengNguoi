@@ -7,7 +7,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Go.",
             "vietSub": "Đi đi."
         }
     },
@@ -19,7 +19,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Take a break. Five minutes. Are you injured?",
             "vietSub": "Nghỉ giải lao, 5 phút. Cô bị thương à?"
         }
     },
@@ -31,7 +31,7 @@
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "No, it's the baby's.         I set its broken leg.   It won't dry in the humidity.",
             "vietSub": "Há? Ồ không, của thằng nhỏ. Tôi bó chân gãy cho nó. Trời ẩm nên không khô."
         }
     },
@@ -43,7 +43,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Roland, a word? I'd love to know where we are.",
             "vietSub": "Roland, nói gì đi chứ. Tôi muốn biết ta đang ở đâu."
         }
     },
@@ -55,7 +55,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Making friends with Ahab? ",
             "vietSub": "Làm bạn với Ahab hả? Còn 1 chai đây."
         }
     },
@@ -67,7 +67,7 @@
             "name": "Dieter Stark"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Carter, I'm going to the ladies' room. Wait for me here. Okay? It's not polite to sneak up on people. Carter! Where are you? I got turned around in here. Shit! Carter, let me hear from you! Hey, Carter! Hey, Carter! ",
             "vietSub": "Này Carter, tôi đi vệ sinh cái. Chờ tôi ở đây nhé. Này. Rình mò người khác là không lịch sự đâu nhé. Ê, Carter, anh ở đâu? Ê, Carter, tôi quay lại đây rồi. Vãi cứt, chết cha rồi. Carter, hô lên cho tôi nghe. Ê, Carter. Ê, Car... Carter, Carter. Ê, Roland."
         }
     },
@@ -79,7 +79,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Okay, break's over. Moving on!",
             "vietSub": "Hết giải lao, đi thôi."
         }
     },
@@ -91,7 +91,7 @@
             "name": "Kelly Curtis Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Carry me.",
             "vietSub": "Dẫn con đi."
         }
     },
@@ -103,7 +103,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I got it.",
             "vietSub": "Có rồi, đây rồi."
         }
     },
@@ -139,7 +139,7 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "When did you last see him?",
             "vietSub": "Lần chót anh thấy hắn là lúc nào?"
         }
     },
@@ -151,7 +151,7 @@
             "name": "Carter"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "10, 15 minutes.",
             "vietSub": "Chừng 10, 15 phút."
         }
     },
@@ -163,8 +163,8 @@
             "name": "Roland Tembo"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Đi với tôi, anh nữa. Nếu hắn còn sống ta sẽ tìm ra. Toàn bộ đi tiếp đi. 10 phút nữa các anh sẽ tới đỉnh. Chờ chúng tôi ở đấy. Cô Harding, không nói gì vớI con bé hết."
+            "engSub": "Come with me. And you. If he's alive, we'll find him. The rest of you keep right on. Ten minutes, you'll reach the ridge. Wait for us there. No one tells the little girl.",
+            "vietSub": "Đi với tôi, anh nữa. Nếu hắn còn sống ta sẽ tìm ra. Toàn bộ đi tiếp đi. 10 phút nữa các anh sẽ tới đỉnh.                Chờ chúng tôi ở đấy. Cô Harding, không nói gì vớI con bé hết."
         }
     },
     {
@@ -175,7 +175,7 @@
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Right. Let's carry on. Everybody up. Come on. Up, up.",
             "vietSub": "Được rồi, nào, đi tiếp đi. Mọi người đứng dậy. Nào, dậy, dậy."
         }
     },
@@ -187,7 +187,7 @@
             "name": "Nick Van Owen"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "All right, guys, let's get the hell",
             "vietSub": "Nào các bạn, xéo khỏi đây thôi."
         }
     }
