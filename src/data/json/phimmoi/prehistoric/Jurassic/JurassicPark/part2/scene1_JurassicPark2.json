@@ -4,10 +4,22 @@
         "frame": "",
         "character": {
             "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Right, now...",
+            "vietSub": ""
+        }
+    },
+    {
+        "shotNumber": 1,
+        "frame": "",
+        "character": {
+            "face": "",
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Thank you, Geoffrey.",
             "vietSub": "Tuyệt vời! Cảm ơn Geoffrey."
         }
     },
@@ -19,7 +31,7 @@
             "name": "Geoffrey"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You're welcome.",
             "vietSub": "Không có gì."
         }
     },
@@ -79,7 +91,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "That looks wonderful. Beautiful day. Where are you going?",
             "vietSub": "Tuyệt vời. Một ngày đẹp tuyệt. Đi đâu đấy con gái?"
         }
     },
@@ -91,7 +103,7 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "To eat my sandwich.",
             "vietSub": "Con ăn bánh."
         }
     },
@@ -103,7 +115,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You'll ruin, your appetite for prawns.",
             "vietSub": "Con sẽ ăn mất ngon đấy. Chúng ta có tôm, món con thích."
         }
     },
@@ -115,7 +127,7 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I don't like prawns.",
             "vietSub": "Con không thích tôm."
         }
     },
@@ -127,7 +139,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Darling, don't wander off.",
             "vietSub": "Đừng đi đâu nhé, con gái."
         }
     },
@@ -139,7 +151,7 @@
             "name": "Paul Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "For God's sake, leave her alone, Deirdre.",
             "vietSub": "Trời đất ơi, để cho con yên, Deirdre."
         }
     },
@@ -151,7 +163,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Go play with your ball.",
             "vietSub": "Kìa con, chúng ta sẽ chơi bóng."
         }
     },
@@ -163,7 +175,7 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Don't be so annoying!",
             "vietSub": "Mẹ đừng có quấy rầy nữa."
         }
     },
@@ -175,7 +187,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Darling, what about snakes?",
             "vietSub": "Này anh, lỡ có rắn thì sao?"
         }
     },
@@ -187,7 +199,7 @@
             "name": "Paul Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "There aren't any snakes on the beach. Just let her enjoy herself for once.",
             "vietSub": "Trên bãi biển làm gì có rắn. Cứ để cho con nó chơi."
         }
     },
@@ -199,8 +211,8 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Edward!"
+            "engSub": "Edward",
+            "vietSub": "Edward"
         }
     },
     {
@@ -211,7 +223,7 @@
             "name": "Edward"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Yes, ma'am.",
             "vietSub": "Dạ, thưa bà."
         }
     },
@@ -223,8 +235,8 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Chào nhé. Bạn là chim hay con gì vậy? Bạn có đói không? Làm một miếng đi. Thịt bò nướng đấy, ngon lắm. Nào, tôi không làm gì bạn đâu. Mẹ ơi, bố ơi, lại đây xem con gì này. Con tìm thấy đấy."
+            "engSub": "Hello, there.    What are you, a little bird or something?   Are you hungry?     Take a bite.        It's roast beef, it's good.     Come on, I won't hurt you.      Mommy! Daddy! You've got to come see this!  I found something!",
+            "vietSub": "Chào nhé.       Bạn là chim hay con gì vậy?                 Bạn có đói không?   Làm một miếng đi.   Thịt bò nướng đấy, ngon lắm.    Nào, tôi không làm gì bạn đâu.  Mẹ ơi, bố ơi, lại đây xem con gì này.       Con tìm thấy đấy."
         }
     },
     {
@@ -235,7 +247,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Cathy, darling, lunch is ready!",
             "vietSub": "Cathy con ơi, bữa ăn sẵn sàng rồi."
         }
     },
@@ -247,8 +259,8 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Các bạn nhìn cái này hả? Tôi sợ không đủ chia đâu."
+            "engSub": "Are you looking at this?     I'm afraid there isn't enough to go around.",
+            "vietSub": "Các bạn nhìn cái này hả?    Tôi sợ không đủ chia đâu."
         }
     },
     {
@@ -259,7 +271,7 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Paul?",
             "vietSub": "Paul?"
         }
     },
@@ -271,8 +283,8 @@
             "name": "Paul Bowman"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Cathy!"
+            "engSub": "Cathy?",
+            "vietSub": "Cathy?"
         }
     },
     {
@@ -283,8 +295,8 @@
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Nhanh lên được không? Nhanh lên."
+            "engSub": "Will you hurry up?       Hurry up!",
+            "vietSub": "Nhanh lên được không?   Nhanh lên."
         }
     },
     {
@@ -295,32 +307,8 @@
             "name": "Paul Bowman"
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Cathy!"
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": ""
+            "engSub": "Cathy.",
+            "vietSub": "Cathy."
         }
     }
 ]
