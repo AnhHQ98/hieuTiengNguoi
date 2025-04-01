@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Robert Muldoon"
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Robert Muldoon"
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ray Arnold"
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Tim Murphy"
@@ -121,7 +111,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -133,7 +122,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Lex Murphy"
@@ -145,7 +133,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -157,7 +144,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -169,7 +155,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -181,7 +166,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -193,7 +177,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -205,7 +188,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -217,7 +199,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -229,7 +210,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -241,7 +221,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -253,7 +232,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ray Arnold"
@@ -265,7 +243,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -277,7 +254,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -289,7 +265,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -301,7 +276,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -313,7 +287,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -325,7 +298,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -337,7 +309,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -349,7 +320,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -361,7 +331,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ray Arnold"
@@ -373,7 +342,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -385,7 +353,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Robert Muldoon"

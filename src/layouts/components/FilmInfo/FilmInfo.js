@@ -4,7 +4,7 @@ import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
-function FilmInfo({ film_json, part_json, scenes_json }) {
+function FilmInfo({ film_json, part_json, scenes_json, frames }) {
     const [selectedSceneIndex, setSelectedSceneIndex] = useState(null);
 
     return (
@@ -31,19 +31,24 @@ function FilmInfo({ film_json, part_json, scenes_json }) {
                 <div className={cx('sceneContent')}>
                     <span>Place: </span>
                     <br />
-                    {scenes_json[selectedSceneIndex].map((shot, index) => (
-                        <div key={index} className={cx('shot')}>
-                            {/* {frames[selectedSceneIndex] && frames[selectedSceneIndex][index] && (
-                                <img src={frames[selectedSceneIndex][index]} alt={`Shot ${index + 1}`} />
-                            )} */}
-                            <div className={cx('shotContent')}>
-                                <p>Character: {shot.character.name}</p>
-                                <p>VietSub: {shot.subtitle.vietSub}</p>
-                                <p>EngSub: {shot.subtitle.engSub}</p>
+                    {scenes_json[selectedSceneIndex].map((shot, index) => {
+                        const frameIndex = shot.frameIndex ?? index;
+                        return (
+                            <div key={index} className={cx('shot')}>
+                                <img
+                                    className={cx('frame')}
+                                    src={frames[selectedSceneIndex]?.[frameIndex]}
+                                    alt={`frame ${frameIndex + 1} scene ${selectedSceneIndex + 1}`}
+                                />
+                                <div className={cx('shotContent')}>
+                                    <p>Character: {shot.character.name}</p>
+                                    <p>VietSub: {shot.subtitle.vietSub}</p>
+                                    <p>EngSub: {shot.subtitle.engSub}</p>
+                                </div>
+                                <br />
                             </div>
-                            <br />
-                        </div>
-                    ))}
+                        );
+                    })}
                 </div>
             )}
         </div>

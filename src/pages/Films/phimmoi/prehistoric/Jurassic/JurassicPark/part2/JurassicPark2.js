@@ -18,8 +18,6 @@ import {
     scene13_JurassicPark2_json,
 } from '~/data/json/phimmoi/prehistoric/Jurassic/JurassicPark';
 
-const frames_JurassicPark2 = [];
-
 const scenes_json = [
     scene1_JurassicPark2_json,
     scene2_JurassicPark2_json,
@@ -35,6 +33,13 @@ const scenes_json = [
     scene12_JurassicPark2_json,
     scene13_JurassicPark2_json,
 ];
+
+const frames_JurassicPark2 = scenes_json.map((scene, sceneIndex) =>
+    scene.map(
+        (_, frameIndex) =>
+            `/images/phimmoi/prehistoric/Jurassic/JurassicPark/part2/scene${sceneIndex + 1}/frame${frameIndex + 1}_scene${sceneIndex + 1}_JurassicPark2.jpg`,
+    ),
+)
 
 function JurassicPark2() {
     return (

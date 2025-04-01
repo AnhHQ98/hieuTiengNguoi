@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -121,7 +111,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -133,235 +122,215 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You better come now.",
             "vietSub": "Ông đi thì hay hơn."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's so exciting! See that couple?",
             "vietSub": "Thật thú vị. Có thấy cặp kia không?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
-            "vietSub": "Ngày cần xem cái này."
+            "engSub": "Sir, you need to look at this.",
+            "vietSub": "Ngài cần xem cái này."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Let them see this up close.",
             "vietSub": "Hãy để họ xem thật gần."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Yes, sir.",
             "vietSub": "Vâng, thưa ngài Ludlow."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Let me check. I want a direct line to the Coast Guard right now.",
             "vietSub": "Để tôi xem. Tôi muốn liên lạc trực tiếp với Phòng vệ bờ biển gấp."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Look. That's their transponder signal, Venture 5888. They're coming in, but I can't raise them.",
             "vietSub": "Này, tín hiệu của tàu họ đấy. Venture-5888. Họ đang hướng vào cảng, nhưng tôi không liên lạc được."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Try again.",
             "vietSub": "Thử lại lần nữa."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Skipper, SS Venture, this is InGen Harbor Master. Do you copy? Over. Skipper, SS Venture, you are approaching the breakwater at flank speed. Reduce at once. Over. SS Venture, reduce your speed at once. SS Venture, this is InGen Harbor Master. You are entering a docking area.",
             "vietSub": "Thuyền trưởng S.S Venture, cảng InGen đây. Nghe thấy không? Thuyền trưởng S.S Venture, anh đang tiếp cận đê chắn sóng với tốc độ cao. Giảm tốc độ ngay. Thuyền trưởng S.S Venture, giảm tốc độ ngay. Thuyền trưởng S.S Venture, cảng Ingen đây. Anh đang vào cầu tàu."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "What's everybody looking at?",
             "vietSub": "Người ta nhìn cái gì vậy?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "We should've stayed in the damn car.",
             "vietSub": "Mình ở lại xe mới phải."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You okay, Mr. Ludlow?",
             "vietSub": "Ngài có sao không, Ludlow?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I don't know. How do I look?",
             "vietSub": "Tôi không biết. Trông tôi thế nào."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Go up this one.",
             "vietSub": "Đỡ người này dậy."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Oh, my God.",
             "vietSub": "Chúa ơi."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Where's the crew?",
             "vietSub": "Thuỷ thủ đoàn đâu?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "All over the place.",
             "vietSub": "La liệt khắp nơi."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I smell a fuel leak! Check the cargo hold! There may be crew down there.",
             "vietSub": "Soát dưới khoang hàng. Chắc họ ở dưới đấy."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Everybody off the boat! No! Get away from that! Now you're John Hammond.",
             "vietSub": "Tất cả rời tàu ngay. Không, buông cái đó ra. Bây giờ ông là John Hammond."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -373,205 +342,188 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Why wasn't it tranquilized?",
             "vietSub": "Tại sao ông gây mê nó?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It was, with two darts of Carfentanil. It was over 10 milligrams.",
             "vietSub": "Roland đã bắn 2 mũi carfentanil đậm đặc. Trên 10 mg."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "That'd put it in a coma.",
             "vietSub": "10 mg lẽ ra phải làm nó hôn mê."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It stopped breathing. We gave it naltrexone to counteract. But we didn't know how much.",
             "vietSub": "Nó ngừng thở nên chúng tôi chích naltrexon để giảm tác dụng. Nhưng không biết chích bao nhiêu."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "You gave an antagonist without knowing the dosage? You put it in a narcoleptic state. It's a locomotive now.",
             "vietSub": "Anh điều khiển gây mê mà không biết bao nhiêu là vừa à? Bây giờ nó là cái đầu máy xe lửa rồi."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "We're prepared here.",
             "vietSub": "Chúng tôi đã chuẩn bị điều này."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Any more dinosaurs on the boat?",
             "vietSub": "Còn con khủng long nào trên tàu không?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "No, we brought the infant back on the plane. We had this to tranquilize it.",
             "vietSub": "Không, chúng tôi đưa con nó về bằng máy bay. Đây, chúng tôi dùng cái này để gây mê."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Do you have the infant?",
             "vietSub": "Này. Ông giữ con nó à?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's safe.",
             "vietSub": "An toàn rồi."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "lan, the animal's dehydrated. First, it'll go to a water source then look for the next thing its body needs. All the containment equipment is here. We got to get it to the dock. The boat might be seaworthy.",
             "vietSub": "Ian, con thú bị mất nước. Việc đầu tiên nó làm là sẽ đi tìm nguồn nước. Sau đó nó sẽ tìm nhu cầu thể xác của nó. Các thiết bị kiềm chế đều ở đây. Chúng ta phải đưa nó về cảng. Tàu có thể đi biển được."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "I know what you're gonna Say.",
             "vietSub": "Em nói gì thế?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "When we brought the baby to the trailer, it came. There's no reason why it won't do the same thing here.",
             "vietSub": "Khi mình đem con nó vào toa xe, nó đã tới. Chẳng có lý do gì mà nó sẽ không làm thế ở đây."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Yep.",
             "vietSub": "Ừ."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Sarah Harding"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Where's the infant?",
             "vietSub": "Con nó đâu?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "In a secured facility. Why?",
             "vietSub": "Ở trong một phương tiện an toàn. Sao?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Where's the facility?",
             "vietSub": "Phương tiện đâu?"
         }
     }

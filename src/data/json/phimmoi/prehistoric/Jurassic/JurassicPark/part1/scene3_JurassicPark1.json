@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 2,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 3,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 4,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 5,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 6,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 7,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 8,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 9,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 10,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -121,7 +111,6 @@
     },
     {
         "shotNumber": 11,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -133,7 +122,6 @@
     },
     {
         "shotNumber": 12,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -145,7 +133,6 @@
     },
     {
         "shotNumber": 13,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Grant"
@@ -157,7 +144,6 @@
     },
     {
         "shotNumber": 14,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -169,7 +155,6 @@
     },
     {
         "shotNumber": 15,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -181,7 +166,6 @@
     },
     {
         "shotNumber": 16,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -193,7 +177,6 @@
     },
     {
         "shotNumber": 17,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -205,7 +188,6 @@
     },
     {
         "shotNumber": 18,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -217,7 +199,6 @@
     },
     {
         "shotNumber": 19,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -229,7 +210,6 @@
     },
     {
         "shotNumber": 20,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -241,7 +221,6 @@
     },
     {
         "shotNumber": 21,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -253,7 +232,6 @@
     },
     {
         "shotNumber": 22,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -265,7 +243,6 @@
     },
     {
         "shotNumber": 23,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -277,7 +254,6 @@
     },
     {
         "shotNumber": 24,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -289,7 +265,6 @@
     },
     {
         "shotNumber": 25,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -301,7 +276,6 @@
     },
     {
         "shotNumber": 26,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -313,7 +287,6 @@
     },
     {
         "shotNumber": 27,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -325,7 +298,6 @@
     },
     {
         "shotNumber": 28,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -337,7 +309,6 @@
     },
     {
         "shotNumber": 29,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -349,7 +320,6 @@
     },
     {
         "shotNumber": 30,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -361,7 +331,6 @@
     },
     {
         "shotNumber": 31,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -373,7 +342,6 @@
     },
     {
         "shotNumber": 32,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -385,7 +353,6 @@
     },
     {
         "shotNumber": 33,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -397,7 +364,6 @@
     },
     {
         "shotNumber": 34,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -409,7 +375,6 @@
     },
     {
         "shotNumber": 35,
-        "frame": "",
         "character": {
             "face": "",
             "name": "JohnHammond"
@@ -421,7 +386,6 @@
     },
     {
         "shotNumber": 36,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -433,7 +397,6 @@
     },
     {
         "shotNumber": 37,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -445,7 +408,6 @@
     },
     {
         "shotNumber": 38,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -457,7 +419,6 @@
     },
     {
         "shotNumber": 39,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -469,7 +430,6 @@
     },
     {
         "shotNumber": 40,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -481,7 +441,6 @@
     },
     {
         "shotNumber": 41,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -493,7 +452,6 @@
     },
     {
         "shotNumber": 42,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -505,7 +463,6 @@
     },
     {
         "shotNumber": 43,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -517,7 +474,6 @@
     },
     {
         "shotNumber": 44,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -529,7 +485,6 @@
     },
     {
         "shotNumber": 45,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -541,7 +496,6 @@
     },
     {
         "shotNumber": 46,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -553,7 +507,6 @@
     },
     {
         "shotNumber": 47,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -565,7 +518,6 @@
     },
     {
         "shotNumber": 48,
-        "frame": "",
         "character": {
             "face": "",
             "name": ["Ellie Sattler", "Alan Grant"]
@@ -577,7 +529,6 @@
     },
     {
         "shotNumber": 49,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -589,7 +540,6 @@
     },
     {
         "shotNumber": 50,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -601,7 +551,6 @@
     },
     {
         "shotNumber": 51,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -613,7 +562,6 @@
     },
     {
         "shotNumber": 52,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -625,7 +573,6 @@
     },
     {
         "shotNumber": 53,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -637,7 +584,6 @@
     },
     {
         "shotNumber": 54,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -649,7 +595,6 @@
     },
     {
         "shotNumber": 55,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -661,7 +606,6 @@
     },
     {
         "shotNumber": 56,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -673,7 +617,6 @@
     },
     {
         "shotNumber": 57,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -685,7 +628,6 @@
     },
     {
         "shotNumber": 58,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -697,7 +639,6 @@
     },
     {
         "shotNumber": 59,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -709,7 +650,6 @@
     },
     {
         "shotNumber": 60,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -721,7 +661,6 @@
     },
     {
         "shotNumber": 61,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"
@@ -733,7 +672,6 @@
     },
     {
         "shotNumber": 62,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ellie Sattler"
@@ -745,7 +683,6 @@
     },
     {
         "shotNumber": 63,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Alan Grant"

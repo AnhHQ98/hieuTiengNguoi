@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Tim Murphy"
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Lex Murphy"
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ["Tim Murphy", "Lex Murphy"]
@@ -121,7 +111,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -133,7 +122,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Tim Murphy"
@@ -145,7 +133,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -157,7 +144,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Lex Murphy"
@@ -169,7 +155,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -181,7 +166,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -193,7 +177,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -205,7 +188,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -217,7 +199,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -229,7 +210,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -241,7 +221,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -253,7 +232,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -265,7 +243,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -277,7 +254,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -289,7 +265,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -301,7 +276,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -313,7 +287,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -325,7 +298,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -337,7 +309,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -349,7 +320,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -361,7 +331,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Peter Ludlow"
@@ -373,7 +342,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -385,7 +353,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -397,7 +364,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -409,7 +375,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -421,7 +386,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -433,7 +397,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -445,7 +408,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -457,7 +419,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -469,7 +430,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -481,7 +441,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -493,7 +452,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -505,7 +463,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -517,7 +474,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -529,7 +485,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -541,7 +496,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -553,7 +507,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -565,7 +518,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -577,7 +529,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -589,7 +540,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -601,7 +551,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -613,7 +562,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -625,7 +573,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -637,7 +584,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -649,7 +595,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -661,7 +606,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -673,7 +617,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -685,7 +628,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -697,7 +639,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"
@@ -709,7 +650,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "John Hammond"
@@ -721,7 +661,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Ian Malcolm"

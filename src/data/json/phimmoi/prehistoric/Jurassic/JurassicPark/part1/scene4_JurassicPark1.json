@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 2,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 3,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 4,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 5,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 6,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 7,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 8,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 9,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 10,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -121,7 +111,6 @@
     },
     {
         "shotNumber": 11,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -133,7 +122,6 @@
     },
     {
         "shotNumber": 12,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -145,7 +133,6 @@
     },
     {
         "shotNumber": 13,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -157,7 +144,6 @@
     },
     {
         "shotNumber": 14,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -169,7 +155,6 @@
     },
     {
         "shotNumber": 15,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -181,7 +166,6 @@
     },
     {
         "shotNumber": 16,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -193,7 +177,6 @@
     },
     {
         "shotNumber": 17,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"
@@ -205,7 +188,6 @@
     },
     {
         "shotNumber": 18,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dodgson"
@@ -217,7 +199,6 @@
     },
     {
         "shotNumber": 19,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Dennis Nedry"

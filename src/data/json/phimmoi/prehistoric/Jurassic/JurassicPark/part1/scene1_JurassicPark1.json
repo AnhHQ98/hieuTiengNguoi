@@ -1,7 +1,6 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -13,7 +12,6 @@
     },
     {
         "shotNumber": 2,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -25,7 +23,6 @@
     },
     {
         "shotNumber": 3,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -37,7 +34,6 @@
     },
     {
         "shotNumber": 4,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -49,7 +45,6 @@
     },
     {
         "shotNumber": 5,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -61,7 +56,6 @@
     },
     {
         "shotNumber": 6,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -73,7 +67,6 @@
     },
     {
         "shotNumber": 7,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -85,7 +78,6 @@
     },
     {
         "shotNumber": 8,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -97,7 +89,6 @@
     },
     {
         "shotNumber": 9,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -109,7 +100,6 @@
     },
     {
         "shotNumber": 10,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""

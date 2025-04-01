@@ -1,91 +1,17 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": "Right, now...",
-            "vietSub": ""
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": "Deirdre"
-        },
-        "subtitle": {
-            "engSub": "Thank you, Geoffrey.",
-            "vietSub": "Tuyệt vời! Cảm ơn Geoffrey."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": "Geoffrey"
-        },
-        "subtitle": {
-            "engSub": "You're welcome.",
-            "vietSub": "Không có gì."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": "Deirdre"
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": "Cho chúng tôi thêm chai vang đỏ."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": "Paul Bowman"
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": "Cảm ơn Bernard."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
-        "character": {
-            "face": "",
-            "name": "Bernard"
-        },
-        "subtitle": {
-            "engSub": "",
-            "vietSub": "Không có gì."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Thank you.",
             "vietSub": "Cảm ơn chú."
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 2,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -96,8 +22,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 3,
         "character": {
             "face": "",
             "name": "Cathy Bowman"
@@ -108,8 +33,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 4,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -120,8 +44,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 5,
         "character": {
             "face": "",
             "name": "Cathy Bowman"
@@ -132,8 +55,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 6,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -144,8 +66,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 7,
         "character": {
             "face": "",
             "name": "Paul Bowman"
@@ -156,8 +77,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 8,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -168,8 +88,8 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 9,
+        "frameIndex": 7,
         "character": {
             "face": "",
             "name": "Cathy Bowman"
@@ -180,8 +100,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 10,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -192,8 +111,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 11,
         "character": {
             "face": "",
             "name": "Paul Bowman"
@@ -204,8 +122,7 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 12,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -216,8 +133,8 @@
         }
     },
     {
-        "shotNumber": 1,
-        "frame": "",
+        "shotNumber": 13,
+        "frameIndex": 11,
         "character": {
             "face": "",
             "name": "Edward"
@@ -229,7 +146,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Cathy Bowman"
@@ -241,7 +157,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -253,7 +168,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Cathy Bowman"
@@ -265,7 +179,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -277,7 +190,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Paul Bowman"
@@ -289,7 +201,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -301,7 +212,6 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": "Paul Bowman"

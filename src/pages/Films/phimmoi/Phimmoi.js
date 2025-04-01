@@ -1,3 +1,5 @@
+// "Một dev khôn ngoan không viết 1 triệu dòng code — họ để hệ thống tự xử lý 1 triệu dòng cho mình." 
+// — Nguồn: Trường phái tư duy phản require(), circa 2025
 import { Link } from 'react-router-dom';
 
 import config from '~/config';

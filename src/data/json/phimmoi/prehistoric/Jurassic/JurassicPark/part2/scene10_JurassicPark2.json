@@ -1,67 +1,61 @@
 [
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "There's a dinosaur in our backyard.",
             "vietSub": "Có con khủng long ở sân sau nhà mình."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Benjamin, what are you doing? What are you doing? What?",
             "vietSub": "Út này, con làm gì vậy? Con làm gì vậy? Thôi nào. Cái gì, cái gì?"
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Come on. There's a dinosaur in our backyard.",
             "vietSub": "Sau nhà mình có con khủng long."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "The problem is, you need to read to him. No. I will tell you what it is. You have to serve him dinner, he won't be up all night.",
             "vietSub": "Không, không, cưng ơi. Anh sẽ cho em biết chính xác đó là cái gì? Em phải dọn bữa tối cho nó."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "It's the stupid fish tank! He needs a proper nightlight.",
             "vietSub": "Em dọn rồi. Đó là cái bể cá ngu dốt. Nó cần đèn ngủ."
         }
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
@@ -73,13 +67,12 @@
     },
     {
         "shotNumber": 1,
-        "frame": "",
         "character": {
             "face": "",
             "name": ""
         },
         "subtitle": {
-            "engSub": "",
+            "engSub": "Put something over it! It may as well be daytime.",
             "vietSub": "Thế thì bỏ đi. Út, đừng có đẩy. Rõ như ban ngày. Không, không..."
         }
     }
