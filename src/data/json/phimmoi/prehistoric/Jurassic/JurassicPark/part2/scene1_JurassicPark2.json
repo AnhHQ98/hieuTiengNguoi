@@ -6,8 +6,8 @@
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "Thank you.",
-            "vietSub": "Cảm ơn chú."
+            "engSub": "thank you.",
+            "vietSub": "cảm ơn chú."
         }
     },
     {
@@ -145,40 +145,40 @@
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 14,
         "character": {
             "face": "",
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "Hello, there.    What are you, a little bird or something?   Are you hungry?     Take a bite.        It's roast beef, it's good.     Come on, I won't hurt you.      Mommy! Daddy! You've got to come see this!  I found something!",
-            "vietSub": "Chào nhé.       Bạn là chim hay con gì vậy?                 Bạn có đói không?   Làm một miếng đi.   Thịt bò nướng đấy, ngon lắm.    Nào, tôi không làm gì bạn đâu.  Mẹ ơi, bố ơi, lại đây xem con gì này.       Con tìm thấy đấy."
+            "engSub": "Wow, hello there. What are you, a little bird or something? Are you hungry? Take a bite. It's roast beef, it's good. Come on, I won't hurt you. Mommy, Daddy. You've got to come see this. I found something.",
+            "vietSub": "Chào nhé. Bạn là chim hay con gì vậy? Bạn có đói không? Làm một miếng đi. Thịt bò nướng đấy, ngon lắm. Nào, tôi không làm gì bạn đâu. Mẹ ơi, bố ơi, lại đây xem con gì này. Con tìm thấy đấy."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 15,
         "character": {
             "face": "",
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "Cathy, darling, lunch is ready!",
+            "engSub": "Cathy, darling, lunch is ready.",
             "vietSub": "Cathy con ơi, bữa ăn sẵn sàng rồi."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 16,
         "character": {
             "face": "",
             "name": "Cathy Bowman"
         },
         "subtitle": {
-            "engSub": "Are you looking at this?     I'm afraid there isn't enough to go around.",
-            "vietSub": "Các bạn nhìn cái này hả?    Tôi sợ không đủ chia đâu."
+            "engSub": "Are you looking at this? I'm afraid there isn't enough to go around.",
+            "vietSub": "Các bạn nhìn cái này hả? Tôi sợ không đủ chia đâu."
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 17,
         "character": {
             "face": "",
             "name": "Deirdre"
@@ -189,7 +189,7 @@
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 18,
         "character": {
             "face": "",
             "name": "Paul Bowman"
@@ -200,25 +200,14 @@
         }
     },
     {
-        "shotNumber": 1,
+        "shotNumber": 19,
         "character": {
             "face": "",
             "name": "Deirdre"
         },
         "subtitle": {
-            "engSub": "Will you hurry up?       Hurry up!",
-            "vietSub": "Nhanh lên được không?   Nhanh lên."
-        }
-    },
-    {
-        "shotNumber": 1,
-        "character": {
-            "face": "",
-            "name": "Paul Bowman"
-        },
-        "subtitle": {
-            "engSub": "Cathy.",
-            "vietSub": "Cathy."
+            "engSub": "Will you hurry up? Hurry up!",
+            "vietSub": "Nhanh lên được không? Nhanh lên."
         }
     }
 ]

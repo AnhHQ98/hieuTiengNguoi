@@ -17,7 +17,12 @@ function Sidebar() {
     return (
         <aside className={cx('wrapper')}>
             <Menu>
-                <MenuItem title="Vocabulary" to={config.routes.vocabulary} icon={<HomeIcon />} activeIcon={<HomeActiveIcon />} />
+                <MenuItem
+                    title="Vocabulary"
+                    to={config.routes.vocabulary}
+                    icon={<HomeIcon />}
+                    activeIcon={<HomeActiveIcon />}
+                />
                 <MenuItem
                     title="Grammar"
                     to={config.routes.grammar}
