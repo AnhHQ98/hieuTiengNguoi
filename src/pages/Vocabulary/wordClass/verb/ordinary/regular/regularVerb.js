@@ -1,7 +1,7 @@
 // dong tu co quy tac
 const regularVerb = [
     {
-        englishMeaning: 'thank',
+        englishWord: 'thank',
         vietnameseMeaning: 'cảm ơn',
     }
 ]

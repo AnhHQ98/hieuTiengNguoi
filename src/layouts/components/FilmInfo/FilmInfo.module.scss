@@ -44,9 +44,10 @@
     border-radius: 8px;
 }
 
-.engSub {
+.engSubInput {
     font-family: inherit;
     background-color: #323c4a;
+    text-align: center;
     font-size: 1.8rem;
     padding: 8px 12px;
     margin: 8px 0;
@@ -55,7 +56,16 @@
     transition: 0.3s ease;
 }
 
-.engSub:focus {
+.engSubInput:focus {
     background-color: var(--engsub-input-background);
     border-color: var(--engsub-input-color);
+}
+
+.engSubInput::placeholder {
+    // color: transparent;
+}
+
+.engSubInput.correct {
+    font-weight: 500;
+    outline: 2px solid var(--engsub-input-color);
 }
