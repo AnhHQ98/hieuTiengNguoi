@@ -1,6 +1,5 @@
 // “Dữ liệu là linh hồn, code chỉ là công cụ dẫn dắt” 😎
 import { useState, useEffect } from 'react';
-import wordClass from '~/pages/Vocabulary/wordClass';
 
 import classNames from 'classnames/bind';
 import styles from './FilmScene.module.scss';
@@ -21,6 +20,7 @@ const getMatchedWord = (lowerWord, wordList) => {
 function FilmScene({ scenes_json, frames }) {
     const [selectedSceneIndex, setSelectedSceneIndex] = useState(null);
     const [engSubInputValues, setEngSubInputValues] = useState({});
+    const [wordClass, setWordClass] = useState([]);
 
     useEffect(() => {
         const savedScene = localStorage.getItem('currentScene');
@@ -58,6 +58,66 @@ function FilmScene({ scenes_json, frames }) {
         localStorage.setItem('currentScene', index);
         localStorage.setItem('scrollY', window.scrollY.toString());
     };
+
+    useEffect(() => {
+        Promise.all([
+            fetch('/json/english/vocabulary/wordClass/pronoun/personalPronoun.json')
+                .then((res) => {
+                    if (!res.ok) throw new Error('Failed to load personalPronoun.json');
+                    return res.json();
+                }).catch((err) => {
+                    console.error(err.message);
+                    return [];
+                }),
+
+            fetch('/json/english/vocabulary/wordClass/verb/regularVerb.json')
+                .then((res) => {
+                    if (!res.ok) throw new Error('Failed to load regularVerb.json');
+                    return res.json();
+                }).catch((err) => {
+                    console.error(err.message);
+                    return [];
+                }),
+
+            fetch('/json/english/vocabulary/wordClass/verb/linkingVerb.json')
+                .then((res) => {
+                    if (!res.ok) throw new Error('Failed to load linkingVerb.json');
+                    return res.json();
+                }).catch((err) => {
+                    console.error(err.message);
+                    return [];
+                }),
+
+            fetch('/json/english/vocabulary/wordClass/adjective/opinionAdjective.json')
+                .then((res) => {
+                    if (!res.ok) throw new Error('Failed to load opinionAdjective.json');
+                    return res.json();
+                }).catch((err) => {
+                    console.error(err.message);
+                    return [];
+                }),
+
+            fetch('/json/english/vocabulary/wordClass/multiFunctionWord.json')
+                .then((res) => {
+                    if (!res.ok) throw new Error('Failed to load multiFunctionWord.json');
+                    return res.json();
+                }).catch((err) => {
+                    console.error(err.message);
+                    return [];
+                }),
+        ])
+            .then((wordLists) => {
+                const merged = wordLists.flat();
+                console.log('✅ Đã nạp wordClass:', merged);
+                setWordClass(merged);
+            })
+            .catch((err) => {
+                console.error('❌ Lỗi không mong muốn khi load wordClass:', err);
+            });
+    }, []);
+
+
+    if (!wordClass.length) return <div>Loading wordClass...</div>;
 
     if (selectedSceneIndex === null) {
         return (
