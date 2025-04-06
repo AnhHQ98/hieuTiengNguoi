@@ -6,10 +6,6 @@ import {
     Vocabulary,
     Alphabet,
     EnglishAlphabet,
-    JapaneseAlphabet,
-    ChineseAlphabet,
-    KoreanAlphabet,
-    FrenchAlphabet,
 } from '~/pages/Vocabulary';
 
 import {
@@ -59,10 +55,6 @@ const privateRoutes = [
     // alphabet
     { path: config.routes.alphabet, component: Alphabet },
     { path: config.routes.englishAlphabet, component: EnglishAlphabet },
-    { path: config.routes.japaneseAlphabet, component: JapaneseAlphabet },
-    { path: config.routes.chineseAlphabet, component: ChineseAlphabet },
-    { path: config.routes.koreanAlphabet, component: KoreanAlphabet },
-    { path: config.routes.frenchAlphabet, component: FrenchAlphabet },
 
     // grammar
     { path: config.routes.grammar, component: Grammar },

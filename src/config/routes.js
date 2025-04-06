@@ -4,10 +4,6 @@ const routes = {
     // alphabet
     alphabet: '/alphabet',
     englishAlphabet: '/vocabulary/english-alphabet',
-    japaneseAlphabet: '/vocabulary/japanese-alphabet',
-    chineseAlphabet: '/vocabulary/chinese-alphabet',
-    koreanAlphabet: '/vocabulary/korean-alphabet',
-    frenchAlphabet: '/vocabulary/french-alphabet',
 
     // vocabulary
     vocabulary: '/vocabulary',
@@ -38,11 +34,6 @@ const routes = {
     futurePerfectContinuous: '/grammar/english/future-tense/future-perfect-continuous',
 
     sentenceStructure: '/grammar/english/sentence-structure',
-
-    japaneseGrammar: '/grammar/japanese',
-    chineseGrammar: '/grammar/chinese',
-    koreanGrammar: '/grammar/korean',
-    frenchGrammar: '/grammar/french',
 
     // films
     films: '/films',

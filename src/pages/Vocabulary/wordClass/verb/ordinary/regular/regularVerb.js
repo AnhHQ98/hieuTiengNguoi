@@ -2,7 +2,7 @@
 const regularVerb = [
     {
         englishWord: 'thank',
-        vietnameseMeaning: 'cảm ơn',
+        vietnameseMeaning: 'cảm ơn'
     }
 ]
 

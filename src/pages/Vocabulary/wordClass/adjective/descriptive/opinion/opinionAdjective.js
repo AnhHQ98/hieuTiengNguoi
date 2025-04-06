@@ -5,5 +5,4 @@ const opinionAdjective = [
     }
 ]
 
-
 export default opinionAdjective;
