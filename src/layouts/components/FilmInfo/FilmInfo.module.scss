@@ -19,8 +19,8 @@
     height: 100vh;
 }
 
-// .shotContent {
-.shot {
+.shotContent {
+// .shot {
     font-family: 'IBM Plex Mono', sans-serif;
     display: flex;
     align-items: center;
@@ -49,8 +49,8 @@
 
 }
 
-// .engSubInput {
-.engSubWord {
+.engSubInput {
+// .engSubWord {
     font-family: inherit;
     background-color: #323c4a;
     text-align: center;
@@ -61,17 +61,19 @@
     border-radius: 8px;
     transition: 0.3s ease;
 }
-
-.engSubWord:focus {
+.engSubInput:focus {
+// .engSubWord:focus {
     background-color: var(--engsub-input-background);
     border-color: var(--engsub-input-color);
 }
 
-.engSubWord::placeholder {
+.engSubInput::placeholder {
+    // .engSubWord::placeholder {
     // color: transparent;
 }
 
-.engSubWord.correct {
+.engSubInput.correct {
+// .engSubWord.correct {
     font-weight: 500;
     outline: 2px solid var(--engsub-input-color);
 }
