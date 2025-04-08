@@ -5,3 +5,74 @@
     flex-direction: column;
     height: calc(100vh - var(--default-layout-header-height));
 }
+.sceneList {
+    list-style: none;
+    display: flex;
+    gap: 20px;;
+}
+
+// .shot {
+.sceneContent {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+// .shotContent {
+.shot {
+    font-family: 'IBM Plex Mono', sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.subtitle {
+    display: flex;
+    flex-direction: column;
+}
+
+.vietSub {
+    font-size: 1.6rem;
+}
+
+.vietSubMeaning {
+    cursor: pointer;
+    display: inline-block;
+    background-color: #ccc;
+    padding: 8px 12px;
+    margin-top: 8px;
+    border-radius: 8px;
+}
+
+.engSub {
+
+}
+
+// .engSubInput {
+.engSubWord {
+    font-family: inherit;
+    background-color: #323c4a;
+    text-align: center;
+    font-size: 1.8rem;
+    // padding: 8px 12px;
+    margin: 8px 0;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+.engSubWord:focus {
+    background-color: var(--engsub-input-background);
+    border-color: var(--engsub-input-color);
+}
+
+.engSubWord::placeholder {
+    // color: transparent;
+}
+
+.engSubWord.correct {
+    font-weight: 500;
+    outline: 2px solid var(--engsub-input-color);
+}
+

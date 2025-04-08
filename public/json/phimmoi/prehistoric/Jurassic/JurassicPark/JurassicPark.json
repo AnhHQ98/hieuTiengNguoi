@@ -4,5 +4,21 @@
     "director": "Steven Spielberg",
     "country": "US",
     "originalLanguages": "English",
-    "subtitleLanguages": "Vietnamese"
+    "subtitleLanguages": "Vietnamese",
+    "parts": [
+        {
+            "part": 1,
+            "year": 1993,
+            "duration": 127
+        },
+        {
+            "part": 2,
+            "englishPartTitle": "The Lost World",
+            "year": 1997
+        },
+        {
+            "part": 3,
+            "year": 2001
+        }
+    ]
 }

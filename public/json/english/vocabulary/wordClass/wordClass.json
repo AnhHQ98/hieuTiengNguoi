@@ -1,0 +1,74 @@
+[
+    {
+        "firstLetter": "b",
+        "wordList": [
+            {
+                "englishWord": "beautiful",
+                "vietnameseMeaning": ["đẹp", "đẹp tuyệt"],
+                "type": "adjective",
+                "subType": "opinion"
+            }
+        ]
+    },
+    {
+        "firstLetter": "e",
+        "wordList": [
+            {
+                "englishWord": "everybody",
+                "vietnameseMeaning": "tất cả mọi người",
+                "type": "pronoun",
+                "subType": "indefinite"
+            }
+        ]
+    },
+    {
+        "firstLetter": "t",
+        "wordList": [
+            {
+                "englishWord": "that",
+                "vietnameseMeaning": ["thật"],
+                "functions": [
+                    { "type": "pronoun", "subType": "demonstrative" }
+                ]
+            },
+            {
+                "englishWord": "thank",
+                "vietnameseMeaning": "cảm ơn",
+                "type": "verb",
+                "subType": "regular"
+            },
+            {
+                "englishWord": "look",
+                "vietnameseMeaning": ["trông"],
+                "type": "verb",
+                "subType": "linking",
+                "tenses": {
+                    "presentSimple": ["look", "looks"],
+                    "pastSimple": []
+                }
+            }
+        ]
+    },
+    {
+        "firstLetter": "w",
+        "wordList": [
+            {
+                "englishWord": "wonderful",
+                "vietnameseMeaning": "tuyệt vời",
+                "type": "adjective",
+                "subType": "opinion"
+            }
+        ]
+    },
+    {
+        "firstLetter": "y",
+        "wordList": [
+            {
+                "englishWord": "you",
+                "vietnameseMeaning": ["bạn", "chú"],
+                "type": "pronoun",
+                "subType": "personal"
+            }
+        ]      
+    }
+]
