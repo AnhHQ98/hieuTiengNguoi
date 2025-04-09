@@ -8,7 +8,7 @@ function JurassicPark1() {
         fetch('/json/phimmoi/prehistoric/Jurassic/JurassicPark/JurassicPark1.json')
             .then((res) => res.json())
             .then((data) => setFilmJson(data))
-            .catch((err) => console.error('Lỗi khi fetch JSON JurassicPark1:', err))
+            .catch((err) => console.error('Lỗi khi fetch JSON JurassicPark1: ', err))
     }, []);
 
     if (!filmJson) return <div>Loading filmJson...</div>;

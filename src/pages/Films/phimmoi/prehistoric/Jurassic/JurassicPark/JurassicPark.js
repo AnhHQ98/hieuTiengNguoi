@@ -9,10 +9,7 @@ function JurassicPark() {
     useEffect(() => {
         fetch('/json/phimmoi/prehistoric/Jurassic/JurassicPark/JurassicPark.json')
             .then((res) => res.json())
-            .then((data) => {
-                console.log('Dữ liệu filmJson:', data);
-                setFilmJson(data);
-            })
+            .then((data) => setFilmJson(data))
             .catch((err) => console.error('Lỗi khi fetch JSON:', err));
     }, []);
 
