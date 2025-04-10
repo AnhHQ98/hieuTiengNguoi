@@ -5,14 +5,6 @@ const cx = classNames.bind(styles);
 
 function FilmInfo1({ film_json }) {
     const [selectedScene, setSelectedScene] = useState(null);
-    const [wordClass, setWordClass] = useState(null);
-
-    useEffect(() => {
-        fetch('/json/english/vocabulary/wordClass.json')
-            .then((res) => res.json())
-            .then((data) => setWordClass(data))
-            .catch((err) => console.error('Lỗi khi fetch wordClass:', err));
-    }, []);
 
     return (
         <div className={cx('filmWrapper')}>
@@ -34,8 +26,7 @@ function FilmInfo1({ film_json }) {
             {selectedScene && (
                 <div className={cx('sceneContent')}>
                     {selectedScene.sceneContent.map((shot, shotNumber) => (
-                        <div key={shotNumber}>
-                            <span>Shot {shot.shotNumber}</span>
+                        <div className={cx('shot')} key={shotNumber}>
                             <div className={cx('character')}>
                                 <span className={cx('characterName')}>{shot.character.name}</span>
                             </div>

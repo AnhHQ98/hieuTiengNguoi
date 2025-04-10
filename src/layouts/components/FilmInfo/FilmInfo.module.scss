@@ -19,8 +19,7 @@
     height: 100vh;
 }
 
-.shotContent {
-// .shot {
+.shot {
     font-family: 'IBM Plex Mono', sans-serif;
     display: flex;
     align-items: center;
@@ -49,32 +48,29 @@
 
 }
 
-.engSubInput {
-// .engSubWord {
+.engSubWord {
     font-family: inherit;
     background-color: #323c4a;
     text-align: center;
     font-size: 1.8rem;
-    // padding: 8px 12px;
+    padding: 8px;
     margin: 8px 0;
     border: 1px solid transparent;
     border-radius: 8px;
     transition: 0.3s ease;
 }
-.engSubInput:focus {
-// .engSubWord:focus {
+
+.engSubWord:focus {
     background-color: var(--engsub-input-background);
     border-color: var(--engsub-input-color);
 }
 
-.engSubInput::placeholder {
-    // .engSubWord::placeholder {
+.engSubWord::placeholder {
     // color: transparent;
 }
 
-.engSubInput.correct {
-// .engSubWord.correct {
+.engSubWord.correct {
     font-weight: 500;
-    outline: 2px solid var(--engsub-input-color);
+    border: 2px solid var(--engsub-input-color);
 }
 

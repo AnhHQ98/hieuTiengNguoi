@@ -5,16 +5,14 @@ import FilmCard from '~/layouts/components/FilmCard';
 
 function JurassicPark() {
     const [filmJson, setFilmJson] = useState(null);
-
     useEffect(() => {
         fetch('/json/phimmoi/prehistoric/Jurassic/JurassicPark/JurassicPark.json')
             .then((res) => res.json())
             .then((data) => setFilmJson(data))
             .catch((err) => console.error('Lỗi khi fetch JSON:', err));
     }, []);
-
     if (!filmJson) return <div>Loading film json...</div>;
-
+    
     return (
         <ul>
             {filmJson.parts.map((part, index) => (

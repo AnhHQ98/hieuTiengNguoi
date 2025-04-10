@@ -1,9 +1,8 @@
-[
-    {
-        "englishWord": "look",
+{
+    "look": {
         "vietnameseMeaning": ["nhìn", "trông", "trông như"],
-        "conjugations": {
+        "tenses": {
             "presentSimple": ["looks"]
         }
     }
-]
+}

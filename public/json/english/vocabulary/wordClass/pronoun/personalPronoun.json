@@ -1,6 +1,5 @@
-[
-    {
-        "englishWord": "you",
+{
+    "you": {
         "vietnameseMeaning": ["bạn", "chú"]
     }
-]
+}

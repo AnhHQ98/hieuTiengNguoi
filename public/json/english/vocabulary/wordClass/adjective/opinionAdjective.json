@@ -1,10 +1,8 @@
-[
-    {
-        "englishWord": "beautiful",
+{
+    "beautiful": {
         "vietnameseMeaning": ["đẹp", "đẹp tuyệt"]
     },
-    {
-        "englishWord": "wonderful",
-        "vietnameseMeaning": "tuyệt vời"
+    "wonderful": {
+        "vietnameseMeaning": ["tuyệt vời"]
     }
-]
+}

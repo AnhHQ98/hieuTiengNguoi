@@ -1,12 +1,10 @@
 import FilmScene from './FilmScene';
-
 import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
 function FilmInfo({ film_json, part_json, scenes_json, frames }) {
     if (!film_json || !part_json) return <div>Loading film info...</div>;
-
     return (
         <div className={cx('filmWrapper')}>
             <div className={cx('filmInfomation')}>
