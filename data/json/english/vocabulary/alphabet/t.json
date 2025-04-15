@@ -1,0 +1,13 @@
+{
+    "thank": {
+        "vietnameseMeaning": "cảm ơn",
+        "type": "verb",
+        "subType": "regular"
+    },
+    "that": {
+        "vietnameseMeaning": ["đó", "thật"],
+        "functions": [
+            {"type": "pronoun", "subType": "demonstrative"}
+        ]
+    }
+}

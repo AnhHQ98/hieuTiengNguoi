@@ -1,0 +1,673 @@
+[
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "You're him, right?",
+            "vietSub": "Anh đấy phải không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Excuse me?",
+            "vietSub": "Gì cơ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "The scientist? The guy?  I saw you on TV.        I believed you.",
+            "vietSub": "Nhà khoa học?           Tôi thấy anh trên TV.   Tôi tin anh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Who shall I tell Mr. Hammond is calling?",
+            "vietSub": "Tôi sẽ nói với ông Hammond là ai gọi?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "lan Malcolm.     I've been summoned.",
+            "vietSub": "À, Ian Malcolm. Tôi được mời."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Tim Murphy"
+        },
+        "subtitle": {
+            "engSub": "Dr. Malcolm!",
+            "vietSub": "Tiến sĩ Malcolm!"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Oh, my God.",
+            "vietSub": "Trời đất ơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Lex Murphy"
+        },
+        "subtitle": {
+            "engSub": "Hello, Dr. Malcolm.",
+            "vietSub": "Xin chào Tiến sĩ Malcolm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Kids, kids.",
+            "vietSub": "Ôi bọn nhóc."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ["Tim Murphy", "Lex Murphy"]
+        },
+        "subtitle": {
+            "engSub": "It's so great to see you.",
+            "vietSub": "Thật tuyệt khi gặp chú."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "It's so great to see you. It's so great. Look at you.",
+            "vietSub": "Gặp các cháu thật tuyệt. Trông cháu đẹp quá."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Tim Murphy"
+        },
+        "subtitle": {
+            "engSub": "You came to see Grandpa?",
+            "vietSub": "Chú đến gặp ông nội à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Yeah, he called me.  Do you know what it's about?    I don't, either.        This joint's kind of creepy, isn't it?  Is everything okay?",
+            "vietSub": "Ừ, ông gọi chú.     Cháu biết có chuyện gì không?   Chú cũng chẳng biết.    Liên doanh này bí hiểm lắm, phải không? Mọi việc ổn cả chứ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Lex Murphy"
+        },
+        "subtitle": {
+            "engSub": "Well, not exactly.",
+            "vietSub": "Thật ra thì không."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Dr. Malcolm, Dr. Malcolm.                Here to share a few campfire stories with my uncle?",
+            "vietSub": "Quao, Tiến sĩ Malcolm, Tiến sĩ Malcolm. Đến kể chuyện đốt lửa trại với ông bác tôi chắc?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You can convince The Washington Post and Skeptical Inquirer of what you want.    But I was there.            I know what happened.       And so do you.",
+            "vietSub": "Ông có thể thuyết phục tờ Washington Post hoặc tờ Người Điều Tra nếu ông muốn.  Nhưng tôi có mặt tại đấy.   Tôi biết chuyện gì xản ra.  Ông cũng vậy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Do you actually believe that everyone who chose discretion did so for a nefarious motive?    Even Lex and Tim?",
+            "vietSub": "Ông tin rằng người thận trọng làm điềU đó vì động cơ ác sao?                                Kể cả Lex và Tim à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Leave them out of it.    It's not a game.",
+            "vietSub": "Để họ ra ngoài.         Đó không phải trò chơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "No. You signed a nondisclosure agreement before you went to the island,  that forbade you from discussing what you saw.      You violated that agreement.",
+            "vietSub": "Ông đã ký thoả thuận không tiết lộ trước khi tới đảo,                   nghiêm cấm bàn tán về những gì ông thấy.            Ông đã vi phạm thoả thuận."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I did. And you lied about the deaths of three people. You misinformed the public, which made me look like a nut. Hasn't been so good for my livelihood...",
+            "vietSub": "Phải rồi, còn ông thì nói láo. Ông đã che dấu sự thật về cái chết của 3 người. Ông nhét thông tin sai vào họng công luận. Ông làm tôi như thằng ngu. Ông làm hại sinh kế của tôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "We made a generous compensatory offer for your injuries.",
+            "vietSub": "Chúng tôi đã bồi thường đáng kể cho thiệt hại của ông."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "A payoff and an insult. When you spin reality, cover up evidence, it hurts more than my reputation.",
+            "vietSub": "Đó là khoản tiền mất việc và là sự sỉ nhục. Khi ông thêu dệt sự thật, che giấu chứng cớ, nó đau. Nó huỷ hoạt thanh danh của tôi. Nó làm..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "As I recall, your university revoked your tenure for your selling wild stories to the press.",
+            "vietSub": "Theo tôi nhớ, trường đại học đã thu hồi bằng của ông vì ông bán câu chuyện về..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I didn't sell anything. I never took a cent, and I told the truth.",
+            "vietSub": "Tôi không bán gì hết, không hề lấy 1 xu, và tôi nói sự thật."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Your version of it.",
+            "vietSub": "Đó là anh giải thích."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "There aren't \"versions\" of the truth. InGen can't keep spewing out...",
+            "vietSub": "Không có giải thích nào về sự thật cả. Tôi sẽ cho ông biết, Ingen không thể không buồn nôn..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "InGen is my responsibility now. I will jealously defend its interests.",
+            "vietSub": "Ingen bây giờ là trách nhiệm của tôi, và tôi sẽ bảo vệ lợi nhuận của nó."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Your responsibility? What about Mr. Hammond?",
+            "vietSub": "Trách nhiệm của ông? Thế con ông Hammond?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "It is our board of directors, I must face, not my uncle. Trust me, your problems are about to be rendered moot. In a few weeks' time, they'll be long forgotten.",
+            "vietSub": "Tôi chịu trách nhiệm với ban giám đốc, chứ không phải với ông bác tôi. Ông phải tin tôi, nhưng vấn đề của ông phải được giải quyết. Trong vài tuần, chúng sẽ rơi vào quên lãng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Not by me.",
+            "vietSub": "Không phải do tôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Careful. This suit cost more than your education.",
+            "vietSub": "Cẩn thận. Bộ đồ này đáng giá hơn học vấn của ông đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "You were right and I was wrong. There! Did you ever expect to hear me say such a thing? Thank God for Site B.",
+            "vietSub": "\"Anh đúng, còn tôi sai.\" Anh chờ để nghe tôi nói điều đó phải không? Cảm ơn Chúa về khu B."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Site B?",
+            "vietSub": "Khu B?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Isla Nublar was just a showroom, something for the tourists. Site B was the factory floor. That was on Isla Sorna, 80 miles from Nublar. We bred the animals there, and nurtured them for a few months, then moved them into the park.",
+            "vietSub": "Đảo Nublar chỉ là nơi trưng bày thôi, cho du khách ấy mà. Khu B là tầng hầm của nhà máy. Đó là đảo Sorna, cách Nublar 80 dặm. Ở đó chúng tôi nuôi thú, chăm sóc chúng vài tháng rồi chuyển đến Công viên."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Really? I did not know that.",
+            "vietSub": "Thế à? Tôi chẳng biết gì cả."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "After the accident in the park, Hurricane Clarissa wiped out our facility on Site B. Call it an act of God. We had to evacuate. The animals were released to mature on their own.                        \"Life will find a way\", as you once so eloquently put it.         By now we have a complete ecological system on the island with dozens of species living in their own social groups without fences, boundaries, or constraining technology. And for four years, I've tried to keep it safe from human interference.",       
+            "vietSub": "Giờ, sau tai nạn ở Công viên, cơn bão Clarissa đã quét sạch phương tiện của chúng ta tại khu B. Một hành động của Chúa Trời. Chúng tôi phải rút, tất nhiên. Còn lũ thú được thả để chúng trưởng thành. \"Đời sống hoang dã có cách của nó.\" Anh đã từng hùng biện như vậy. Chúng ta đang có một hệ sinh thái đầy đủ trên đảo. Hàng chục loài sống trong nhóm của mình, không rào, không ranh giới, không hạn chế. Và trong 4 năm, tôi đã cố giữ cho nó tránh khỏi sự can thiệp của con người."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "That's right. Hopefully, you've kept the island quarantined and contained. But I'm in shock about all this. I mean, that they're still alive. You bred them lysine-deficient. Shouldn't they have kicked after seven days without supplemental enzymes?",
+            "vietSub": "Đúng thế. Đúng thế. Hy vọng ông đã cách ly được hòn đảo và... kiểm soát được. Nhưng tôi bị sốc về chuyện này. Tôi muốn nói... chúng vẫn còn sống. Ông cho chúng ăn thiếu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Yes! But, by God, they're flourishing. That's one of 1,000 questions I want the team to answer.",
+            "vietSub": "Phải nhưng ơn Chúa, chúng đang phát triển. Đó là một trong hàng ngàn câu hỏi mà tôi muốn toán thám hiểm trả lời."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Team?",
+            "vietSub": "Toán thám hiểm?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Yes. I've organized an expedition to go in, thank you, and document them. To make the most spectacular living fossil record the world has ever seen.",
+            "vietSub": "Đúng. Tôi đã... tổ chức một toán thám hiểm tới và... cảm ơn, và chứng minh lập một kỷ lực huy hoàng nhất về những hoá thạch sống mà thế giới chưa từng gặp."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Go in and document? You mean with people?",
+            "vietSub": "Khoan. Tới và chứng minh? Như với con người sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Yes, the animals won't know they're there. Very low impact. Strictly observation and documentation. Our satellite infrareds show the animals are fiercely territorial. The carnivores are isolated in the interior of the island so the team can stay on the outer rim. Don't worry. I'm not making the same mistakes again.",
+            "vietSub": "Đúng. Những con thú thậm chí không biết chúng ở đó. Tác động rất thấp. Quan sát và thu thập tài liệu nghiêm ngặt. Vệ tinh hồng ngoại cho thấy những con thú bị kiểm soát chặt chẽ. Thú ăn thịt được cách ly ở trong đảo. Vì thế toán thám hiểm có thể ở vòng ngoài. Đừng lo, tôi không phạm sai lầm lần nữa đâu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "No, you're making all new ones. John! So, there's another island with dinosaurs, no fences this time, and you want to send people in, very few people, on the ground, right?             Who are the four lunatics you're trying to con into this?",
+            "vietSub": "Không. Ông đang... ông đang phạm những sai lầm mới. Ờ, John... Thôi được, có những đảo khác có khủng long, không có rào. Ông muốn cử người tới, rất ít người, trên mặt đất, đúng không? Thế còn 4 thằng điên mà ông muốn cử đến là những ai?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "It was difficult to convince them as to what they would see, in the end had to use my checkbook to get them there. But there's Nick Van Owen, who is a video documentarian, Eddie Carr, who's a field equipment expert. We have our paleontologist and I was hoping I that perhaps you might be the fourth. We've been on the verge of Chapter 11 ever since that accident in the park. There are those in the company who wanted to exploit Site B in order to bail us out. They've been planning it for years, and I've been able to stop them until now. But, a few weeks ago, a British family on a yacht cruise stumbled across the island and their wee girl was injured. She's fine.              But the board has used the incident to take control of InGen from me.               Now it's only a matter of time before this lost world is found and pillaged.                        Public opinion is the one thing I can use to preserve it,   but to rally that support I need a complete photo record of those animals alive and in their natural habitat.",
+            "vietSub": "Thật khó khi thuyết phục họ đến với cái mà họ sẽ thấy. Rốt cuộc tôi đã phải xài đến séc để đưa họ tới đó. Có Nick Van Owen, người quay video. Eddie Carr, chuyên gia về thiết bị. Có nhà cổ sinh học của chúng ta, và tôi hy vọng có lẽ ông là người thứ tư. Xem đây, chúng ta đã ở ngưỡng của chương 11 kể từ sau tai nạn ở công viên. Có một số người trong công ty muốn khai thác khu B, nhầm gạt chúng ta ra. Họ âm mưu nhiều năm tới, và cho đến lúc này tôi vẫn cản được họ. Nhưng cách đây mấy tuần, một gia đình người Anh đi thuyền buồm tình cờ ghé vào hòn đảo. Và con gái họ đã bị thương.                                                                          Cố bé không việc gì đâu. Nhưng ban lãnh đạo đã sử dụng tai nạn này để chiếm quyền kiểm soát Ingen của tôi. Bây giờ vấn đề chỉ là thời gian trước khi một thế giới đã mất lại được tìm thấy, và bị chiếm đoạt. Công luận là điều mà tôi có thể sử dụng để bảo vệ.            Nhưng để tập hợp được sự ủng hộ, tôi cần một bộ ảnh đầy đủ của những con thú đó, còn sống và tại chỗ ở tự nhiên của chúng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "So you went from capitalist to naturalist in just four years.                    That's something.",
+            "vietSub": "Vậy là trong có 4 năm, ông đã chuyển từ chủ nghĩa tư bản sang chủ nghĩa tự nhiên. Có chuyện gì đó."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "It's our last chance at redemption.",
+            "vietSub": "Cơ hội chót của chúng ta để cứu vãn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "John, no. Of course, no. And I'm going to contact the other three members of your team and stop them from going. Who's the paleontologist, by the way?",
+            "vietSub": "John, không. Tất nhiên, không... và... tôi sẽ gặp 3 người kia trong toán ông, và tôi sẽ ngăn không cho họ đi. À, nhà cổ sinh học là ai thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "She came to me, I want you to know this.",
+            "vietSub": "Cô ta, cô ta đến gặp tôi. Tôi muốn anh biết việc này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Who did?",
+            "vietSub": "Ai thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Leave it to you, lan, to have associations, affiliations, even liaisons, with the best people in so many fields.",
+            "vietSub": "Cho anh biết, Ian, để có quan hệ, kể cả quan hệ bất chính với những người giỏi nhất trong nhiều lĩnh vực."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Not Sarah?",
+            "vietSub": "Ông không tiếp xúc với Sarah chứ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Paleontological behavior study is a new field,       and Sarah Harding is on that frontier.",
+            "vietSub": "Nghiên cứu về cổ sinh học là lĩnh vực hoàn toàn mới. Và Sarah Harding đang ở trong trận tuyến đó."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Không."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "Her theories on parenting and nurturing amongst carnivores have framed the debate. What are you doing?",
+            "vietSub": "Lý thuyết của cô ấy về nuôi và được nuôi giữa loài ăn thịt đã đóng khung cuộc tranh luận. Anh làm gì vậy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Where's your phone?",
+            "vietSub": "Điện thoại của ông đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "It's too late. She's already there. The others are meeting her in three days.",
+            "vietSub": "Quá muộn rồi. Cô ấy đến đó rồi. Những người kia sẽ gặp cô ấy trong ba ngày."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You sent my girlfriend to this island alone?",
+            "vietSub": "Ông cử bạn gái tôi tới đó một mình sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "\"Sent\" is hardly the word. She couldn't be restrained. She was already working in San Diego, doing some research at the animal park. It's only a couple of hours' flight from there. She was adamant, absolutely adamant about, here you are, about making the initial foray by herself. She thinks she's Dian Fossey. \"Observation without interference\", she said. She went on and on. You know how it is. After you were injured in the park, she sought you out. Then she went all the way to a hospital in Costa Rica to ask somebody who she didn't even know if the rumors were true.",
+            "vietSub": "\"Cử\" là một từ khó chịu. Không thể buộc cô ấy được. Cô ấy làm ở San Diego rồi, nghiên cứu ở vườn bách thú. Từ đó bay có vài tiếng thôi.                                               Cô ấy là người cứng rắn về... của anh đây... về việc đột nhậP trước.                            Cứ như là Dian Fossey.          Cô ấy bảo: \"Quan sát mà không bị quấy rầy.\" Cô ấy cứ xông bừa vào, anh biết rồi đấy. Sau khi anh bị thương ở Công viên, cô ấy phát hiện ra anh. Sau đó bằng mọi cách cô ấy tìm đến bệnh viện ở Costa Rica. Kể cả hỏi những người không quen biết có đúng như tin đồn không."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "If you want to leave your name on something, fine. But stop putting it on other people's headstones.",
+            "vietSub": "Nếu ông muốn lưu danh vào cái gì đó thì cứ việc. Nhưng đừng có ghi vào bia mộ người khác."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "John Hammond"
+        },
+        "subtitle": {
+            "engSub": "She'll be fine. She's spent years studying African predators. Sleeping downwind and all. She knows what she's doing. And, believe me, the research team will...",
+            "vietSub": "Kìa, cô ấy có sao đâu. Cô ấy nghiên cứu về dã thú châu Phi nhiều năm rồi, ngủ dưới gió... Cô ấy biết mình làm gì chứ. Cứ tin tôi, toán thám hiểm sẽ..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "It's not a research expedition anymore.      It's a rescue operation and it's leaving now.",
+            "vietSub": "Không có cuộc thám hiểm nghiên cứu nào nữa. Đó là chiến dịch giải cứu, và lên đường ngay."
+        }
+    }
+]

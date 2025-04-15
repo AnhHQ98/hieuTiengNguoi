@@ -1,0 +1,530 @@
+[
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Fifteen years ago, John Hammond had a dream. Like John himself, the dream was grand. It was outsized. It was bold. It was impractical. It was impractical.   But half an hour from now, John Hammond's dream, re-imagined, will come true. For .01 of the cost of building a destination resort thousands of miles away...",
+            "vietSub": "Cách đây 15 năm, John Hammond có một giấc mơ. Cũng y như John, giấc mơ thật vĩ đại, ngoại cỡ, táo bạo, phi lý, không thể có.                                Trong nửa giờ nữa, giấc mơ của John Hammond sẽ biến thành sự thật.              Với 1% giá thành xây dựng khu giải trí cách đây hàng ngàn dặm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Is this the Ludlow affair?",
+            "vietSub": "Đây có phải công ty Ludlow không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "It's private property.",
+            "vietSub": "Đây là tài sản cá nhân."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "We're on the list.",
+            "vietSub": "Không, chúng tôi có trong danh sách."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Turn around, get back in your car.",
+            "vietSub": "Ông bà phải quay lại. Về xe đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "This is Dr. Harding, I'm Dr. Malcolm.",
+            "vietSub": "Đây là Tiến sĩ Harding, tôi là Tiến sĩ Malcolm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "We have Mr. Ludlow's test results.",
+            "vietSub": "Chúng tôi có kết quả xét nghiệm của Ludlow."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "There's good and bad news.",
+            "vietSub": "Có tin tốt và tin xấu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Tonight we will christen Jurassic Park, San Diego, with a mega-attraction that will drive turnstile numbers to rival any theme park in the world. I want to thank each one of you for coming in these wee small hours of the morning.",
+            "vietSub": "Đêm nay chúng ta sẽ khai trương công viên Kỷ Jura San Diego, với sự siêu hấp dẫn để cạnh tranh với bất cứ công việc giải trí nào trên thế giới. Tôi muốn cảm ơn quý vị đã can đảm dành cho chút thời gian sáng nay."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "The ship is here.",
+            "vietSub": "Tàu đến rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "It's early?",
+            "vietSub": "Sớm thế à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "You better come now.",
+            "vietSub": "Ông đi thì hay hơn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "It's so exciting! See that couple?",
+            "vietSub": "Thật thú vị. Có thấy cặp kia không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Sir, you need to look at this.",
+            "vietSub": "Ngài cần xem cái này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Let them see this up close.",
+            "vietSub": "Hãy để họ xem thật gần."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Yes, sir.",
+            "vietSub": "Vâng, thưa ngài Ludlow."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Let me check. I want a direct line to the Coast Guard right now.",
+            "vietSub": "Để tôi xem. Tôi muốn liên lạc trực tiếp với Phòng vệ bờ biển gấp."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Look. That's their transponder signal, Venture 5888. They're coming in, but I can't raise them.",
+            "vietSub": "Này, tín hiệu của tàu họ đấy. Venture-5888. Họ đang hướng vào cảng, nhưng tôi không liên lạc được."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Try again.",
+            "vietSub": "Thử lại lần nữa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Skipper, SS Venture, this is InGen Harbor Master. Do you copy? Over. Skipper, SS Venture, you are approaching the breakwater at flank speed. Reduce at once. Over. SS Venture, reduce your speed at once. SS Venture, this is InGen Harbor Master. You are entering a docking area.",
+            "vietSub": "Thuyền trưởng S.S Venture, cảng InGen đây. Nghe thấy không? Thuyền trưởng S.S Venture, anh đang tiếp cận đê chắn sóng với tốc độ cao. Giảm tốc độ ngay. Thuyền trưởng S.S Venture, giảm tốc độ ngay. Thuyền trưởng S.S Venture, cảng Ingen đây. Anh đang vào cầu tàu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "What's everybody looking at?",
+            "vietSub": "Người ta nhìn cái gì vậy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "We should've stayed in the damn car.",
+            "vietSub": "Mình ở lại xe mới phải."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "You okay, Mr. Ludlow?",
+            "vietSub": "Ngài có sao không, Ludlow?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "I don't know. How do I look?",
+            "vietSub": "Tôi không biết. Trông tôi thế nào."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Go up this one.",
+            "vietSub": "Đỡ người này dậy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Oh, my God.",
+            "vietSub": "Chúa ơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Where's the crew?",
+            "vietSub": "Thuỷ thủ đoàn đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "All over the place.",
+            "vietSub": "La liệt khắp nơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "I smell a fuel leak! Check the cargo hold! There may be crew down there.",
+            "vietSub": "Soát dưới khoang hàng. Chắc họ ở dưới đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Everybody off the boat! No! Get away from that! Now you're John Hammond.",
+            "vietSub": "Tất cả rời tàu ngay. Không, buông cái đó ra. Bây giờ ông là John Hammond."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Chạy mau, đừng có ngoái lại."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Why wasn't it tranquilized?",
+            "vietSub": "Tại sao ông gây mê nó?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "It was, with two darts of Carfentanil. It was over 10 milligrams.",
+            "vietSub": "Roland đã bắn 2 mũi carfentanil đậm đặc. Trên 10 mg."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "That'd put it in a coma.",
+            "vietSub": "10 mg lẽ ra phải làm nó hôn mê."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "It stopped breathing. We gave it naltrexone to counteract. But we didn't know how much.",
+            "vietSub": "Nó ngừng thở nên chúng tôi chích naltrexon để giảm tác dụng. Nhưng không biết chích bao nhiêu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "You gave an antagonist without knowing the dosage? You put it in a narcoleptic state. It's a locomotive now.",
+            "vietSub": "Anh điều khiển gây mê mà không biết bao nhiêu là vừa à? Bây giờ nó là cái đầu máy xe lửa rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "We're prepared here.",
+            "vietSub": "Chúng tôi đã chuẩn bị điều này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Any more dinosaurs on the boat?",
+            "vietSub": "Còn con khủng long nào trên tàu không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "No, we brought the infant back on the plane. We had this to tranquilize it.",
+            "vietSub": "Không, chúng tôi đưa con nó về bằng máy bay. Đây, chúng tôi dùng cái này để gây mê."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Do you have the infant?",
+            "vietSub": "Này. Ông giữ con nó à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "It's safe.",
+            "vietSub": "An toàn rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "lan, the animal's dehydrated. First, it'll go to a water source then look for the next thing its body needs. All the containment equipment is here. We got to get it to the dock. The boat might be seaworthy.",
+            "vietSub": "Ian, con thú bị mất nước. Việc đầu tiên nó làm là sẽ đi tìm nguồn nước. Sau đó nó sẽ tìm nhu cầu thể xác của nó. Các thiết bị kiềm chế đều ở đây. Chúng ta phải đưa nó về cảng. Tàu có thể đi biển được."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I know what you're gonna Say.",
+            "vietSub": "Em nói gì thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "When we brought the baby to the trailer, it came. There's no reason why it won't do the same thing here.",
+            "vietSub": "Khi mình đem con nó vào toa xe, nó đã tới. Chẳng có lý do gì mà nó sẽ không làm thế ở đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Yep.",
+            "vietSub": "Ừ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Where's the infant?",
+            "vietSub": "Con nó đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "In a secured facility. Why?",
+            "vietSub": "Ở trong một phương tiện an toàn. Sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Where's the facility?",
+            "vietSub": "Phương tiện đâu?"
+        }
+    }
+]

@@ -1,0 +1,1509 @@
+[
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Lindstradt air rifle. Fires a subsonic Fluger impact delivery dart.",
+            "vietSub": "Súng hơi Lindstradt. Nó bắn ra mũi tên bằng sóng hạ âm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "It works better than your satellite phone?",
+            "vietSub": "Nó hoạt động khá hơn điện thoại vệ tinh của ông chứ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "That's funny. I loaded it with the enhanced venom of Conus Purpurascens, South Sea cone shell. Most powerful neurotoxin in the world. Acts within 0.002 of a second. Which is faster than the nerve-conduction velocity. So the animal's down before it even feels the prick of the dart.",
+            "vietSub": "Thật buồn cười. Tôi đã nạp nọc độc của con sò biển Conus, độc chất thần kinh mạnh nhất thế giới. Tác động trong 1 / 2000 giây. Nhanh hơn vận tốc tín hiệu thần kinh. Con vật gục xuống trước khi nó thấy... bị đốt."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Is there an antidote?",
+            "vietSub": "Có thuốc giải độc không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Like if you shot yourself in the foot? Don't do that. You'd be dead before you even realized you had an accident.",
+            "vietSub": "Anh sợ bị bắn vào chân à? Đừng làm thế. Anh sẽ chết trước khi biết anh bị tai nạn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "He says he's unloading us here.          He won't go further up the river. He's heard too many stories about this island chain. He'll drop us off and anchor offshore. ",
+            "vietSub": "Ông ta muốn dỡ hàng ở bờ biển ngay đây. Ông ấy không vào sông đâu. Ông ta nghe quá nhiều câu chuyện về quần đảo này rồi.        Ông ta muốn thả mình xuống và neo lại ngoài khơi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "What kind of stories?",
+            "vietSub": ""
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Stories of fishermen that came too close to the island and never returned. He has a radio. He has a satellite phone. When you need him, call and he'll be here in two hours. But he will not stay here.          He won't stay anywhere near these islands.          They call the islands \"Las Cinco Muertes\"",
+            "vietSub": "Ông ta nghe chuyện về những ngư phủ đến gần đảo quá, và không trở về nữa. Ông ta có điện đài, có điện thoại di động. Khi cần, anh cứ việc gọi. Hai tiếng sau, ông ta sẽ có mặt. Nhưng ông ta sẽ không ở lại đây. Ông ta không ở lại bất cứ chỗ nào gần quần đảo này. Họ gọi quần đảo là..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "What does that mean?",
+            "vietSub": "Thế là sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "\"The Five Deaths\", he says.",
+            "vietSub": "\"5 người chết\", ông ta bảo thế."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "I put a location sensor in Dr. Harding's phone,                  so we should get a reading.",
+            "vietSub": "Tôi đã cấy cảm biến vị trí vào điện thoại của Tiến sĩ Harding. Vì thế chúng ta sẽ biết rõ hơn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "I'm so relieved.",
+            "vietSub": "Tôi rất hài lòng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Don't push my buttons.",
+            "vietSub": "Đừng nhấn vào nút của tôi nhé."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "We're almost on top of her dot.                      She should be around here.",
+            "vietSub": "Vị trí của mình gần như ngay trên vị trí của cô ấy. Chắc cô ấy ở quanh đây thôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Over there.",
+            "vietSub": "Đằng kia kìa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Sarah,",
+            "vietSub": "Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Sarah.",
+            "vietSub": "Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Sarah.",
+            "vietSub": "Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Sarah Harding.",
+            "vietSub": "Sarah Harding."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "How many Sarahs do you think are on this island? Sarah.",
+            "vietSub": "Anh cho là trên hòn đảo này có... bao nhiêu Sarah chứ? Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Sarah.",
+            "vietSub": "Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Sa... What?",
+            "vietSub": "Sa... Gì thế?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Something big. Wow. This is magnificent.",
+            "vietSub": "Có cái gì lớn lắm. Trời đất. Thật là... thật là phi thường."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Yeah. \"Ooh, ah\", that's how it always starts. But then later there's running and screaming.",
+            "vietSub": "Ờ, gớm thật. Đó luôn là cách nó bắt đầu. Sau đó là chạy và sau đó là la."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Nick!",
+            "vietSub": "Ê Nick"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "I guess you got the jump on us, didn't you, Sarah?",
+            "vietSub": "Tôi cứ tưởng chị nhảy vào chúng tôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Yeah. lan, I never thought in a million years Hammond could get you to come here. Hi, Eddie.",
+            "vietSub": "Ừ. Ian, 1 triệu năm em cũng chẳng nghĩ Hammond lại cử anh đến đây. Chào Eddie."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Hi, Sarah.",
+            "vietSub": "Chào Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Got a granola bar or something? I'm starving. Did you see those animals? A family group, a pair-bond and a sub-adult, long after the juvenile was nest bound. Every egg clutch I've seen has crushed, trampled shells. Hatchlings stay in the birth environment a long time. That's conclusive. I can put that controversy to rest if I get a shot of the nest.",
+            "vietSub": "Có ăn gì không? Tôi... đói quá. Mấy con thú đi ngang, anh có thấy không? Một gia đình, một cặp vợ chồng và một con sắp trưởng thành. Sau thời kỳ lớn là thời kỳ làm tổ. Chắc chắn những con mới nở ở lại nơi sinh một thời gian dài. Đó là kết luận. Em có thể kết thúc cuộc tranh cãi nếu chụp được tổ chúng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Have you been attacked?",
+            "vietSub": "Em không bị tấn công à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "No, that's my lucky pack. That's how it always looks.",
+            "vietSub": "Ồ, không. Cái ba lô may mắn của em. Trông nó luôn như vậy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Okay, Sarah...",
+            "vietSub": "Thôi được, Sarah..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Is that a Nikon?",
+            "vietSub": "Máy Nikon à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Ừ, Nikon."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Can I borrow that? I'll be right back, baby, I promise.",
+            "vietSub": "Cho tôi mượn được không? Em quay lại ngay, anh yêu. Em hứa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "When Hammond called you, why didn't you say something to me?",
+            "vietSub": "Sarah, lúc Hammond gọi cho em, sao em không nhắn gì cho anh?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "I knew you would have stopped me from coming.",
+            "vietSub": "Bởi vì em biết anh sẽ cản không cho em đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I would have tied you to the bed.",
+            "vietSub": "Anh sẽ trói em vào giường, đúng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "I know how they survived without lysine.",
+            "vietSub": "Em biết cách loài vật tồn tại mà không cần lycine rồi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I don't care.",
+            "vietSub": "Anh không quan tâm."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "The herbivore species that are thriving eat mostly agama beans, soy, anything lysine-rich.                   And the carnivores eat the herbivores, so... Wait. Stay there. Be quiet. I'll be right back.",
+            "vietSub": "Nếu anh xem đồ ăn của loài ăn cỏ đang thịnh vượng, phần lớn chúng ăn cây họ đậu, bất cứ cái gì giàu lycine. Còn loài ăn thịt thì ăn loài ăn cỏ... Chờ đã, chờ đã... Chờ đấy đi, im lặng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "No!",
+            "vietSub": "Sarah, đừng, đừng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Stay there.",
+            "vietSub": "Chờ đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "She's much too close. What the hell is she doing? Too close. She has to touch it. She can't not touch. She's going right up to it. Once she sees something, she has to...",
+            "vietSub": "Gần quá, gần quá. Kìa, cô ấy sờ vào nó. Cô ấy không thể sờ vào nó. Nhìn xem kìa. Khi cô ấy thấy cái gì, cô ấy phải..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Is this even possible?",
+            "vietSub": "Ôi, có thể thế được hay sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "What? This? What did you think you'd document?           What did you think you'd see?",
+            "vietSub": "Gì? Đây hả? Ông nghĩ là ông đang chứng minh cái gì đây? Ông đang thấy cái gì đây?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Animals. Maybe, big iguanas.",
+            "vietSub": "Loài vật. Có lẽ... con kỳ nhông lớn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Fruitcakes.",
+            "vietSub": "Đồ ngốc."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "They get very angry when you run out of film.",
+            "vietSub": "Khi anh hết phim là chúng nổi giận."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Sarah! Shoot them!",
+            "vietSub": "Sarah, Sarah, Sarah, Sarah. Bắn đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "They're just protecting their baby.",
+            "vietSub": "Chúng bảo vệ con thôi mà."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "So am I!",
+            "vietSub": "Tôi cũng thế."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "I think they're leaving.",
+            "vietSub": "Chúng bỏ đi. Tôi nghĩ là chúng bỏ đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Wow. These images are incredible. Legendary. Guys shoot their whole life, they never get stuff half this good. Just give me the Pulitzer right now. Today, please.The competition's over, close the entries, I'd like to thank everyone who lost.",
+            "vietSub": "Những tấm ảnh này thật khó tin nổi. Chụp được cả một cuộc sống. Chẳng bao giờ họ làm được lấy một nửa. Anh có thể trao giải Pulitzer cho tôi ngay bây giờ được rồi. Cuộc cạnh tranh kết thúc, đóng cửa lại. Tôi muốn cảm ơn những người đã khuất."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Don't light that! Dinosaurs pick up scents from miles away. We're here to observe and document, not interact.",
+            "vietSub": "Đừng có chiếu sáng. Khủng long nhận ra mùi cách xa cả dặm. Chúng ta đến đây lấy tài liệu chứ không phải phối hợp."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Which, by the way, is a scientific impossibility. Heisenberg Uncertainty Principle. What you study, you also change.",
+            "vietSub": "Đó là một thiếu sót trong khoa học. Nguyên tắc không rõ ràng Heisenberg. Dù nghiên cứu gì, em cũng thay đổi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "I'll risk it. I'm sick of scratching around in rock and bone making assumptions and deductions about the nurturing habits of animals that have been dead for 65 million years. I'm sick of it, man. Then you fill my head with stories for four years.               Of course I came down here.",
+            "vietSub": "Em sẽ liều. Em chán việc gai quanh tảng đá, làm tóm lược, diễn giải về... thói quen ăn uống của loài thú đã chết 65 triệu năm nay rồi. Em chán rồi.                                                 Anh lại còn nhồi vào đầu em những câu chuyện trong 4 năm trời. Tất nhiên là em sẽ xuống đây. Anh chờ cái gì?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Stories of mutilation and death. Weren't you paying attention?",
+            "vietSub": "Những câu chuyện về tàn tật và chết chóc. Em không chú ý à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Please! Don't treat me like I'm a grad student.  I've worked around predators since I was 20 years old.  Lions, jackals, hyenas, you.",
+            "vietSub": "Thôi đi, đừng cư xử với em như học trò.         Em làm việc với dã thú từ năm 20 tuổi.                  Sư tử, chó rừng, linh cẩu, anh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Where's the fire?",
+            "vietSub": "Lửa đâu thế này?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "I'm trying to change 100 years of entrenched dogma.  Dinosaurs were characterized very early on as vicious lizards.  There's great resistance to the idea of them as nurturing parents.         Robert Burke said the T.rex was a rogue who abandoned its young at the earliest opportunity. I can prove otherwise.",
+            "vietSub": "Em đang tính thay đổi 100 năm giáo điều.            Loài khủng long được mô tả như loài thằn lằn độc ác.            Có một thoả thuận tuyệt vời chống lại ý kiến chúng được cha mẹ nuôi dưỡng. Robert Burke nói rằng con T.rex là con độc. Nó bỏ đàn ngay khi có cơ hội. Em có thể chứng minh khác."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "Fire! Dr. Malcolm, fire, base camp!",
+            "vietSub": "Lửa! Tiến sĩ Malcolm, lửa! Trại chính!"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "No! Water makes the smoke billow. Use dirt!",
+            "vietSub": "Đừng. Nước làm khói cuộn lên. Dùng đất đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Who started the fire?",
+            "vietSub": "Ai đốt thế nhỉ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I just wanted to make dinner. I wanted it ready when you guys got back.",
+            "vietSub": "Con định nấu bữa tối đấy mà. Con muốn khi mọi người quay về, tất cả đã xong."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Nick Van Owen"
+        },
+        "subtitle": {
+            "engSub": "Do you see any family resemblance there?",
+            "vietSub": "Anh có thấy gia đình nào tương tự không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You practically told me to come here.",
+            "vietSub": "Bố bảo con đến đây."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I... What?",
+            "vietSub": "Bố, bố... cái gì?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You said \"Don't listen to me\". I thought you were trying to tell me something.",
+            "vietSub": "Bố bảo con \"đừng có nghe lời bố\". Con tưởng bố định bảo con điều gì đó."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Kelly, you knew exactly what I meant. You have no...",
+            "vietSub": "Kelly, Kelly. Con biết rõ bố nói về cái gì mà."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "You want to lock her up for her curiosity? Where do you think she gets it?",
+            "vietSub": "Sao, anh định nhốt nó vì tò mò à? Anh cho là nó sẽ tìm ở đâu?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Thank you, Sarah.",
+            "vietSub": "Cảm ơn cô, Sarah."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Don't start the teaming-up thing. Out of the conversation. Eddie?",
+            "vietSub": "Này, đừng có thêm đồ vào nữa. Chấm dứt đối thoại đi. Eddie?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "What?",
+            "vietSub": "Gì?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Why in the hell doesn't this thing ever work?",
+            "vietSub": "Anh dùng cái thứ này đó hả? Thế quái nào cái này không chạy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "It's not a landline You're not in a hone booth.          You got to wait for a decent signal. Violence and technology, not good bedfellows.",
+            "vietSub": "Đó không phải máy hữu tuyến. Anh không liên lạc được đâu. Anh phải chờ tín hiệu đàng hoàng. Bạo lực và kỹ thuật không nằm chung giường được."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Hammond wants your equipment as close to the animals as possible.",
+            "vietSub": "Loại tài liệu mà Hammond muốn đặt anh và các thiết bị của anh vào gần khu vực của loài vật một cách rất an toàn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Great idea. And why don't you smear on a little sheep's blood?   Eddie, is there any reason to think the radio in the trailer might work?    Don't tease me.",
+            "vietSub": "Trong khi ở đó, sao em không tự bôi máu cừu vào người?          Eddie, liệu điện đài trong xe có hoạt động không đấy? Đừng chọc tôi.        Tôi không muốn mất hy vọng đâu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "If you feel qualified, try flicking the switch to \"on\".",
+            "vietSub": "Nếu anh thấy đủ điều kiện, anh cứ việc bật công tắc."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Okay, I'm taking my daughter out of here. Anyone coming with me, this is your last chance to get out.",
+            "vietSub": "Thôi được. Tôi sẽ đưa con tôi ra khỏi đây. Ai muốn đi cùng thì đây là cơ hội thoát cuối cùng đấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "When you're out in the field... ",
+            "vietSub": "Vậy khi anh chạy ra ngoài đồng, bọn tôi không được làm gì, không được, ... Ngửi thấy mùi máu là các anh tiêu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Nick, if you're staying, I'll gladly deliver a letter to your wife or loved one so you can say goodbye. Eddie, if you have any personal effects it's the least I can do. I'll be in there, guys.",
+            "vietSub": "Nick, nếu anh ở lại, tôi rất vui lòng chuyển thư cho vợ hoặc người yêu anh. Anh có dịp từ biệt cô ấy nhé."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Our presence needs to be 100% antiseptic. If we so much as bend a blade of grass...",
+            "vietSub": "Chúng ta cần khử trùng 100%. Nếu làm gãy quá nhiều cỏ..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Dad, are you mad?",
+            "vietSub": "Bố mất trí rồi à?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "No, I'm not mad. I'm furious.                What is this? This looks like your room.",
+            "vietSub": "Bố không mất trí. Bố đang điên tiết lên đây. Cái gì đây? Trông cứ như phòng của con vậy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "I was going to clean it up.",
+            "vietSub": "Con đang định dọn."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Right now. What is this? There are 100 switches!",
+            "vietSub": "Dọn ngay đi. Gì thế này? Eddie, Eddie, hàng trăm cái công tắc."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Don't be mad. I was going to call to let you know where I was.       I always do, don't I?           I'm the best kind of girlfriend there is.   One who travels a lot. You like that, right?",
+            "vietSub": "Ian, đừng có vậy chứ. Em đang định gọi cho anh để anh biết em ở đâu? Em luôn làm thế mà, đúng không? Thôi nào, em là loại bạn gái tốt nhất đấy. Đi rất nhiều. Anh thích thế đúng không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You love your independence. I've gotten used to being apart, but that's not how I want to live. Kelly, this is tall talk. Just for a minute.",
+            "vietSub": "Anh yêu sự độc lập của anh. Anh đã từng tan vỡ. Nhưng đó không phải là cách anh muốn sống. Kelly, đây là... người lớn nói chuyện. Chút xíu thôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "It's like a height restriction at an amusement park.",
+            "vietSub": "Cứ như là khu vực cấm trong công viên ấy."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "If you wanted to rescue me, why didn't you bail me out from that museum fundraiser three weeks ago, like you said you would?",
+            "vietSub": "Nếu anh muốn giải cứu em, tại sao anh không bảo lãnh cho em nhận quỹ tài trợ ở viện bảo tàng cách đây 3 tuần như anh nói?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "This is a slightly different situation.",
+            "vietSub": "Tình hình này hơi khác."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "What about the dinner with your parents you never showed up for?                         Why not rescue me when I really need it? Be there when you say you will? I have made a career out of waiting for you.",
+            "vietSub": "Thế tại sao anh không cứu em khỏi bữa ăn tối với cha mẹ anh mà anh chẳng bao giờ có mặt? Tại sao không cứu em lúc em cần? Anh nói sẽ có mặt mà? Em đã mất sự nghiệp khi chờ anh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "You know, Sarah has a pretty good...",
+            "vietSub": "Bố biết đấy, cô Sarah có..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "It's so important to your future that you not finish that sentence.              Please, outside!",
+            "vietSub": "Việc con không hoàn thành câu nói đó rất quan trọng đối với tương lai của con. Thôi ra ngoài chơi đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "lan, come on. Look.      I love that you rode in here on a white horse. I really do. It's very touching, very dramatic. I just need you to show up in a cab every once in a while, too. What are you doing? Don't go out there. It's not safe. Stay in here. Come back. Shut the door.",
+            "vietSub": "Ian, thôi nào, thôi nào. Này, Em thích việc anh đến đây trên lưng con ngựa trắng. Rất dịu dàng, rất cảm động. Em chỉ cần anh xuất hiện trong xe mỗi lúc một chút thôi. Kelly, làm gì thế? Này, đừng có ra ngoài. Không an toàn đâu. Ở đây đi. Quay lại, đóng cửa vào."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Okay. I know what I'm doing. You guys should definitely go. But I'm going to stay. I love you. I just don't need you right now.",
+            "vietSub": "Thôi được. Em biết mình đang làm gì. Hai người cứ việc đi, nhưng em ở lại. Em yêu anh. Có điều là lúc này em không cần anh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "What you need is a good anti-psychotic.",
+            "vietSub": "Anh sẽ cho em biết em cần gì... Một bác sĩ tâm thần giỏi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "I'll be back in five or six days.",
+            "vietSub": "Năm hoặc sáu ngày nữa em sẽ về."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "No, you'll be back in five or six pieces.",
+            "vietSub": "Em sẽ về với năm hoặc sáu mảnh."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "What bothers you is that I'm not afraid of this place, and you are.",
+            "vietSub": "Anh bực vì em không sợ chỗ này, còn anh thì sợ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Of course I am. That's the whole thing. All I want is...",
+            "vietSub": "Tất nhiên thôi. Đó là toàn bộ vấn đề."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "What's that sound?",
+            "vietSub": "Này, tiếng gì thế nhỉ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Ian Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Here we go. I'll get you out on one of these, now. Hello! Over here!",
+            "vietSub": "Đây rồi. Bố sẽ đưa con rời chỗ này bằng cái đó. Xin chào, đây này."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Eddie Carr"
+        },
+        "subtitle": {
+            "engSub": "I don't get it. It says InGen on the side of that chopper! I don't get that. Why would Hammond send two teams?",
+            "vietSub": "Không chụp được. Nó báo Ingen ở bên cạnh trực thăng. Không chụp được. Sao Hammond lại phái tới hai toán nhỉ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Kelly Curtis Malcolm"
+        },
+        "subtitle": {
+            "engSub": "Cut the umbilical, Dad!",
+            "vietSub": "Cắt dây rốn đi bố."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Sarah Harding"
+        },
+        "subtitle": {
+            "engSub": "Doesn't he trust us? We haven't even started.",
+            "vietSub": "Ông ta không tin mình à? Thậm chí mình chưa bắt đầu nữa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "This is as good a place as any for base camp. That's first priority after we're finished. I want it up and running in 30 minutes. That's half an hour. Understood? Over.",
+            "vietSub": "Chỗ này đóng trại tốt đấy.                  Đó là chỗ ưu tiên nhất khi xong việc.       Tôi muốn sẵn sàng trong 30 phút.        Nửa giờ đấy. Hiểu chưa? Hết."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "Cancel that order.",
+            "vietSub": "Huỷ lệnh đó đi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "What? Why?",
+            "vietSub": "Cái gì? Tại sao?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "This is a game trail, Mr. Ludlow.        Carnivores hunt on game trails. You want to set up base camp or a buffet?",
+            "vietSub": "Đây là trò chơi săn lùng, ông Ludlow ạ. Loài ăn thịt chơi săn lùng.     Ông muốn dựng trại hay ăn tiệc đứng?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Let's find a new spot, shall we? Over and out.",
+            "vietSub": "Chúng ta tìm điểm mới nhé. Chấm dứt."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "Peter, if I run your little camping trip, there are two conditions.      First, I'm in charge. If I'm not around, Dieter is.             You just pay us, tell us we're doing well, and serve us Scotch after a good day.            Second condition, my fee. You can keep it.  All I want for my services, is the right to hunt a tyrannosaurus.                           A male. A buck only.        How and why are my business.        If you don't like those conditions, you're on your own.                 So go ahead, set up base camp here, in a swamp, or in the middle of a Rex nest for all I care.      I've had too many safaris with rich dentists to listen to any more suicidal ideas. Okay?",
+            "vietSub": "Peter, nếu ông muốn tôi điều hành chuyến du ngoạn, tôi có 2 điều kiện. Thứ nhất, tôi chịu trách nhiệm, khi tôi vắng mặt thì là Dieter. Việc của ông là ký séc. Nếu chúng tôi làm tốt thì nói, và khi nào tốt ngày thì gỡ băng keo ra. Thứ hai, thù lao của tôi, ông có thể giữ. Tất cả những gì tôi muốn trong cuộc đổi chác này là quyền săn một con khủng long bạo chúa. Một con đực, chỉ một thôi. Thế nào và bao nhiêu là việc của tôi. Nếu ông không lưu ý đến dù chỉ 1 trong 2 điều kiện thì ông đi đằng ông. Cứ việc, dựng trại ngay đây, hay trong đầm lầy, hoặc là giữa tổ con rex là những gì tôi quan tâm. Nhưng tôi đi săn với các ông nha sĩ giàu có quá nhiều rồi. Nên tôi không muốn nghe những ý tưởng tự sát nữa, được chứ?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Okay.",
+            "vietSub": "Được thôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Cycle, break off the stray from the herd and flush him to the right.",
+            "vietSub": "Cycle, dồn con đi lạc ra khỏi bầy và đuổi nó sang phải."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "Snaggers, stay ready. He's bringing them out to you. It'll be a Pachy... Pachya... Oh, hell. The fat head with the bald spot. Friar Tuck.",
+            "vietSub": "Snaggers, chuẩn bị sẵn sàng. Nó sẽ đến chỗ anh đấy. Nó... con... Pachy... Pachya... Quỷ thật. Thằng đầu bóng mập, Friar Tuck."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "Stop. Pachycephalosaurus.",
+            "vietSub": "Dừng lại. Con Pachycephalosaurus."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "Carnivore?",
+            "vietSub": "Ăn thịt hả?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "No, herbivore, late Cretaceous.          See the distinctive domed skull?    Nine inches of solid bone. Now, careful. See, the Pachy's neck attaches at the bottom of its skull, not at the back of its head. When it lowers its head, its neck lines up with its backbone, which is perfect for absorbing impact.",
+            "vietSub": "Không, không. Ăn cỏ, thuộc kỷ Phấn Trắng. Thấy cái sọ hình vòm kia không? Xương đặc 9 inch. Cẩn thận đấy. Cổ con Pachy gắn với đáy sọ, thay vì sau gáy như loài bò sát.                                     Khi nó hạ thấp đầu xuống, cổ nó thẳng hàng với xương gáy. Một bộ chống va hoàn hảo."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "Snagger, Friar Tuck's on the loose, just about to cross your path. Dieter, get in the outrigger. You're closing in on a carina...",
+            "vietSub": "Snaggers, Friak Tuck xổng rồi. Nó sắp chạy sang chỗ anh đấy. Dieter, đến gần cái cột móc. Anh đang đến gần con... Carina..."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Dieter Stark"
+        },
+        "subtitle": {
+            "engSub": "Say that again, Roland. A what?",
+            "vietSub": "Nói lại coi, nói lại đi Roland. Con gì?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "The one with the big red horn. The pompadour. Elvis.",
+            "vietSub": "Con... con có cái sừng đỏ lớn. Con Pompadour, Elvis ạ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Dieter Stark"
+        },
+        "subtitle": {
+            "engSub": "Take me out. Okay, Carter, reel me in.           Easy!       Not too close.                              Go for the legs! The legs! Watch the tail!",
+            "vietSub": "Cho tôi ra đi, Carter. Rồi, Carter, kéo tôi vào. Bình tĩnh. Đừng đến gần quá các cậu. Đừng đến gần quá. Đến chân nó, chân. Coi chừng cái đuôi."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": ""
+        },
+        "subtitle": {
+            "engSub": "",
+            "vietSub": "Coi chừng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "Burke, come here. Recognize this trackway?",
+            "vietSub": "Burke, lại đây. Ông có nhận ra dấu chân này không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "Yes, I do. Tyrannosaur.",
+            "vietSub": "Có. Con khủng long bạo chúa."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Roland. Where do you think you're going?",
+            "vietSub": "A, Roland, Roland, này. Ông đi đâu đấy?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "To collect my fee, Mr. Ludlow. To collect my fee.",
+            "vietSub": "Đi lượm thù lao, ông Ludlow ạ. Đi lượm thù lao."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "Oh, my God. Procompsognathus triassicus, found by Frass in Bavaria in 1913.",
+            "vietSub": "Ối Chúa ơi, Procompsognathus triassicus. Do Frass tìm ra tại Bavaria năm 1913."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Dieter Stark"
+        },
+        "subtitle": {
+            "engSub": "Is it dangerous?",
+            "vietSub": "Có nguy hiểm không?"
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "No, I wouldn't think so. The Compy's been presumed to be a scavengers, like jackals.",
+            "vietSub": "Không, tôi nghĩ là không. Compys được cho là ăn xác chết như loài chó rừng."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Dieter Stark"
+        },
+        "subtitle": {
+            "engSub": "It gives me the creeps. It's like it's not scared.",
+            "vietSub": "Nó làm tôi sởn da gà. Cứ như là không đáng sợ."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Robert Burke"
+        },
+        "subtitle": {
+            "engSub": "There haven't been any visitors to this island. There's no reason for it to fear man.",
+            "vietSub": "Đảo này không có nhiều khách đến.               Nó không có lý do gì để sợ người cả."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Dieter Stark"
+        },
+        "subtitle": {
+            "engSub": "Now it does.",
+            "vietSub": "Bây giờ thì có."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "It's the Rex nest. Infant's probably only a couple weeks old. Never left the nest. Offspring that young, the parents won't leave him alone for too long.",
+            "vietSub": "Đó là tổ con rex. Con nó chắc mới vài tuần tuổi. Nó không hề rời tổ. Bắt con con. Cha mẹ nó không rời nó lâu đâu."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Peter Ludlow"
+        },
+        "subtitle": {
+            "engSub": "Make your blind here, wait for the buck to return.",
+            "vietSub": "Nấp ở đâu đi, chờ con đực về."
+        }
+    },
+    {
+        "shotNumber": 1,
+        "character": {
+            "face": "",
+            "name": "Roland Tembo"
+        },
+        "subtitle": {
+            "engSub": "No. If the nest is upwind, then so are we.       When he comes back, he's gonna know we're here without us having a chance. The trick is to get him to come where we want him.",
+            "vietSub": "Không được. Tổ nằm ở đầu gió, chúng ta cũng thế. Khi nó về, nó sẽ biết mình ở đây. Mình sẽ không có cơ hội... dùng mẹo... để đưa nó đến nơi mình muốn."
+        }
+    }
+]

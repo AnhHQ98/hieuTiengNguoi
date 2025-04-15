@@ -1,0 +1,20 @@
+{
+    "slug": "jurassic-park",
+    "englishName": "Jurassic Park",
+    "parts": [
+        {
+            "part": 1,
+            "year": 1993,
+            "duration": 127
+        },
+        {
+            "part": 2,
+            "englishPartTitle": "The Lost World",
+            "year": 1997
+        },
+        {
+            "part": 3,
+            "year": 2001
+        }
+    ]
+}
