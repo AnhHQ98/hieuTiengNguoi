@@ -3,9 +3,14 @@ import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
-function FilmInfo1({ film_json }) {
-    const [selectedScene, setSelectedScene] = useState(null);
-
+function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
+    const [wordClass, setWordClass] = useState({});
+    useEffect(() => {
+        fetch('http://localhost:1025/wordclass')
+            .then((res) => res.json())
+            .then((data) => setWordClass(data))
+            .catch((err) => console.error('❌ Lỗi fetch wordClass từ backend:', err));
+    }, []);
     return (
         <div className={cx('filmWrapper')}>
             <div className={cx('filmInfomation')}>
@@ -18,14 +23,14 @@ function FilmInfo1({ film_json }) {
             </div>
             <ol className={cx('sceneList')}>
                 {film_json.sceneList.map((scene) => (
-                    <li key={scene.scene} onClick={() => setSelectedScene(scene)}>
+                    <li key={scene.scene} onClick={() => onSceneClick(scene.scene)}>
                         Scene {scene.scene}
                     </li>
                 ))}
             </ol>
-            {selectedScene && (
+            {Array.isArray(sceneContent) && sceneContent.length > 0 && (
                 <div className={cx('sceneContent')}>
-                    {selectedScene.sceneContent.map((shot, shotNumber) => (
+                    {sceneContent.map((shot, shotNumber) => (
                         <div className={cx('shot')} key={shotNumber}>
                             <div className={cx('character')}>
                                 <span className={cx('characterName')}>{shot.character.name}</span>

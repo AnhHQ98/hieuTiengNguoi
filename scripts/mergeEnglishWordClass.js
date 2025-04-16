@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const inputDir = path.join(__dirname, '../public/json/english/vocabulary/wordClass');
-const outputFile = path.join(__dirname, '../public/json/english/vocabulary/wordClass.json');
+const inputDir = path.join(__dirname, '../data/json/english/vocabulary/wordClass');
+const outputFile = path.join(__dirname, '../data/json/english/vocabulary/wordClass.json');
 
 function readWordClass(dirPath) {
     let wordClass = {};
@@ -17,10 +17,9 @@ function readWordClass(dirPath) {
                 const jsonString = fs.readFileSync(fullPath, 'utf8');
                 const jsonObject = JSON.parse(jsonString);
                 const type = path.basename(entry.name, '.json');
-                if (!wordClass[type]) {
-                    wordClass[type] = {};
+                for (const [word, info] of Object.entries(jsonObject)) {
+                    wordClass[word] = info;
                 }
-                wordClass[type] = {...wordClass[type], ...jsonObject};
             } catch(err) {
                 console.error(`❌ Lỗi khi đọc hoặc parse file ${entry.name}:`, err);
             }

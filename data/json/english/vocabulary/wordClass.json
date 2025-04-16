@@ -1,51 +1,42 @@
 {
-    "opinionAdjective": {
-        "beautiful": {
-            "vietnameseMeaning": [
-                "đẹp",
-                "đẹp tuyệt"
-            ]
-        },
-        "wonderful": {
-            "vietnameseMeaning": [
-                "tuyệt vời"
+    "beautiful": {
+        "vietnameseMeaning": [
+            "đẹp",
+            "đẹp tuyệt"
+        ]
+    },
+    "wonderful": {
+        "vietnameseMeaning": [
+            "tuyệt vời"
+        ]
+    },
+    "that": {
+        "vietnameseMeaning": [
+            "thật"
+        ]
+    },
+    "you": {
+        "vietnameseMeaning": [
+            "bạn",
+            "chú"
+        ]
+    },
+    "look": {
+        "vietnameseMeaning": [
+            "nhìn",
+            "trông",
+            "trông như"
+        ],
+        "tenses": {
+            "presentSimple": [
+                "look",
+                "looks"
             ]
         }
     },
-    "multiFunctionWord": {
-        "that": {
-            "vietnameseMeaning": [
-                "thật"
-            ]
-        }
-    },
-    "personalPronoun": {
-        "you": {
-            "vietnameseMeaning": [
-                "bạn",
-                "chú"
-            ]
-        }
-    },
-    "linkingVerb": {
-        "look": {
-            "vietnameseMeaning": [
-                "nhìn",
-                "trông",
-                "trông như"
-            ],
-            "tenses": {
-                "presentSimple": [
-                    "looks"
-                ]
-            }
-        }
-    },
-    "regularVerb": {
-        "thank": {
-            "vietnameseMeaning": [
-                "cảm ơn"
-            ]
-        }
+    "thank": {
+        "vietnameseMeaning": [
+            "cảm ơn"
+        ]
     }
 }
