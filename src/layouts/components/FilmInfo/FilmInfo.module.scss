@@ -45,15 +45,17 @@
 }
 
 .engSub {
-
+    background-color: var(--engsub-background);
+    padding: 16px 32px;
 }
 
 .engSubWord {
     font-family: inherit;
-    background-color: #323c4a;
+    background-color: var(--engsub-input-background);
     text-align: center;
     font-size: 1.8rem;
-    padding: 8px;
+    width: auto;
+    padding: 8px 16px;
     margin: 8px 0;
     border: 1px solid transparent;
     border-radius: 8px;
@@ -61,7 +63,7 @@
 }
 
 .engSubWord:focus {
-    background-color: var(--engsub-input-background);
+    background-color: var(--engsub-input-background-focus);
     border-color: var(--engsub-input-color);
 }
 
