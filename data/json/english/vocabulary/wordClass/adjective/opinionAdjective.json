@@ -1,8 +1,12 @@
 {
     "beautiful": {
+        "type": "adjective",
+        "subtype": "opinion",
         "vietnameseMeaning": ["đẹp", "đẹp tuyệt"]
     },
     "wonderful": {
+        "type": "adjective",
+        "subtype": "opinion",
         "vietnameseMeaning": ["tuyệt vời"]
     }
 }

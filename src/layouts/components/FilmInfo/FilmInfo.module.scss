@@ -28,11 +28,12 @@
 
 .subtitle {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
 }
 
 .vietSub {
     font-size: 1.6rem;
+    margin: 8px 0;
 }
 
 .vietSubMeaning {
@@ -40,7 +41,6 @@
     display: inline-block;
     background-color: #ccc;
     padding: 8px 12px;
-    margin-top: 8px;
     border-radius: 8px;
 }
 

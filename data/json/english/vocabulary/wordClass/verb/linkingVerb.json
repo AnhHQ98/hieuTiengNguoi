@@ -1,5 +1,7 @@
 {
     "look": {
+        "type": "verb",
+        "subtype": "linking",
         "vietnameseMeaning": ["nhìn", "trông", "trông như"],
         "tenses": {
             "presentSimple": ["look", "looks"]

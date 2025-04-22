@@ -1,5 +1,7 @@
 {
     "everybody": {
+        "type": "pronoun",
+        "subtype": "indefinite",
         "vietnameseMeaning": ["mọi người"]
     }
 }

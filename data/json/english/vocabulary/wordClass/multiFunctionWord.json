@@ -1,5 +1,7 @@
 {
     "that": {
+        "type": "",
+        "subtype": "multiFunction",
         "vietnameseMeaning": ["thật"]
     }
 }

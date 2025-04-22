@@ -1,5 +1,7 @@
 {
     "thank": {
+        "type": "verb",
+        "subtype": "regular",
         "vietnameseMeaning": ["cảm ơn"]
     }
 }

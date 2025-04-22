@@ -1,5 +1,7 @@
 {
     "you": {
+        "type": "pronoun",
+        "subtype": "personal",
         "vietnameseMeaning": ["bạn", "chú"]
     }
 }
