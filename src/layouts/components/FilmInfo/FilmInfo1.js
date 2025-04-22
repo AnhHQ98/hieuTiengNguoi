@@ -38,28 +38,51 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                 <div className={cx('sceneContent')}>
                     {sceneContent.map((shot, shotNumber) => {
                         let engSubWords = shot.subtitle.engSub.match(/[a-zA-Z0-9]+|[.,!?…]+|\s+/g);
-                        Object.entries(wordClass)
-                            .filter(([key, val]) => val.subtype === 'phrase')
+                        Object.entries(wordClass).filter(([key, val]) => val.subtype === 'phrase')
                             .forEach(([phrase]) => {
+                                // const phraseParts = phrase.split(' ');
+                                // const phraseLengthIncludeSpace = phraseParts.length * 2 - 1;
+                                // if (shot.subtitle.engSub.includes(phrase)) {
+                                //     // console.log('phraseLengthIncludeSpace: ', phraseLengthIncludeSpace);
+                                //     for (let i = 0; i <= engSubWords.length - phraseLengthIncludeSpace; i++) {
+                                //         const phraseSegment = engSubWords.slice(i, i + phraseLengthIncludeSpace).join('');
+                                //         if (phraseSegment === phrase) {
+                                //             engSubWords.splice(i, phraseLengthIncludeSpace, phraseSegment);
+                                //             // i--;
+                                //         }
+                                //     }
+                                //     // console.log(`✅ Có cụm "${phrase}" trong câu:`, shot.subtitle.engSub);
+                                //     // console.log('📎 engSubWords sau khi gộp phrase:', engSubWords);
+                                // } else {
+                                //     if (shot.subtitle.engSub.includes(phrase.charAt(0).toUpperCase() + phrase.slice(1))) {
+                                //         console.log(`🟡 Có cụm viết hoa "${phrase.charAt(0).toUpperCase() + phrase.slice(1)}" trong câu:`, shot.subtitle.engSub);
+                                //         for (let i = 0; i <= engSubWords.length - phraseLengthIncludeSpace; i++) {
+                                //             const phraseSegment = engSubWords.slice(i, i + phraseLengthIncludeSpace).join('');
+                                //             // console.log('------------ phraseSegment: ', phraseSegment);
+                                //             if (phraseSegment === phrase.charAt(0).toUpperCase() + phrase.slice(1)) {
+                                //                 engSubWords.splice(i, phraseLengthIncludeSpace, phraseSegment);
+                                //             }
+                                //         }
+                                //         console.log('📎 engSubWords sau khi gộp phrase:', engSubWords);
+                                //     }
+                                // }
                                 const phraseParts = phrase.split(' ');
                                 const phraseLengthIncludeSpace = phraseParts.length * 2 - 1;
-                                if (shot.subtitle.engSub.includes(phrase)) {
-                                    console.log('phraseLengthIncludeSpace: ', phraseLengthIncludeSpace);
+                                if (
+                                    shot.subtitle.engSub.includes(phrase) ||
+                                    shot.subtitle.engSub.includes(phrase.charAt(0).toUpperCase() + phrase.slice(1))
+                                ) {
                                     for (let i = 0; i <= engSubWords.length - phraseLengthIncludeSpace; i++) {
                                         const phraseSegment = engSubWords.slice(i, i + phraseLengthIncludeSpace).join('');
-                                        if (phraseSegment === phrase) {
+                                        if (
+                                            phraseSegment === phrase ||
+                                            phraseSegment === phrase.charAt(0).toUpperCase() + phrase.slice(1)
+                                        ) {
                                             engSubWords.splice(i, phraseLengthIncludeSpace, phraseSegment);
-                                            // i--;
                                         }
-                                        console.log('phraseSegment: ', phraseSegment);
-                                    }
-                                    console.log(`✅ Có cụm "${phrase}" trong câu:`, shot.subtitle.engSub);
-                                    console.log('📎 engSubWords sau khi gộp phrase:', engSubWords);
-                                } else {
-                                    if (shot.subtitle.engSub.includes(phrase.charAt(0).toUpperCase() + phrase.slice(1))) {
-                                        console.log(`🟡 Có cụm viết hoa "${phrase}" trong câu:`, shot.subtitle.engSub);
                                     }
                                 }
+                                console.log('📎engSubWords sau khi gộp phrase:', engSubWords);
                             });
                         return (
                             <div className={cx('shot')} key={shotNumber}>
@@ -69,7 +92,7 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                 <div className={cx('subtitle')}>
                                     <div className={cx('engSub')}>
                                         {engSubWords.map((engSubWord, i) => {
-                                            if (/[.,!?…\s]/.test(engSubWord)) return <span key={i}>{engSubWord}</span>;
+                                            if (/^[.,!?…\s]+$/.test(engSubWord)) return <span key={i}>{engSubWord}</span>;
                                             const previousChar = engSubWords[i - 1] || null;
                                             const englishWord = normalizeEnglishWord(engSubWord, previousChar, i);
                                             return (
