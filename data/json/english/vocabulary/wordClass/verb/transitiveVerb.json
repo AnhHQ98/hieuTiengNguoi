@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "type": "verb",
+        "subtype": "regular",
+        "transitivity": "transitive",
+        "vietnameseMeaning": ["giữ"]
+    },
+    "thank": {
+        "type": "verb",
+        "subtype": "regular",
+        "transitivity": "transitive",
+        "vietnameseMeaning": ["cảm ơn"]
+    }
+}

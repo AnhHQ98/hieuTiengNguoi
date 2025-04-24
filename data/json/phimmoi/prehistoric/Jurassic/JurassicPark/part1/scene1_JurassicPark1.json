@@ -6,19 +6,19 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": "Everybody, heads up! Keep it clear, now. Stand back!",
-            "vietSub": "Mọi người, ngẩng đầu lên! Hãy thật cẩn thận. Giữ cẩn thận vào. Lùi Lại. Đưa nó về phía trước, đi nào. Hạ xuống từ từ thôi"
+            "engSub": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!",
+            "vietSub": "Mọi người, chú ý phía trên! Dọn đường, ngay. Dọn đường đi. Lùi lại. Hạ xuống từ từ thôi. Từ từ thôi!"
         }     
     },
     {
         "shotNumber": 2,
         "character": {
             "face": "",
-            "name": ""
+            "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Đội bốc dỡ di chuyển vào trong"
+            "engSub": "Pushing team, move in there.",
+            "vietSub": "Đội bốc dỡ di chuyển vào trong."
         }     
     },
     {
@@ -28,7 +28,7 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": ".",
+            "engSub": "Move in. On your ready.",
             "vietSub": "Vào đi. Sẵn sàng nào."
         }     
     },
@@ -36,11 +36,11 @@
         "shotNumber": 4,
         "character": {
             "face": "",
-            "name": ""
+            "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Tôi muốn các khẩu súng điện luôn sẵn sàng."
+            "engSub": "I want Tasers on full charge. Steady! Go on. Step back in.",
+            "vietSub": "Tôi muốn các khẩu súng điện luôn sẵn sàng. Nào, trở vào đó đi"
         }     
     },
     {
@@ -50,19 +50,19 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Ổn định nào."
+            "engSub": "Ready. Move it.",
+            "vietSub": "Sẵn sàng. Di chuyển đi."
         }     
     },
     {
         "shotNumber": 6,
         "character": {
             "face": "",
-            "name": ""
+            "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Nào trở vào đó đi."
+            "engSub": "And push. Locked. Loading team, step away.",
+            "vietSub": "Và ấn. Đã khóa rồi. Đội bốc hàng, tránh qua một bên."
         }     
     },
     {
@@ -72,41 +72,19 @@
             "name": ""
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Sẵn sàng. Di chuyển đi. Và ấn. Đã khoá rồi."
+            "engSub": "Move it.",
+            "vietSub": "Di chuyển đi."
         }     
     },
     {
         "shotNumber": 8,
         "character": {
             "face": "",
-            "name": ""
+            "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": ".",
-            "vietSub": "Đội bốc hàng, tránh qua một bên."
-        }     
-    },
-    {
-        "shotNumber": 9,
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": ".",
-            "vietSub": "Di chuyển đi. Jophery, kéo cửa lên."
-        }     
-    },
-    {
-        "shotNumber": 10,
-        "character": {
-            "face": "",
-            "name": ""
-        },
-        "subtitle": {
-            "engSub": ".",
-            "vietSub": "Chèn cửa lại, đừng để nó ra. Ai đó giúp anh ta mau lên. Đẩy nó trở vào. Bắn nó đi."
+            "engSub": "Jophery, raise the gate. Block the opening! Don't let her get out! Somebody help him! Work her back! Shoot her! Shoot her!",
+            "vietSub": "Jophery, kéo cửa lên. Chèn cửa lại đừng để nó ra. Ai đó giúp anh ta mau lên. Đẩy nó trở vào! Bắn đi! Bắn đi!"
         }     
     }
 ]

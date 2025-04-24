@@ -11,12 +11,16 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
             .then((data) => setWordClass(data))
             .catch((err) => console.error('❌ Lỗi fetch wordClass từ backend:', err));
     }, []);
-    const normalizeEnglishWord = (engSubWord, previousChar, i) => {
+    const normalizeEnglishWord = (engSubWord, previousChar1, previousChar2, i) => {
         const isFirstChar = i === 0;
-        const isAlphanumericChar = /^[a-zA-Z0-9]+$/.test(engSubWord);
-        const isAfterSentenceEnd = ['.', '...', '!', '?'].includes(previousChar);
+        const isAlphanumericChar = /^[a-zA-Z0-9\s]+$/.test(engSubWord);
+        const isAfterSentenceEnd =
+            ['.', '...', '!', '?'].includes(previousChar1) ||
+            (previousChar1 && previousChar1.trim() === '' && ['.', '...', '!', '?'].includes(previousChar2));
         return isAlphanumericChar && (isFirstChar || isAfterSentenceEnd) ? engSubWord.toLowerCase() : engSubWord;
     };
+    const englishWordCount = {};
+    const vietnameseWordCount = {};
     return (
         <div className={cx('filmWrapper')}>
             <div className={cx('filmInfomation')}>
@@ -38,35 +42,11 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                 <div className={cx('sceneContent')}>
                     {sceneContent.map((shot, shotNumber) => {
                         let engSubWords = shot.subtitle.engSub.match(/[a-zA-Z0-9]+|[.,!?…]+|\s+/g);
+                        console.log('engSubWords -------', engSubWords);
                         Object.entries(wordClass).filter(([key, val]) => val.subtype === 'phrase')
                             .forEach(([phrase]) => {
-                                // const phraseParts = phrase.split(' ');
-                                // const phraseLengthIncludeSpace = phraseParts.length * 2 - 1;
-                                // if (shot.subtitle.engSub.includes(phrase)) {
-                                //     // console.log('phraseLengthIncludeSpace: ', phraseLengthIncludeSpace);
-                                //     for (let i = 0; i <= engSubWords.length - phraseLengthIncludeSpace; i++) {
-                                //         const phraseSegment = engSubWords.slice(i, i + phraseLengthIncludeSpace).join('');
-                                //         if (phraseSegment === phrase) {
-                                //             engSubWords.splice(i, phraseLengthIncludeSpace, phraseSegment);
-                                //             // i--;
-                                //         }
-                                //     }
-                                //     // console.log(`✅ Có cụm "${phrase}" trong câu:`, shot.subtitle.engSub);
-                                //     // console.log('📎 engSubWords sau khi gộp phrase:', engSubWords);
-                                // } else {
-                                //     if (shot.subtitle.engSub.includes(phrase.charAt(0).toUpperCase() + phrase.slice(1))) {
-                                //         console.log(`🟡 Có cụm viết hoa "${phrase.charAt(0).toUpperCase() + phrase.slice(1)}" trong câu:`, shot.subtitle.engSub);
-                                //         for (let i = 0; i <= engSubWords.length - phraseLengthIncludeSpace; i++) {
-                                //             const phraseSegment = engSubWords.slice(i, i + phraseLengthIncludeSpace).join('');
-                                //             // console.log('------------ phraseSegment: ', phraseSegment);
-                                //             if (phraseSegment === phrase.charAt(0).toUpperCase() + phrase.slice(1)) {
-                                //                 engSubWords.splice(i, phraseLengthIncludeSpace, phraseSegment);
-                                //             }
-                                //         }
-                                //         console.log('📎 engSubWords sau khi gộp phrase:', engSubWords);
-                                //     }
-                                // }
                                 const phraseParts = phrase.split(' ');
+                                console.log('phraseParts  -   -', phraseParts);
                                 const phraseLengthIncludeSpace = phraseParts.length * 2 - 1;
                                 if (
                                     shot.subtitle.engSub.includes(phrase) ||
@@ -82,7 +62,6 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                         }
                                     }
                                 }
-                                console.log('📎engSubWords sau khi gộp phrase:', engSubWords);
                             });
                         return (
                             <div className={cx('shot')} key={shotNumber}>
@@ -93,12 +72,17 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                     <div className={cx('engSub')}>
                                         {engSubWords.map((engSubWord, i) => {
                                             if (/^[.,!?…\s]+$/.test(engSubWord)) return <span key={i}>{engSubWord}</span>;
-                                            const previousChar = engSubWords[i - 1] || null;
-                                            const englishWord = normalizeEnglishWord(engSubWord, previousChar, i);
+                                            const previousChar1 = engSubWords[i - 1] || null;
+                                            const previousChar2 = engSubWords[i - 2] || null;
+                                            const englishWord = normalizeEnglishWord(engSubWord, previousChar1, previousChar2, i);
+                                            console.log('englishWord   -   -', englishWord);
+                                            
+                                            if (!englishWordCount[englishWord]) englishWordCount[englishWord] = 1;
+                                            else englishWordCount[englishWord]++;
                                             return (
                                                 <input
                                                     key={i}
-                                                    id={englishWord}
+                                                    id={englishWord.replace(/\s+/g, '-') + '-' + englishWordCount[englishWord]}
                                                     className={cx('engSubWord')}
                                                     placeholder={engSubWord}
                                                     size={engSubWord.length}
@@ -111,8 +95,9 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                             const vietSubWords = [];
                                             const vietsubToEngsubMap = {};
                                             engSubWords.forEach((engSubWord, i) => {
-                                                const previousChar = engSubWords[i - 1] || null;
-                                                const englishWord = normalizeEnglishWord(engSubWord, previousChar, i);
+                                                const previousChar1 = engSubWords[i - 1] || null;
+                                                const previousChar2 = engSubWords[i - 2] || null;
+                                                const englishWord = normalizeEnglishWord(engSubWord, previousChar1, previousChar2, i);
                                                 if (wordClass?.hasOwnProperty(englishWord)) {
                                                     console.log('✅ Khớp wordClass:', englishWord);
                                                     wordClass[englishWord].vietnameseMeaning.forEach(
@@ -120,19 +105,19 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                                             let vietnameseWord;
                                                             if (shot.subtitle.vietSub.includes(vietnameseMeaning)) {
                                                                 vietnameseWord = vietnameseMeaning;
-                                                            } else {
+                                                            } else if (
+                                                                shot.subtitle.vietSub.includes(
+                                                                    vietnameseMeaning.charAt(0).toUpperCase() +
+                                                                        vietnameseMeaning.slice(1),
+                                                                )
+                                                            ) {
                                                                 vietnameseWord =
                                                                     vietnameseMeaning.charAt(0).toUpperCase() +
                                                                     vietnameseMeaning.slice(1);
-                                                                if (shot.subtitle.vietSub.includes(vietnameseWord)) {
-                                                                    console.log(
-                                                                        `🧐 "${vietnameseWord}" (viết hoa) có trong vietSub:`,
-                                                                        shot.subtitle.vietSub,
-                                                                    );
-                                                                    vietSubWords.push(vietnameseWord);
-                                                                    vietsubToEngsubMap[vietnameseWord] = englishWord;
-                                                                }
                                                             }
+                                                            vietSubWords.push(vietnameseWord);
+                                                            vietsubToEngsubMap[vietnameseWord] = englishWord;
+                                                            console.log('vietnameseWord------', vietnameseWord);
                                                         },
                                                     );
                                                 }
@@ -160,9 +145,24 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                             console.log('📎 Các phần sau khi tách:', vietSubSegments);
                                             return vietSubSegments.map((vietSubSegment, i) =>
                                                 vietSubWords.includes(vietSubSegment) ? (
-                                                    <label key={i} htmlFor={vietsubToEngsubMap[vietSubSegment]} className={cx('vietSubMeaning')}>
-                                                        {vietSubSegment}
-                                                    </label>
+                                                    (() => {
+                                                        if (!vietnameseWordCount[vietsubToEngsubMap[vietSubSegment]]) {
+                                                            vietnameseWordCount[vietsubToEngsubMap[vietSubSegment]] = 1;
+                                                        } else {
+                                                            vietnameseWordCount[vietsubToEngsubMap[vietSubSegment]]++;
+                                                        } 
+                                                        return (
+                                                            <label
+                                                                key={i}
+                                                                htmlFor={vietsubToEngsubMap[vietSubSegment].replace(/\s+/g, '-') + '-' +
+                                                                    vietnameseWordCount[vietsubToEngsubMap[vietSubSegment]]
+                                                                }
+                                                                className={cx('vietSubMeaning')}
+                                                            >
+                                                                {vietSubSegment}
+                                                            </label>
+                                                        );
+                                                    })()
                                                 ) : (
                                                     <span key={i}>{vietSubSegment}</span>
                                                 ),

@@ -1,7 +1,12 @@
 {
+    "clear": {
+        "type": "multiFunction",
+        "subtype": "",
+        "vietnameseMeaning": ["sạch"]
+    },
     "that": {
-        "type": "",
-        "subtype": "multiFunction",
+        "type": "multiFunction",
+        "subtype": "",
         "vietnameseMeaning": ["thật"]
     }
 }

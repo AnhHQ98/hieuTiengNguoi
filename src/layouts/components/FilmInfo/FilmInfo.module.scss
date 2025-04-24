@@ -26,6 +26,10 @@
     background-color: rgba(0, 0, 0, 0.8);
 }
 
+.character {
+    min-width: 15%;
+}
+
 .subtitle {
     display: flex;
     flex-direction: column-reverse;

@@ -14,9 +14,16 @@
             "tuyệt vời"
         ]
     },
+    "clear": {
+        "type": "multiFunction",
+        "subtype": "",
+        "vietnameseMeaning": [
+            "sạch"
+        ]
+    },
     "that": {
-        "type": "",
-        "subtype": "multiFunction",
+        "type": "multiFunction",
+        "subtype": "",
         "vietnameseMeaning": [
             "thật"
         ]
@@ -40,11 +47,24 @@
             "cẩn thận phía trên"
         ]
     },
+    "keep it clear": {
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "dọn đường"
+        ]
+    },
     "everybody": {
         "type": "pronoun",
         "subtype": "indefinite",
         "vietnameseMeaning": [
             "mọi người"
+        ]
+    },
+    "it": {
+        "type": "pronoun",
+        "subtype": "personal",
+        "vietnameseMeaning": [
+            "nó"
         ]
     },
     "you": {
@@ -70,9 +90,18 @@
             ]
         }
     },
+    "keep": {
+        "type": "verb",
+        "subtype": "regular",
+        "transitivity": "transitive",
+        "vietnameseMeaning": [
+            "giữ"
+        ]
+    },
     "thank": {
         "type": "verb",
         "subtype": "regular",
+        "transitivity": "transitive",
         "vietnameseMeaning": [
             "cảm ơn"
         ]

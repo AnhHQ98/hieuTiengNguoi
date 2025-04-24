@@ -1,4 +1,9 @@
 {
+    "it": {
+        "type": "pronoun",
+        "subtype": "personal",
+        "vietnameseMeaning": ["nó"]
+    },
     "you": {
         "type": "pronoun",
         "subtype": "personal",
