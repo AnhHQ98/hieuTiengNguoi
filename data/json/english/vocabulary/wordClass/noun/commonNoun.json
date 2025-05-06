@@ -1,6 +1,6 @@
 {
     "head": {
-        "type": "noun",
+        "type": ["noun"],
         "subtype": "common",
         "vietnameseMeaning": ["đầu", "cái đầu"]
     }

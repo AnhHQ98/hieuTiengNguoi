@@ -7,8 +7,8 @@
         },
         "subtitle": {
             "engSub": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!",
-            "vietSub": "Mọi người, chú ý phía trên! Dọn đường, ngay. Dọn đường đi. Lùi lại. Hạ xuống từ từ thôi. Từ từ thôi!"
-        }     
+            "vietSub": "Mọi người, chú ý phía trên! Dọn đường, ngay. Dọn đường đi! Đứng lùi lại! Đưa nó ra phía trước, nhanh lên! Làm nó chậm lại!"
+        }
     },
     {
         "shotNumber": 2,
@@ -18,7 +18,7 @@
         },
         "subtitle": {
             "engSub": "Pushing team, move in there.",
-            "vietSub": "Đội bốc dỡ di chuyển vào trong."
+            "vietSub": "Đội tiên phong, di chuyển vào trong đó."
         }     
     },
     {
@@ -29,7 +29,7 @@
         },
         "subtitle": {
             "engSub": "Move in. On your ready.",
-            "vietSub": "Vào đi. Sẵn sàng nào."
+            "vietSub": "Di chuyển vào trong. Ngay khi các cậu sẵn sàng."
         }     
     },
     {
@@ -39,7 +39,7 @@
             "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": "I want Tasers on full charge. Steady! Go on. Step back in.",
+            "engSub": "I want tasers on full charge. Steady! Go on. Step back in.",
             "vietSub": "Tôi muốn các khẩu súng điện luôn sẵn sàng. Nào, trở vào đó đi"
         }     
     },

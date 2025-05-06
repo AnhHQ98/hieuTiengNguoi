@@ -1,6 +1,8 @@
 {
     "beautiful": {
-        "type": "adjective",
+        "type": [
+            "adjective"
+        ],
         "subtype": "opinion",
         "vietnameseMeaning": [
             "đẹp",
@@ -8,28 +10,135 @@
         ]
     },
     "wonderful": {
-        "type": "adjective",
+        "type": [
+            "adjective"
+        ],
         "subtype": "opinion",
         "vietnameseMeaning": [
             "tuyệt vời"
         ]
     },
-    "clear": {
-        "type": "multiFunction",
-        "subtype": "",
+    "now": {
+        "type": [
+            "adverb"
+        ],
+        "subtype": "time",
         "vietnameseMeaning": [
-            "sạch"
+            "ngay",
+            "ngay bây giờ",
+            "ngay lúc này"
         ]
+    },
+    "clear": {
+        "type": [
+            "adjective"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adjective": [
+                "sạch",
+                "sạch sẽ"
+            ]
+        }
+    },
+    "forward": {
+        "type": [
+            "adverb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adverb": [
+                "về phía trước",
+                "ra phía trước",
+                "lên phía trước"
+            ]
+        }
+    },
+    "in": {
+        "type": [
+            "adverb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": [
+                "vào trong",
+                "vào bên trong"
+            ]
+        }
+    },
+    "move": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": [
+                "di chuyển"
+            ]
+        }
+    },
+    "taser": {
+        "type": [
+            "noun"
+        ],
+        "subtype": "multiFunction",
+        "plural": "tasers",
+        "vietnameseMeaning": {
+            "noun": [
+                "khẩu súng điện",
+                "súng điện"
+            ]
+        },
+        "vietnameseMeaningPlural": {
+            "noun": [
+                "những khẩu súng điện",
+                "các khẩu súng điện"
+            ]
+        }
     },
     "that": {
-        "type": "multiFunction",
-        "subtype": "",
-        "vietnameseMeaning": [
-            "thật"
-        ]
+        "type": [
+            "pronoun"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "pronoun": [
+                "thật"
+            ]
+        }
+    },
+    "there": {
+        "type": [
+            "adverb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adverb": [
+                "đó",
+                "ở đó",
+                "tại đó",
+                "chỗ đó",
+                "nơi đó",
+                "kia",
+                "đằng kia"
+            ]
+        }
+    },
+    "want": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": [
+                "muốn"
+            ]
+        }
     },
     "head": {
-        "type": "noun",
+        "type": [
+            "noun"
+        ],
         "subtype": "common",
         "vietnameseMeaning": [
             "đầu",
@@ -37,7 +146,9 @@
         ]
     },
     "heads up": {
-        "type": "noun",
+        "type": [
+            "noun"
+        ],
         "subtype": "phrase",
         "vietnameseMeaning": [
             "ngẩng đầu lên",
@@ -47,28 +158,95 @@
             "cẩn thận phía trên"
         ]
     },
+    "pushing team": {
+        "type": [
+            "noun"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "đội tiên phong"
+        ]
+    },
     "keep it clear": {
         "subtype": "phrase",
         "vietnameseMeaning": [
             "dọn đường"
         ]
     },
+    "on your ready": {
+        "type": [
+            "prepositional"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "ngay khi các bạn sẵn sàng",
+            "ngay khi các cậu sẵn sàng"
+        ]
+    },
+    "come on": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "nhanh lên",
+            "mau lên"
+        ]
+    },
+    "slow it down": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "làm nó chậm lại",
+            "làm chậm nó lại",
+            "làm nó từ từ thôi"
+        ]
+    },
+    "stand back": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "đứng lùi lại"
+        ]
+    },
     "everybody": {
-        "type": "pronoun",
+        "type": [
+            "pronoun"
+        ],
         "subtype": "indefinite",
         "vietnameseMeaning": [
             "mọi người"
         ]
     },
+    "I": {
+        "type": [
+            "pronoun"
+        ],
+        "subtype": "personal",
+        "vietnameseMeaning": [
+            "tôi",
+            "tớ",
+            "ta",
+            "tao"
+        ]
+    },
     "it": {
-        "type": "pronoun",
+        "type": [
+            "pronoun"
+        ],
         "subtype": "personal",
         "vietnameseMeaning": [
             "nó"
         ]
     },
     "you": {
-        "type": "pronoun",
+        "type": [
+            "pronoun"
+        ],
         "subtype": "personal",
         "vietnameseMeaning": [
             "bạn",
@@ -76,7 +254,9 @@
         ]
     },
     "look": {
-        "type": "verb",
+        "type": [
+            "verb"
+        ],
         "subtype": "linking",
         "vietnameseMeaning": [
             "nhìn",
@@ -90,8 +270,29 @@
             ]
         }
     },
+    "bring": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "regular",
+        "transitivity": "transitive",
+        "vietnameseMeaning": [
+            "dẫn",
+            "dẫn đến",
+            "đưa",
+            "đưa đến",
+            "đem",
+            "đem đến",
+            "đem lại",
+            "mang",
+            "mang đến",
+            "mang lại"
+        ]
+    },
     "keep": {
-        "type": "verb",
+        "type": [
+            "verb"
+        ],
         "subtype": "regular",
         "transitivity": "transitive",
         "vietnameseMeaning": [
@@ -99,7 +300,9 @@
         ]
     },
     "thank": {
-        "type": "verb",
+        "type": [
+            "verb"
+        ],
         "subtype": "regular",
         "transitivity": "transitive",
         "vietnameseMeaning": [

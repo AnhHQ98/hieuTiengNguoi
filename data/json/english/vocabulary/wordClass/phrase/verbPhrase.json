@@ -1,0 +1,20 @@
+{
+    "come on": {
+        "type": ["verb"],
+        "subtype": "phrase",
+        "vietnameseMeaning": ["nhanh lên", "mau lên"]
+    },
+    "slow it down": {
+        "type": ["verb"],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "làm nó chậm lại", "làm chậm nó lại",
+            "làm nó từ từ thôi"
+        ]
+    },
+    "stand back": {
+        "type": ["verb"],
+        "subtype": "phrase",
+        "vietnameseMeaning": ["đứng lùi lại"]
+    }
+}

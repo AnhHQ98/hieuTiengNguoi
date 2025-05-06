@@ -1,11 +1,16 @@
 {
     "heads up": {
-        "type": "noun",
+        "type": ["noun"],
         "subtype": "phrase",
         "vietnameseMeaning": [
             "ngẩng đầu lên", 
             "chú ý cái đầu", "cẩn thận cái đầu", 
             "chú ý phía trên", "cẩn thận phía trên"
         ]
+    },
+    "pushing team" : {
+        "type": ["noun"],
+        "subtype": "phrase",
+        "vietnameseMeaning": ["đội tiên phong"]
     }
 }

@@ -1,12 +1,22 @@
 {
+    "I": {
+        "type": ["pronoun"],
+        "subtype": "personal",
+        "vietnameseMeaning": [
+            "tôi", "tớ", "ta", "tao"
+        ]
+    },
     "it": {
-        "type": "pronoun",
+        "type": ["pronoun"],
         "subtype": "personal",
         "vietnameseMeaning": ["nó"]
     },
     "you": {
-        "type": "pronoun",
+        "type": ["pronoun"],
         "subtype": "personal",
-        "vietnameseMeaning": ["bạn", "chú"]
+        "vietnameseMeaning": [
+            "bạn", 
+            "chú"
+        ]
     }
 }

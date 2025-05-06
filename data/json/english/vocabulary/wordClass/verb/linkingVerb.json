@@ -1,6 +1,6 @@
 {
     "look": {
-        "type": "verb",
+        "type": ["verb"],
         "subtype": "linking",
         "vietnameseMeaning": ["nhìn", "trông", "trông như"],
         "tenses": {

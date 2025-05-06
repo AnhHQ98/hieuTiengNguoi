@@ -1,12 +1,23 @@
 {
+    "bring": {
+        "type": ["verb"],
+        "subtype": "regular",
+        "transitivity": "transitive",
+        "vietnameseMeaning": [
+            "dẫn", "dẫn đến",
+            "đưa", "đưa đến", 
+            "đem", "đem đến", "đem lại",
+            "mang", "mang đến", "mang lại"
+        ]
+    },
     "keep": {
-        "type": "verb",
+        "type": ["verb"],
         "subtype": "regular",
         "transitivity": "transitive",
         "vietnameseMeaning": ["giữ"]
     },
     "thank": {
-        "type": "verb",
+        "type": ["verb"],
         "subtype": "regular",
         "transitivity": "transitive",
         "vietnameseMeaning": ["cảm ơn"]

@@ -1,12 +1,62 @@
 {
     "clear": {
-        "type": "multiFunction",
-        "subtype": "",
-        "vietnameseMeaning": ["sạch"]
+        "type": ["adjective"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adjective": ["sạch", "sạch sẽ"]
+        }
+    },
+    "forward": {
+        "type": ["adverb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adverb": ["về phía trước", "ra phía trước", "lên phía trước"]
+        }
+    },
+    "in": {
+        "type": ["adverb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": ["vào trong", "vào bên trong"]
+        }
+    },
+    "move": {
+        "type": ["verb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": ["di chuyển"]
+        }
+    },
+    "taser": {
+        "type": ["noun"],
+        "subtype": "multiFunction",
+        "plural": "tasers",
+        "vietnameseMeaning": {
+            "noun": ["khẩu súng điện", "súng điện"]
+        },
+        "vietnameseMeaningPlural": {
+            "noun": ["những khẩu súng điện", "các khẩu súng điện"]
+        }
     },
     "that": {
-        "type": "multiFunction",
-        "subtype": "",
-        "vietnameseMeaning": ["thật"]
+        "type": ["pronoun"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "pronoun": ["thật"]
+        }
+    },
+    "there": {
+        "type": ["adverb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adverb": ["đó", "ở đó", "tại đó", "chỗ đó", "nơi đó", "kia", "đằng kia"]
+        }
+    },
+    "want": {
+        "type": ["verb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": ["muốn"]
+        }
     }
 }
