@@ -82,13 +82,13 @@
             "noun"
         ],
         "subtype": "multiFunction",
-        "plural": "tasers",
         "vietnameseMeaning": {
             "noun": [
                 "khẩu súng điện",
                 "súng điện"
             ]
         },
+        "plural": "tasers",
         "vietnameseMeaningPlural": {
             "noun": [
                 "những khẩu súng điện",
@@ -170,7 +170,17 @@
     "keep it clear": {
         "subtype": "phrase",
         "vietnameseMeaning": [
+            "dọn đường đi",
             "dọn đường"
+        ]
+    },
+    "on full charge": {
+        "type": [
+            "prepositional"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "luôn được sạc đầy"
         ]
     },
     "on your ready": {

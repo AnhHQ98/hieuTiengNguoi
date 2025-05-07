@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import FilmInfo1 from '~/layouts/components/FilmInfo/FilmInfo1';
+import FilmInfo from '~/layouts/components/FilmInfo/FilmInfo';
 
 function JurassicPark1() {
     const [filmJson, setFilmJson] = useState(null);
@@ -24,7 +24,7 @@ function JurassicPark1() {
     if (!filmJson) return <div>Loading filmJson...</div>;
     
     return (
-        <FilmInfo1
+        <FilmInfo
             film_json={filmJson}
             sceneContent={sceneContent}
             selectedScene={selectedScene}

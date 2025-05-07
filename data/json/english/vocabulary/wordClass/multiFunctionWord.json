@@ -30,10 +30,10 @@
     "taser": {
         "type": ["noun"],
         "subtype": "multiFunction",
-        "plural": "tasers",
         "vietnameseMeaning": {
             "noun": ["khẩu súng điện", "súng điện"]
         },
+        "plural": "tasers",
         "vietnameseMeaningPlural": {
             "noun": ["những khẩu súng điện", "các khẩu súng điện"]
         }
@@ -49,7 +49,10 @@
         "type": ["adverb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "adverb": ["đó", "ở đó", "tại đó", "chỗ đó", "nơi đó", "kia", "đằng kia"]
+            "adverb": [
+                "đó", "ở đó", "tại đó", "chỗ đó", "nơi đó", 
+                "kia", "đằng kia"
+            ]
         }
     },
     "want": {

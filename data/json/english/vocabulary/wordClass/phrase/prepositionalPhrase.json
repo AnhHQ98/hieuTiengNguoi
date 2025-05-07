@@ -1,4 +1,11 @@
 {
+    "on full charge": {
+        "type": ["prepositional"],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "luôn được sạc đầy"
+        ]
+    },
     "on your ready": {
         "type": ["prepositional"],
         "subtype": "phrase",
