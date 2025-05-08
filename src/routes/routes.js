@@ -52,10 +52,6 @@ const privateRoutes = [
     // vocabulary
     { path: config.routes.vocabulary, component: Vocabulary },
 
-    // alphabet
-    { path: config.routes.alphabet, component: Alphabet },
-    { path: config.routes.englishAlphabet, component: EnglishAlphabet },
-
     // grammar
     { path: config.routes.grammar, component: Grammar },
 

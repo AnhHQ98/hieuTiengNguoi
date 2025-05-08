@@ -1,0 +1,294 @@
+{
+    "everybody": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "heads up": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "keep it clear": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    },
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "now": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "stand back": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "bring": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "it": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    },
+                    {
+                        "shot": 5,
+                        "character": "",
+                        "dialogue": "Ready. Move it."
+                    },
+                    {
+                        "shot": 7,
+                        "character": "",
+                        "dialogue": "Move it."
+                    }
+                ]
+            }
+        }
+    },
+    "forward": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "come on": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "slow it down": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 1,
+                        "character": "",
+                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
+                    }
+                ]
+            }
+        }
+    },
+    "pushing team": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 2,
+                        "character": "Robert Muldoon",
+                        "dialogue": "Pushing team, move in there."
+                    }
+                ]
+            }
+        }
+    },
+    "move": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 2,
+                        "character": "Robert Muldoon",
+                        "dialogue": "Pushing team, move in there."
+                    },
+                    {
+                        "shot": 3,
+                        "character": "",
+                        "dialogue": "Move in. On your ready."
+                    },
+                    {
+                        "shot": 5,
+                        "character": "",
+                        "dialogue": "Ready. Move it."
+                    },
+                    {
+                        "shot": 7,
+                        "character": "",
+                        "dialogue": "Move it."
+                    }
+                ]
+            }
+        }
+    },
+    "in": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 2,
+                        "character": "Robert Muldoon",
+                        "dialogue": "Pushing team, move in there."
+                    },
+                    {
+                        "shot": 3,
+                        "character": "",
+                        "dialogue": "Move in. On your ready."
+                    },
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "there": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 2,
+                        "character": "Robert Muldoon",
+                        "dialogue": "Pushing team, move in there."
+                    }
+                ]
+            }
+        }
+    },
+    "on your ready": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 3,
+                        "character": "",
+                        "dialogue": "Move in. On your ready."
+                    }
+                ]
+            }
+        }
+    },
+    "I": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "want": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "on full charge": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                    }
+                ]
+            }
+        }
+    }
+}

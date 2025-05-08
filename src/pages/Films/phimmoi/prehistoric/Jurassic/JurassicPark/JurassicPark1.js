@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import FilmInfo from '~/layouts/components/FilmInfo/FilmInfo';
+import FilmInfo from '~/layouts/components/FilmInfo';
+import EnglishVocabulary from '~/pages/Vocabulary/EnglishVocabulary';
 
 function JurassicPark1() {
     const [filmJson, setFilmJson] = useState(null);
@@ -24,13 +25,15 @@ function JurassicPark1() {
     if (!filmJson) return <div>Loading filmJson...</div>;
     
     return (
-        <FilmInfo
-            film_json={filmJson}
-            sceneContent={sceneContent}
-            selectedScene={selectedScene}
-            onSceneClick={handleSceneClick}
-        />
-    )   
+        <>
+            <FilmInfo
+                film_json={filmJson}
+                sceneContent={sceneContent}
+                selectedScene={selectedScene}
+                onSceneClick={handleSceneClick}
+            />
+        </>
+    );   
 }
 
 export default JurassicPark1;

@@ -15,6 +15,5 @@ export const groupPhraseWord = (engSubWords, engSubText, wordClass) => {
                 }
             }
         });
-
     return engSubWords;
 };

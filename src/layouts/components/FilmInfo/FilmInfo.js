@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { normalizeEnglishWord } from './utils/normalizeEnglishWord';
 import { groupPhraseWord } from './utils/groupPhraseWord';
 import { generateVietSubSegment } from './utils/generateVietSubSegment';
@@ -7,8 +7,9 @@ import classNames from 'classnames/bind';
 import styles from './FilmInfo.module.scss';
 const cx = classNames.bind(styles);
 
-function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
+function FilmInfo({ film_json, sceneContent, onSceneClick }) {
     const [wordClass, setWordClass] = useState();
+
     useEffect(() => {
         fetch('http://localhost:1025/wordclass')
             .then((res) => res.json())
@@ -56,15 +57,20 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
                                                 previousChar2,
                                                 i,
                                             );
-                                            if (/^[.,!?…\s]+$/.test(engSubWord)) return <span key={i}>{engSubWord}</span>;
+                                            if (/^[.,!?…\s]+$/.test(engSubWord))
+                                                return <span key={i}>{engSubWord}</span>;
                                             console.log('englishWord   -   -', englishWord);
-                                            
-                                            if (!englishWordCount[englishWord]) englishWordCount[englishWord] = 1;
-                                            else englishWordCount[englishWord]++;
+
+                                            if (!englishWordCount.current[englishWord]) englishWordCount.current[englishWord] = 1;
+                                            else englishWordCount.current[englishWord]++;
                                             return (
                                                 <input
                                                     key={i}
-                                                    id={englishWord.replace(/\s+/g, '-') + '-' + englishWordCount[englishWord]}
+                                                    id={
+                                                        englishWord.replace(/\s+/g, '-') +
+                                                        '-' +
+                                                        englishWordCount.current[englishWord]
+                                                    }
                                                     className={cx('engSubWord')}
                                                     placeholder={engSubWord}
                                                     size={engSubWord.length}
@@ -129,4 +135,4 @@ function FilmInfo1({ film_json, sceneContent, onSceneClick }) {
     );
 }
 
-export default FilmInfo1;
+export default FilmInfo;
