@@ -61,15 +61,15 @@ function FilmInfo({ film_json, sceneContent, onSceneClick }) {
                                                 return <span key={i}>{engSubWord}</span>;
                                             console.log('englishWord   -   -', englishWord);
 
-                                            if (!englishWordCount.current[englishWord]) englishWordCount.current[englishWord] = 1;
-                                            else englishWordCount.current[englishWord]++;
+                                            if (!englishWordCount[englishWord]) englishWordCount[englishWord] = 1;
+                                            else englishWordCount[englishWord]++;
                                             return (
                                                 <input
                                                     key={i}
                                                     id={
                                                         englishWord.replace(/\s+/g, '-') +
                                                         '-' +
-                                                        englishWordCount.current[englishWord]
+                                                        englishWordCount[englishWord]
                                                     }
                                                     className={cx('engSubWord')}
                                                     placeholder={engSubWord}
