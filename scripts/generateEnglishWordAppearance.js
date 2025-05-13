@@ -81,11 +81,18 @@ function processFilm(filmJsonPath) {
                     wordAppearance[englishWord][englishName].scenes[scene.scene] = [];
                 }
 
-                wordAppearance[englishWord][englishName].scenes[scene.scene].push({
-                    shot: shotNumber,
-                    character: character,
-                    dialogue: engSub,
-                });
+                const shotList = wordAppearance[englishWord][englishName].scenes[scene.scene];
+                const isExist = shotList.some(
+                    (s) => s.shot === shotNumber && s.character === character && s.dialogue === engSub,
+                );
+
+                if (!isExist) {
+                    shotList.push({
+                        shot: shotNumber,
+                        character: character,
+                        dialogue: engSub,
+                    });
+                }                
             });
         });
     });

@@ -1,0 +1,1378 @@
+[
+    {
+        "age": "Modern Times",
+        "key": "modern",
+        "children": [
+            {
+                "title": "Giant Robot",
+                "key": "giant-robot",
+                "children": [
+                    {
+                        "englishName": "Transformers",
+                        "key": "transformers",
+                        "parts": [
+                            {
+                                "part": 6,
+                                "year": 2023,
+                                "englishPartTitle": "Rise of the Beasts"
+                            },
+                            {
+                                "part": 5,
+                                "year": 2017,
+                                "englishPartTitle": "The Last Knight"
+                            },
+                            {
+                                "part": 4,
+                                "year": 2014,
+                                "englishPartTitle": "Age of Extinction"
+                            },
+                            {
+                                "part": 3,
+                                "year": 2011,
+                                "englishPartTitle": "Dark of the Moon"
+                            },
+                            {
+                                "part": 2,
+                                "year": 2009,
+                                "englishPartTitle": "Revenge of the Fallen"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2007
+                            },
+                            {
+                                "year": 2018,
+                                "englishPartTitle": "Bumblebee"
+                            }
+                        ]
+                    },                    
+                    {
+                        "englishName": "Pacific Rim",
+                        "key": "pacific-rim",
+                        "parts": [
+                            {
+                                "part": 2,
+                                "year": 2018,
+                                "englishPartTitle": "Uprising"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2013
+                            }
+                        ]
+                    },                    
+                    {
+                        "englishName": "Godzilla",
+                        "key": "godzilla",
+                        "parts": [
+                            {
+                                "part": 5,
+                                "year": 2024,
+                                "englishPartTitle": "x Kong: The New Empire"
+                            },
+                            {
+                                "part": 4,
+                                "year": 2021,
+                                "englishPartTitle": "vs. Kong"
+                            },
+                            {
+                                "part": 3,
+                                "year": 2019,
+                                "englishPartTitle": "King of the Monsters"
+                            },
+                            {
+                                "part": 2,
+                                "year": 2017,
+                                "englishPartTitle": "Kong: Skull Island"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2014
+                            }
+                        ]
+                    }                    
+                ]
+            },
+            {
+                "title": "Superhero",
+                "key": "superhero",
+                "children": [
+                    {
+                        "title": "Marvel",
+                        "key": "marvel",
+                        "children": [
+                            {
+                                "englishName": "The Avengers",
+                                "key": "the-avengers",
+                                "parts": [
+                                    {
+                                        "part": 4,
+                                        "year": 2019,
+                                        "englishPartTitle": "Endgame"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2018,
+                                        "englishPartTitle": "Infinity War"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2015,
+                                        "englishPartTitle": "Age of Ultron"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2012
+                                    }
+                                ]
+                            },                            
+                            {
+                                "title": "Heroes",
+                                "key": "marvel-heroes",
+                                "children": [
+                                    {
+                                        "englishName": "Guardians of the Galaxy",
+                                        "key": "guardians-of-the-galaxy",
+                                        "parts": [
+                                            {
+                                                "part": 3,
+                                                "year": 2023
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 2017
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2014
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "englishName": "Captain America",
+                                        "key": "captain-america",
+                                        "parts": [
+                                            {
+                                                "part": 3,
+                                                "year": 2016,
+                                                "englishPartTitle": "Civil War"
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 2014,
+                                                "englishPartTitle": "The Winter Soldier"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2011,
+                                                "englishPartTitle": "The First Avenger"
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "englishName": "Thor",
+                                        "key": "thor",
+                                        "parts": [
+                                            {
+                                                "part": 4,
+                                                "year": 2022,
+                                                "englishPartTitle": "Love and Thunder"
+                                            },
+                                            {
+                                                "part": 3,
+                                                "year": 2017,
+                                                "englishPartTitle": "Ragnarok"
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 2013,
+                                                "englishPartTitle": "The Dark World"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2011
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "title": "Hulk",
+                                        "key": "hulk",
+                                        "children": [
+                                            {
+                                                "englishName": "The Incredible Hulk",
+                                                "key": "the-incredible-hulk",
+                                                "year": 2008
+                                            },
+                                            {
+                                                "englishName": "Hulk",
+                                                "key": "hulk-2003",
+                                                "year": 2003
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "englishName": "Iron Man",
+                                        "key": "iron-man",
+                                        "parts": [
+                                            {
+                                                "part": 3,
+                                                "year": 2013
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 2010
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2008
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "englishName": "Spider-Man",
+                                        "key": "spider-man",
+                                        "children": [
+                                            {
+                                                "englishName": "Sam Raimi Trilogy",
+                                                "key": "spider-man-raimi",
+                                                "parts": [
+                                                    {
+                                                        "part": 3,
+                                                        "year": 2007
+                                                    },
+                                                    {
+                                                        "part": 2,
+                                                        "year": 2004
+                                                    },
+                                                    {
+                                                        "part": 1,
+                                                        "year": 2002
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "englishName": "The Amazing Spider-Man",
+                                                "key": "amazing-spider-man",
+                                                "parts": [
+                                                    {
+                                                        "part": 2,
+                                                        "year": 2014
+                                                    },
+                                                    {
+                                                        "part": 1,
+                                                        "year": 2012
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "englishName": "MCU Spider-Man",
+                                                "key": "spider-man-mcu",
+                                                "parts": [
+                                                    {
+                                                        "part": 3,
+                                                        "year": 2021,
+                                                        "englishPartTitle": "No Way Home"
+                                                    },
+                                                    {
+                                                        "part": 2,
+                                                        "year": 2019,
+                                                        "englishPartTitle": "Far From Home"
+                                                    },
+                                                    {
+                                                        "part": 1,
+                                                        "year": 2017,
+                                                        "englishPartTitle": "Homecoming"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },                                    
+                                    {
+                                        "englishName": "X-Men",
+                                        "key": "x-men",
+                                        "parts": [
+                                            {
+                                                "part": 7,
+                                                "year": 2019,
+                                                "englishPartTitle": "Dark Phoenix"
+                                            },
+                                            {
+                                                "part": 6,
+                                                "year": 2016,
+                                                "englishPartTitle": "Apocalypse"
+                                            },
+                                            {
+                                                "part": 5,
+                                                "year": 2014,
+                                                "englishPartTitle": "Days of Future Past"
+                                            },
+                                            {
+                                                "part": 4,
+                                                "year": 2011,
+                                                "englishPartTitle": "First Class"
+                                            },
+                                            {
+                                                "part": 3,
+                                                "year": 2006,
+                                                "englishPartTitle": "The Last Stand"
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 2003,
+                                                "englishPartTitle": "X2"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2000
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "DC",
+                        "key": "dc",
+                        "children": [
+                            {
+                                "title": "Justice League",
+                                "key": "justice-league",
+                                "children": [
+                                    {
+                                        "englishName": "Justice League (Theatrical)",
+                                        "key": "justice-league-theatrical",
+                                        "parts": [
+                                            {
+                                                "part": 1,
+                                                "year": 2017
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Zack Snyder's Justice League",
+                                        "key": "zack-snyders-justice-league",
+                                        "parts": [
+                                            {
+                                                "part": 1,
+                                                "year": 2021
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Heroes",
+                                "key": "dc-heroes",
+                                "children": [
+                                    {
+                                        "englishName": "The Flash",
+                                        "key": "the-flash",
+                                        "children": [
+                                            {
+                                                "englishName": "The Flash (Movie)",
+                                                "key": "the-flash-movie",
+                                                "year": 2023
+                                            },
+                                            {
+                                                "englishName": "The Flash (TV-Series)",
+                                                "key": "the-flash-tv-series",
+                                                "seasons": [
+                                                    {
+                                                        "season": 9,
+                                                        "year": 2023
+                                                    },
+                                                    {
+                                                        "season": 8,
+                                                        "year": 2021
+                                                    },
+                                                    {
+                                                        "season": 7,
+                                                        "year": 2021
+                                                    },
+                                                    {
+                                                        "season": 6,
+                                                        "year": 2019
+                                                    },
+                                                    {
+                                                        "season": 5,
+                                                        "year": 2018
+                                                    },
+                                                    {
+                                                        "season": 4,
+                                                        "year": 2017
+                                                    },
+                                                    {
+                                                        "season": 3,
+                                                        "year": 2016
+                                                    },
+                                                    {
+                                                        "season": 2,
+                                                        "year": 2015
+                                                    },
+                                                    {
+                                                        "season": 1,
+                                                        "year": 2014
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Shazam",
+                                        "key": "shazam",
+                                        "parts": [
+                                            {
+                                                "part": 2,
+                                                "year": 2023,
+                                                "englishPartTitle": "Fury of the Gods"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2019
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Aquaman",
+                                        "key": "aquaman",
+                                        "parts": [
+                                            {
+                                                "part": 2,
+                                                "year": 2023,
+                                                "englishPartTitle": "The Lost Kingdom"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 2018
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Wonder Woman",
+                                        "key": "wonder-woman",
+                                        "parts": [{}]
+                                    },
+                                    {
+                                        "englishName": "Green Arrow",
+                                        "key": "green-arrow",
+                                        "seasons": [
+                                            {
+                                                "season": 8,
+                                                "year": 2020
+                                            },
+                                            {
+                                                "season": 7,
+                                                "year": 2018
+                                            },
+                                            {
+                                                "season": 6,
+                                                "year": 2017
+                                            },
+                                            {
+                                                "season": 5,
+                                                "year": 2016
+                                            },
+                                            {
+                                                "season": 4,
+                                                "year": 2015
+                                            },
+                                            {
+                                                "season": 3,
+                                                "year": 2014
+                                            },
+                                            {
+                                                "season": 2,
+                                                "year": 2013
+                                            },
+                                            {
+                                                "season": 1,
+                                                "year": 2012
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Green Lantern",
+                                        "key": "green-lantern",
+                                        "parts": []
+                                    },
+                                    {
+                                        "englishName": "Batman",
+                                        "key": "batman",
+                                        "parts": [{}]
+                                    },
+                                    {
+                                        "englishName": "Supergirl",
+                                        "key": "supergirl",
+                                        "seasons": [
+                                            {
+                                                "season": 6,
+                                                "year": 2021
+                                            },
+                                            {
+                                                "season": 5,
+                                                "year": 2019
+                                            },
+                                            {
+                                                "season": 4,
+                                                "year": 2018
+                                            },
+                                            {
+                                                "season": 3,
+                                                "year": 2017
+                                            },
+                                            {
+                                                "season": 2,
+                                                "year": 2016
+                                            },
+                                            {
+                                                "season": 1,
+                                                "year": 2015
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "englishName": "Superman",
+                                        "key": "superman",
+                                        "parts": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Universe",
+                "key": "universe",
+                "children": [
+                    {
+                        "title": "Galaxy",
+                        "key": "galaxy",
+                        "children": [
+                            {
+                                "englishName": "Star Wars",
+                                "key": "star-wars",
+                                "parts": [
+                                    {
+                                        "part": 9,
+                                        "year": 2019,
+                                        "englishPartTitle": "The Rise of Skywalker"
+                                    },
+                                    {
+                                        "part": 8,
+                                        "year": 2017,
+                                        "englishPartTitle": "The Last Jedi"
+                                    },
+                                    {
+                                        "part": 7,
+                                        "year": 2015,
+                                        "englishPartTitle": "The Force Awakens"
+                                    },
+                                    {
+                                        "part": 6,
+                                        "year": 1983,
+                                        "englishPartTitle": "Return of the Jedi"
+                                    },
+                                    {
+                                        "part": 5,
+                                        "year": 1980,
+                                        "englishPartTitle": "The Empire Strikes Back"
+                                    },
+                                    {
+                                        "part": 4,
+                                        "year": 1977,
+                                        "englishPartTitle": "A New Hope"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2005,
+                                        "englishPartTitle": "Revenge of the Sith"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2002,
+                                        "englishPartTitle": "Attack of the Clones"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 1999,
+                                        "englishPartTitle": "The Phantom Menace"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Milky Way Galaxy",
+                                "key": "milky-way-galaxy",
+                                "children": [
+                                    {
+                                        "title": "Alpha Centauri",
+                                        "key": "alpha-centauri",
+                                        "children": [
+                                            {
+                                                "englishName": "Avatar",
+                                                "key": "avatar",
+                                                "parts": [
+                                                    {
+                                                        "part": 2,
+                                                        "year": 2022,
+                                                        "englishPartTitle": "The Way of Water"
+                                                    },
+                                                    {
+                                                        "part": 1,
+                                                        "year": 2009
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Solar System",
+                                        "key": "solar-system",
+                                        "children": [
+                                            {
+                                                "title": "Mars",
+                                                "key": "mars"
+                                            },
+                                            {
+                                                "title": "Moon",
+                                                "key": "moon"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Alien",
+                        "key": "alien",
+                        "children": [
+                            {
+                                "englishName": "Predator",
+                                "key": "predator",
+                                "parts": [
+                                    {
+                                        "part": 4,
+                                        "year": 2018
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2010
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 1990
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 1987
+                                    },
+                                    {
+                                        "year": 2022,
+                                        "englishPartTitle": "Prey"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Action",
+                "key": "action",
+                "children": [
+                    {
+                        "title": "Squad",
+                        "key": "squad",
+                        "children": [
+                            {
+                                "englishName": "The Expendables",
+                                "key": "the-expendables",
+                                "parts": [
+                                    {
+                                        "part": 4,
+                                        "year": 2023
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2014
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2012
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2010
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "xXx",
+                                "key": "xxx",
+                                "parts": [
+                                    {
+                                        "part": 3,
+                                        "year": 2017,
+                                        "englishPartTitle": "Return of Xander Cage"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2005,
+                                        "englishPartTitle": "State of the Union"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2002
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Fast & Furious",
+                                "key": "fast-&-furious",
+                                "parts": [
+                                    {
+                                        "part": 10,
+                                        "year": 2023,
+                                        "englishPartTitle": "Fast X"
+                                    },
+                                    {
+                                        "part": 9,
+                                        "year": 2021,
+                                        "englishPartTitle": "F9"
+                                    },
+                                    {
+                                        "part": 8,
+                                        "year": 2017,
+                                        "englishPartTitle": "The Fate of the Furious"
+                                    },
+                                    {
+                                        "part": 7,
+                                        "year": 2015,
+                                        "englishPartTitle": "Furious 7"
+                                    },
+                                    {
+                                        "part": 6,
+                                        "year": 2013,
+                                        "englishPartTitle": "Fast & Furious 6"
+                                    },
+                                    {
+                                        "part": 5,
+                                        "year": 2011,
+                                        "englishPartTitle": "Fast Five"
+                                    },
+                                    {
+                                        "part": 4,
+                                        "year": 2009,
+                                        "englishPartTitle": "Fast & Furious"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2006,
+                                        "englishPartTitle": "Tokyo Drift"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2003,
+                                        "englishPartTitle": "2 Fast 2 Furious"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2001,
+                                        "englishPartTitle": "The Fast and the Furious"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Agent",
+                        "key": "agent",
+                        "children": [
+                            {
+                                "englishName": "Reacher",
+                                "key": "reacher",
+                                "seasons": [
+                                    {
+                                        "season": 2,
+                                        "year": 2023
+                                    },
+                                    {
+                                        "season": 1,
+                                        "year": 2022
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Quantico",
+                                "key": "quantico",
+                                "seasons": [
+                                    {
+                                        "season": 3,
+                                        "year": 2018
+                                    },
+                                    {
+                                        "season": 2,
+                                        "year": 2016
+                                    },
+                                    {
+                                        "season": 1,
+                                        "year": 2015
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Kingsman",
+                                "key": "kingsman",
+                                "parts": [
+                                    {
+                                        "part": 2,
+                                        "year": 2017,
+                                        "englishPartTitle": "The Golden Circle"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2014,
+                                        "englishPartTitle": "The Secret Service"
+                                    },
+                                    {
+                                        "year": 2021,
+                                        "englishPartTitle": "The King's Man"
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Johnny English",
+                                "key": "johnny-english",
+                                "parts": [
+                                    {
+                                        "part": 3,
+                                        "year": 2018,
+                                        "englishPartTitle": "Strikes Again"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2011,
+                                        "englishPartTitle": "Reborn"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2003
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "24",
+                                "key": "24",
+                                "seasons": [
+                                    {
+                                        "season": 9,
+                                        "year": 2014,
+                                        "englishSeasonTitle": "Live Another Day"
+                                    },
+                                    {
+                                        "season": 8,
+                                        "year": 2010
+                                    },
+                                    {
+                                        "season": 7,
+                                        "year": 2009
+                                    },
+                                    {
+                                        "season": 6,
+                                        "year": 2007
+                                    },
+                                    {
+                                        "season": 5,
+                                        "year": 2006
+                                    },
+                                    {
+                                        "season": 4,
+                                        "year": 2005
+                                    },
+                                    {
+                                        "season": 3,
+                                        "year": 2003
+                                    },
+                                    {
+                                        "season": 2,
+                                        "year": 2002
+                                    },
+                                    {
+                                        "season": 1,
+                                        "year": 2001
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Men In Black",
+                                "key": "men-in-black",
+                                "parts": [
+                                    {
+                                        "part": 4,
+                                        "year": 2019,
+                                        "englishPartTitle": "International"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2012
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2002
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 1997
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "Mission Impossible",
+                                "key": "mission-impossible",
+                                "parts": [
+                                    {
+                                        "part": 7,
+                                        "year": 2023,
+                                        "englishPartTitle": "Dead Reckoning Part One"
+                                    },
+                                    {
+                                        "part": 6,
+                                        "year": 2018,
+                                        "englishPartTitle": "Fallout"
+                                    },
+                                    {
+                                        "part": 5,
+                                        "year": 2015,
+                                        "englishPartTitle": "Rogue Nation"
+                                    },
+                                    {
+                                        "part": 4,
+                                        "year": 2011,
+                                        "englishPartTitle": "Ghost Protocol"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2006
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2000
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 1996
+                                    }
+                                ]
+                            },
+                            {
+                                "englishName": "James Bond",
+                                "key": "james-bond",
+                                "parts": [
+                                    {
+                                        "part": 25,
+                                        "year": 2021,
+                                        "englishPartTitle": "No Time to Die"
+                                    },
+                                    {
+                                        "part": 24,
+                                        "year": 2015,
+                                        "englishPartTitle": "Spectre"
+                                    },
+                                    {
+                                        "part": 23,
+                                        "year": 2012,
+                                        "englishPartTitle": "Skyfall"
+                                    },
+                                    {
+                                        "part": 22,
+                                        "year": 2008,
+                                        "englishPartTitle": "Quantum of Solace"
+                                    },
+                                    {
+                                        "part": 21,
+                                        "year": 2006,
+                                        "englishPartTitle": "Casino Royale"
+                                    },
+                                    {
+                                        "part": 20,
+                                        "year": 2002,
+                                        "englishPartTitle": "Die Another Day"
+                                    },
+                                    {
+                                        "part": 19,
+                                        "year": 1999,
+                                        "englishPartTitle": "The World Is Not Enough"
+                                    },
+                                    {
+                                        "part": 18,
+                                        "year": 1997,
+                                        "englishPartTitle": "Tomorrow Never Dies"
+                                    },
+                                    {
+                                        "part": 17,
+                                        "year": 1995,
+                                        "englishPartTitle": "GoldenEye"
+                                    },
+                                    {
+                                        "part": 16,
+                                        "year": 1989,
+                                        "englishPartTitle": "Licence to Kill"
+                                    },
+                                    {
+                                        "part": 15,
+                                        "year": 1987,
+                                        "englishPartTitle": "The Living Daylights"
+                                    },
+                                    {
+                                        "part": 14,
+                                        "year": 1985,
+                                        "englishPartTitle": "A View to a Kill"
+                                    },
+                                    {
+                                        "part": 13,
+                                        "year": 1983,
+                                        "englishPartTitle": "Octopussy"
+                                    },
+                                    {
+                                        "part": 12,
+                                        "year": 1981,
+                                        "englishPartTitle": "For Your Eyes Only"
+                                    },
+                                    {
+                                        "part": 11,
+                                        "year": 1979,
+                                        "englishPartTitle": "Moonraker"
+                                    },
+                                    {
+                                        "part": 10,
+                                        "year": 1977,
+                                        "englishPartTitle": "The Spy Who Loved Me"
+                                    },
+                                    {
+                                        "part": 9,
+                                        "year": 1974,
+                                        "englishPartTitle": "The Man with the Golden Gun"
+                                    },
+                                    {
+                                        "part": 8,
+                                        "year": 1973,
+                                        "englishPartTitle": "Live and Let Die"
+                                    },
+                                    {
+                                        "part": 7,
+                                        "year": 1971,
+                                        "englishPartTitle": "Diamonds Are Forever"
+                                    },
+                                    {
+                                        "part": 6,
+                                        "year": 1969,
+                                        "englishPartTitle": "On Her Majesty's Secret Service"
+                                    },
+                                    {
+                                        "part": 5,
+                                        "year": 1967,
+                                        "englishPartTitle": "You Only Live Twice"
+                                    },
+                                    {
+                                        "part": 4,
+                                        "year": 1965,
+                                        "englishPartTitle": "Thunderball"
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 1964,
+                                        "englishPartTitle": "Goldfinger"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 1963,
+                                        "englishPartTitle": "From Russia with Love"
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 1962,
+                                        "englishPartTitle": "Dr. No"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Assassin",
+                        "key": "assassin",
+                        "children": [
+                            {
+                                "englishName": "John Wick",
+                                "key": "john-wick",
+                                "parts": [
+                                    {
+                                        "part": 4,
+                                        "year": 2023
+                                    },
+                                    {
+                                        "part": 3,
+                                        "year": 2019,
+                                        "englishPartTitle": "Parabellum"
+                                    },
+                                    {
+                                        "part": 2,
+                                        "year": 2017
+                                    },
+                                    {
+                                        "part": 1,
+                                        "year": 2014
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Ninja",
+                                "key": "ninja",
+                                "children": [
+                                    {
+                                        "englishName": "Ninja Assassin",
+                                        "key": "ninja-assassin"
+                                    },
+                                    {
+                                        "englishName": "Teenage Mutant Ninja Turtles",
+                                        "key": "teenage-mutant-ninja-turtles",
+                                        "parts": [
+                                            {
+                                                "part": 5,
+                                                "year": 2016,
+                                                "englishPartTitle": "Out of the Shadows"
+                                            },
+                                            {
+                                                "part": 4,
+                                                "year": 2014,
+                                                "englishPartTitle": "Teenage Mutant Ninja Turtles"
+                                            },
+                                            {
+                                                "part": 3,
+                                                "year": 1993,
+                                                "englishPartTitle": "Teenage Mutant Ninja Turtles III"
+                                            },
+                                            {
+                                                "part": 2,
+                                                "year": 1991,
+                                                "englishPartTitle": "The Secret of the Ooze"
+                                            },
+                                            {
+                                                "part": 1,
+                                                "year": 1990,
+                                                "englishPartTitle": "Teenage Mutant Ninja Turtles"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "age": "Medieval Times",
+        "key": "medieval",
+        "children": [
+            {
+                "title": "Magic",
+                "key": "magic",
+                "children": [
+                    {
+                        "englishName": "Harry Potter",
+                        "key": "harry-potter",
+                        "parts": [
+                            {
+                                "part": 8,
+                                "year": 2011,
+                                "englishPartTitle": "The Deathly Hallows 2"
+                            },
+                            {
+                                "part": 7,
+                                "year": 2010,
+                                "englishPartTitle": "The Deathly Hallows 1"
+                            },
+                            {
+                                "part": 6,
+                                "year": 2009,
+                                "englishPartTitle": "The Half-Blood Prince"
+                            },
+                            {
+                                "part": 5,
+                                "year": 2007,
+                                "englishPartTitle": "The Order of the Phoenix"
+                            },
+                            {
+                                "part": 4,
+                                "year": 2005,
+                                "englishPartTitle": "The Goblet of Fire"
+                            },
+                            {
+                                "part": 3,
+                                "year": 2004,
+                                "englishPartTitle": "The Prisoner of Azkaban"
+                            },
+                            {
+                                "part": 2,
+                                "year": 2002,
+                                "englishPartTitle": "The Chamber of Secrets"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2001,
+                                "englishPartTitle": "The Sorcerer's Stone"
+                            }
+                        ]
+                    },
+                    {
+                        "englishName": "Fantastic Beasts",
+                        "key": "fantastic-beasts",
+                        "parts": []
+                    }
+                ]
+            },
+            {
+                "title": "Medieval Warfare",
+                "key": "medieval-warfare",
+                "children": [
+                    {
+                        "englishName": "The Lord Of The Rings",
+                        "key": "the-lord-of-the-rings",
+                        "parts": [
+                            {
+                                "part": 3,
+                                "year": 2003,
+                                "englishPartTitle": "The Return of the King"
+                            },
+                            {
+                                "part": 2,
+                                "year": 2002,
+                                "englishPartTitle": "The Two Towers"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2001,
+                                "englishPartTitle": "The Fellowship of the Ring"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "age": "Ancient Times",
+        "key": "ancient",
+        "children": [
+            {
+                "englishName": "300",
+                "key": "300",
+                "parts": [
+                    {
+                        "part": 2,
+                        "year": 2014,
+                        "englishPartTitle": "Rise of an Empire"
+                    },
+                    {
+                        "part": 1,
+                        "year": 2006
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "age": "Prehistoric Times",
+        "key": "prehistoric",
+        "children": [
+            {
+                "englishName": "Ice Age",
+                "key": "ice-age",
+                "parts": [
+                    {
+                        "part": 6,
+                        "year": 2022,
+                        "englishPartTitle": "The Ice Age Adventures of Buck Wild"
+                    },
+                    {
+                        "part": 5,
+                        "year": 2016,
+                        "englishPartTitle": "Collision Course"
+                    },
+                    {
+                        "part": 4,
+                        "year": 2012,
+                        "englishPartTitle": "Continental Drift"
+                    },
+                    {
+                        "part": 3,
+                        "year": 2009,
+                        "englishPartTitle": "Dawn of the Dinosaurs"
+                    },
+                    {
+                        "part": 2,
+                        "year": 2006,
+                        "englishPartTitle": "The Meltdown"
+                    },
+                    {
+                        "part": 1,
+                        "year": 2002,
+                        "englishPartTitle": "Ice Age"
+                    }
+                ]
+            },
+            {
+                "title": "Jurassic",
+                "key": "jurassic",
+                "children": [
+                    {
+                        "englishName": "Jurassic World",
+                        "key": "jurassic-world",
+                        "parts": [
+                            {
+                                "part": 3,
+                                "year": 2022,
+                                "englishPartTitle": "Dominion"
+                            },
+                            {
+                                "part": 2,
+                                "year": 2018,
+                                "englishPartTitle": "Fallen Kingdom"
+                            },
+                            {
+                                "part": 1,
+                                "year": 2015,
+                                "englishPartTitle": "Jurassic World"
+                            }
+                        ]
+                    },
+                    {
+                        "englishName": "Jurassic Park",
+                        "key": "jurassic-park",
+                        "parts": [
+                            {
+                                "part": 3,
+                                "year": 2001,
+                                "route": "/films/phimmoi/jurassic-park/part3"
+                            },
+                            {
+                                "part": 2,
+                                "year": 1997,
+                                "englishPartTitle": "The Lost World",
+                                "route": "/films/phimmoi/jurassic-park/part2"
+                            },
+                            {
+                                "part": 1,
+                                "year": 1993,
+                                "route": "/films/phimmoi/jurassic-park/part1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

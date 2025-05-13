@@ -72,7 +72,7 @@ function EnglishVocabulary() {
                                                 <ul>
                                                     {scenes.map((scene, i) => (
                                                         <li key={i}>
-                                                            Scene {scene.scene}, shot {scene.shot} —{' '}
+                                                            Scene {scene.scene}, shot {scene.shot} {' '}
                                                             {scene.character || ''}: {scene.dialogue}
                                                         </li>
                                                     ))}

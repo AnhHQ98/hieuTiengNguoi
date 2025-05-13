@@ -36,11 +36,6 @@
                         "shot": 1,
                         "character": "",
                         "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
-                    },
-                    {
-                        "shot": 1,
-                        "character": "",
-                        "dialogue": "Everybody, heads up! Keep it clear, now. Keep it clear! Stand back! Bring it forward, come on! Slow it down!"
                     }
                 ]
             }
@@ -211,11 +206,6 @@
                         "shot": 3,
                         "character": "",
                         "dialogue": "Move in. On your ready."
-                    },
-                    {
-                        "shot": 4,
-                        "character": "Robert Muldoon",
-                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
                     }
                 ]
             }
@@ -257,7 +247,7 @@
                     {
                         "shot": 4,
                         "character": "Robert Muldoon",
-                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
                     }
                 ]
             }
@@ -271,7 +261,7 @@
                     {
                         "shot": 4,
                         "character": "Robert Muldoon",
-                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
                     }
                 ]
             }
@@ -285,7 +275,91 @@
                     {
                         "shot": 4,
                         "character": "Robert Muldoon",
-                        "dialogue": "I want tasers on full charge. Steady! Go on. Step back in."
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "steady": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "go on": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "step back in": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 4,
+                        "character": "Robert Muldoon",
+                        "dialogue": "I want tasers on full charge. Steady, go on. Step back in."
+                    }
+                ]
+            }
+        }
+    },
+    "ready": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 5,
+                        "character": "",
+                        "dialogue": "Ready. Move it."
+                    }
+                ]
+            }
+        }
+    },
+    "and": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 6,
+                        "character": "Robert Muldoon",
+                        "dialogue": "And push. Locked. Loading team, step away."
+                    }
+                ]
+            }
+        }
+    },
+    "push": {
+        "Jurassic Park": {
+            "part": 1,
+            "scenes": {
+                "1": [
+                    {
+                        "shot": 6,
+                        "character": "Robert Muldoon",
+                        "dialogue": "And push. Locked. Loading team, step away."
                     }
                 ]
             }

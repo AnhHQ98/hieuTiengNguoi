@@ -29,6 +29,15 @@
             "ngay lúc này"
         ]
     },
+    "and": {
+        "type": [
+            "conjunction"
+        ],
+        "subtype": "coordinating",
+        "vietnameseMeaning": [
+            "và"
+        ]
+    },
     "clear": {
         "type": [
             "adjective"
@@ -74,6 +83,42 @@
         "vietnameseMeaning": {
             "verb": [
                 "di chuyển"
+            ]
+        }
+    },
+    "push": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": [
+                "đẩy",
+                "ấn"
+            ]
+        }
+    },
+    "ready": {
+        "type": [
+            "adjective"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adjective": [
+                "sẵn sàng",
+                "chuẩn bị"
+            ]
+        }
+    },
+    "steady": {
+        "type": [
+            "noun"
+        ],
+        "subtype": "interjection",
+        "vietnameseMeaning": {
+            "noun": [
+                "giữ vững",
+                "bình tĩnh"
             ]
         }
     },
@@ -179,6 +224,7 @@
         ],
         "subtype": "phrase",
         "vietnameseMeaning": [
+            "ở trạng thái sạc đầy",
             "luôn được sạc đầy"
         ]
     },
@@ -202,6 +248,17 @@
             "mau lên"
         ]
     },
+    "go on": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "tiếp tục đi",
+            "làm tiếp đi",
+            "đi tiếp đi"
+        ]
+    },
     "slow it down": {
         "type": [
             "verb"
@@ -220,6 +277,20 @@
         "subtype": "phrase",
         "vietnameseMeaning": [
             "đứng lùi lại"
+        ]
+    },
+    "step back in": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "bước lùi vào trong",
+            "bước lùi lại vào trong",
+            "quay lại vào trong",
+            "quay trở lại vào trong",
+            "quay lại vào bên trong",
+            "quay trở lại vào bên trong"
         ]
     },
     "everybody": {

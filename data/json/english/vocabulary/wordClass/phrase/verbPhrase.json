@@ -4,6 +4,11 @@
         "subtype": "phrase",
         "vietnameseMeaning": ["nhanh lên", "mau lên"]
     },
+    "go on": {
+        "type": ["verb"],
+        "subtype": "phrase",
+        "vietnameseMeaning": ["tiếp tục đi", "làm tiếp đi", "đi tiếp đi"]
+    },
     "slow it down": {
         "type": ["verb"],
         "subtype": "phrase",
@@ -16,5 +21,14 @@
         "type": ["verb"],
         "subtype": "phrase",
         "vietnameseMeaning": ["đứng lùi lại"]
+    },
+    "step back in": {
+        "type": ["verb"],
+        "subtype": "phrase",
+        "vietnameseMeaning": [
+            "bước lùi vào trong", "bước lùi lại vào trong",
+            "quay lại vào trong", "quay trở lại vào trong",
+            "quay lại vào bên trong", "quay trở lại vào bên trong"
+        ]
     }
 }

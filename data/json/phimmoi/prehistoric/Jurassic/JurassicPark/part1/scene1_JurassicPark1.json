@@ -39,8 +39,8 @@
             "name": "Robert Muldoon"
         },
         "subtitle": {
-            "engSub": "I want tasers on full charge. Steady! Go on. Step back in.",
-            "vietSub": "Tôi muốn các khẩu súng điện luôn được sạc đầy. Nào, trở vào đó đi"
+            "engSub": "I want tasers on full charge. Steady, go on. Step back in.",
+            "vietSub": "Tôi muốn các khẩu súng điện ở trạng thái sạc đầy. Giữ vững, tiếp tục đi. Bước lùi vào trong."
         }     
     },
     {
@@ -51,7 +51,7 @@
         },
         "subtitle": {
             "engSub": "Ready. Move it.",
-            "vietSub": "Sẵn sàng. Di chuyển đi."
+            "vietSub": "Sẵn sàng. Di chuyển nó."
         }     
     },
     {
@@ -62,7 +62,7 @@
         },
         "subtitle": {
             "engSub": "And push. Locked. Loading team, step away.",
-            "vietSub": "Và ấn. Đã khóa rồi. Đội bốc hàng, tránh qua một bên."
+            "vietSub": "Và đẩy. Đã khóa rồi. Đội bốc hàng, tránh qua một bên."
         }     
     },
     {

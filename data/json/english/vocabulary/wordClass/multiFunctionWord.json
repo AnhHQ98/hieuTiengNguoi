@@ -20,11 +20,47 @@
             "verb": ["vào trong", "vào bên trong"]
         }
     },
+    "lock": {
+        "type": ["verb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": {
+                "mean": ["khoá", "khoá lại"],
+                "tenses": {
+                    "past": {
+                        "word": "locked",
+                        "mean": ["đã khoá"]
+                    }
+                }
+            }    
+        }
+    },
     "move": {
         "type": ["verb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
             "verb": ["di chuyển"]
+        }
+    },
+    "push": {
+        "type": ["verb"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": ["đẩy", "ấn"]
+        }
+    },
+    "ready": {
+        "type": ["adjective"],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "adjective": ["sẵn sàng", "chuẩn bị"]
+        }
+    },
+    "steady": {
+        "type": ["noun"],
+        "subtype": "interjection",
+        "vietnameseMeaning": {
+            "noun": ["giữ vững", "bình tĩnh"]
         }
     },
     "taser": {
