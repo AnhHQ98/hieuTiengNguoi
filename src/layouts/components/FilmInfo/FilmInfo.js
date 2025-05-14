@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import { normalizeEnglishWord } from './utils/normalizeEnglishWord';
 import { groupPhraseWord } from './utils/groupPhraseWord';
 import { generateVietSubSegment } from './utils/generateVietSubSegment';
@@ -67,8 +67,7 @@ function FilmInfo({ film_json, sceneContent, onSceneClick }) {
                                                 <input
                                                     key={i}
                                                     id={
-                                                        englishWord.replace(/\s+/g, '-') +
-                                                        '-' +
+                                                        englishWord.replace(/\s+/g, '-') + '-' +
                                                         englishWordCount[englishWord]
                                                     }
                                                     className={cx('engSubWord')}

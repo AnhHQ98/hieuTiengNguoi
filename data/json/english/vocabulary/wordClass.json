@@ -69,10 +69,34 @@
         ],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": [
+            "adverb": [
                 "vào trong",
                 "vào bên trong"
             ]
+        }
+    },
+    "lock": {
+        "type": [
+            "verb"
+        ],
+        "subtype": "multiFunction",
+        "vietnameseMeaning": {
+            "verb": {
+                "meaning": [
+                    "khoá",
+                    "khoá lại"
+                ],
+                "tenses": {
+                    "pastSimple": {
+                        "word": "locked",
+                        "meaning": [
+                            "đã khoá",
+                            "đã khoá lại",
+                            "đã khoá rồi"
+                        ]
+                    }
+                }
+            }
         }
     },
     "move": {
@@ -81,9 +105,11 @@
         ],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": [
-                "di chuyển"
-            ]
+            "verb": {
+                "meaning": [
+                    "di chuyển"
+                ]
+            }
         }
     },
     "push": {
@@ -92,10 +118,12 @@
         ],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": [
-                "đẩy",
-                "ấn"
-            ]
+            "verb": {
+                "meaning": [
+                    "đẩy",
+                    "ấn"
+                ]
+            }
         }
     },
     "ready": {
@@ -112,11 +140,11 @@
     },
     "steady": {
         "type": [
-            "noun"
+            "interjection"
         ],
-        "subtype": "interjection",
+        "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "noun": [
+            "interjection": [
                 "giữ vững",
                 "bình tĩnh"
             ]
@@ -128,17 +156,19 @@
         ],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "noun": [
-                "khẩu súng điện",
-                "súng điện"
-            ]
-        },
-        "plural": "tasers",
-        "vietnameseMeaningPlural": {
-            "noun": [
-                "những khẩu súng điện",
-                "các khẩu súng điện"
-            ]
+            "noun": {
+                "meaning": [
+                    "khẩu súng điện",
+                    "súng điện"
+                ],
+                "plural": {
+                    "word": "tasers",
+                    "meaning": [
+                        "những khẩu súng điện",
+                        "các khẩu súng điện"
+                    ]
+                }
+            }
         }
     },
     "that": {
@@ -175,9 +205,11 @@
         ],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": [
-                "muốn"
-            ]
+            "verb": {
+                "meaning": [
+                    "muốn"
+                ]
+            }
         }
     },
     "head": {

@@ -17,7 +17,7 @@
         "type": ["adverb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": ["vào trong", "vào bên trong"]
+            "adverb": ["vào trong", "vào bên trong"]
         }
     },
     "lock": {
@@ -25,11 +25,11 @@
         "subtype": "multiFunction",
         "vietnameseMeaning": {
             "verb": {
-                "mean": ["khoá", "khoá lại"],
+                "meaning": ["khoá", "khoá lại"],
                 "tenses": {
-                    "past": {
+                    "pastSimple": {
                         "word": "locked",
-                        "mean": ["đã khoá"]
+                        "meaning": ["đã khoá rồi", "đã khoá lại", "đã khoá"]
                     }
                 }
             }    
@@ -39,14 +39,18 @@
         "type": ["verb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": ["di chuyển"]
+            "verb": {
+                "meaning": ["di chuyển"]
+            }
         }
     },
     "push": {
         "type": ["verb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": ["đẩy", "ấn"]
+            "verb": {
+                "meaning": ["đẩy", "ấn"]
+            }
         }
     },
     "ready": {
@@ -57,21 +61,23 @@
         }
     },
     "steady": {
-        "type": ["noun"],
-        "subtype": "interjection",
+        "type": ["interjection"],
+        "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "noun": ["giữ vững", "bình tĩnh"]
+            "interjection": ["giữ vững", "bình tĩnh"]
         }
     },
     "taser": {
         "type": ["noun"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "noun": ["khẩu súng điện", "súng điện"]
-        },
-        "plural": "tasers",
-        "vietnameseMeaningPlural": {
-            "noun": ["những khẩu súng điện", "các khẩu súng điện"]
+            "noun": {
+                "meaning": ["khẩu súng điện", "súng điện"],
+                "plural": {
+                    "word": "tasers",
+                    "meaning": ["những khẩu súng điện", "các khẩu súng điện"]
+                }
+            } 
         }
     },
     "that": {
@@ -95,7 +101,9 @@
         "type": ["verb"],
         "subtype": "multiFunction",
         "vietnameseMeaning": {
-            "verb": ["muốn"]
+            "verb": {
+                "meaning": ["muốn"]
+            }
         }
     }
 }
